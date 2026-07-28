@@ -14,16 +14,37 @@ module.exports = {
           700: "#332821",
           600: "#4a3a2e",
           500: "#6b5540",
+          // 100/200/300/400 were referenced throughout the site (card
+          // placeholders, skeleton loaders, badges, empty states) but were
+          // never actually defined here - Tailwind silently drops classes
+          // for undefined shades, so every one of those elements has been
+          // rendering with NO background at all. That's most of what read
+          // as flat "white on off-white": placeholders that were supposed
+          // to have a soft warm tan tint had nothing. Filling out the ramp
+          // fixes it.
+          400: "#93764f",
+          300: "#c7a877",
+          200: "#ddc7a1",
+          100: "#ecdfc9",
         },
+        // Aligned to the shop's actual monogram ink color (a warm rust
+        // orange) so the brand accent used across the site - sale badges,
+        // links, buttons - genuinely matches the logo instead of an
+        // unrelated terracotta guess.
         clay: {
-          400: "#d98f6a",
-          500: "#c76a45",
-          600: "#b5542f",
+          400: "#d9824c",
+          500: "#c2541b",
+          600: "#9c4216",
         },
+        // Deepened from the original near-white scale (50 was #fbf8f3,
+        // barely distinguishable from stark white) into a warmer, richer
+        // "aged paper" cream range so surfaces actually read as antique
+        // parchment instead of flat off-white.
         parchment: {
-          50: "#fbf8f3",
-          100: "#f4ede1",
-          200: "#e9dcc7",
+          50: "#f8f1e3",
+          100: "#eeddba",
+          200: "#e0c48c",
+          300: "#cda868",
         },
       },
       fontFamily: {

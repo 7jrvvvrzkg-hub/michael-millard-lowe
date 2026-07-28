@@ -4,8 +4,23 @@ import { BUSINESS } from "@/lib/constants";
 
 export default function Hero({ heroImage }) {
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-parchment-100 via-parchment-50 to-espresso-100/60">
-      <div className="mx-auto grid max-w-7xl items-center gap-10 px-4 py-14 sm:px-6 md:grid-cols-2 md:py-20 lg:px-8">
+    <section className="relative overflow-hidden bg-parchment-100">
+      {/* Blurred shop-interior photo as an ambient backdrop - scaled up
+          beyond the container so the blur filter never reveals a sharp
+          edge, then washed with a warm parchment/espresso gradient so the
+          foreground text stays easily readable over it. */}
+      <div className="absolute inset-0" aria-hidden="true">
+        <Image
+          src="/shop-interior.webp"
+          alt=""
+          fill
+          priority
+          className="scale-110 object-cover object-center blur-2xl"
+        />
+        <div className="absolute inset-0 bg-gradient-to-br from-parchment-50/95 via-parchment-50/90 to-espresso-950/50" />
+      </div>
+
+      <div className="relative mx-auto grid max-w-7xl items-center gap-10 px-4 py-14 sm:px-6 md:grid-cols-2 md:py-20 lg:px-8">
         <div className="animate-fadeInUp">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-clay-600">
             {BUSINESS.tagline} &middot; Norfolk, VA

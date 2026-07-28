@@ -7,12 +7,20 @@ html {
 }
 
 body {
-  background-color: #fbf8f3;
+  background-color: #f8f1e3;
+  /* Two soft, warm radial washes rather than a flat fill - gives the page
+     canvas a faint sense of depth/aging (like toned paper) instead of the
+     flat, slightly cheap-looking solid off-white it had before. Subtle by
+     design: it should read as "warm room light," not a visible pattern. */
+  background-image:
+    radial-gradient(ellipse 900px 500px at 15% -10%, rgba(194, 84, 27, 0.06), transparent 60%),
+    radial-gradient(ellipse 900px 600px at 100% 10%, rgba(18, 14, 11, 0.05), transparent 55%);
+  background-attachment: fixed;
 }
 
 ::selection {
-  background-color: #c76a45;
-  color: #fbf8f3;
+  background-color: #c2541b;
+  color: #f8f1e3;
 }
 
 /* Subtle shared transition for anything that changes on hover */

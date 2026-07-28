@@ -1,4 +1,5 @@
 import Hero from "@/components/Hero";
+import StorySection from "@/components/StorySection";
 import CategoryGrid from "@/components/CategoryGrid";
 import ListingCard from "@/components/ListingCard";
 import Link from "next/link";
@@ -14,6 +15,8 @@ export default function HomePage() {
   return (
     <>
       <Hero heroImage={featured[0]?.images?.[0]} />
+
+      <StorySection />
 
       <CategoryGrid listings={all} />
 
