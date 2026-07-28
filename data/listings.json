@@ -5,10 +5,23 @@
     "price": 900,
     "compareAtPrice": 1020,
     "condition": "Vintage, Good Condition",
-    "dimensions": { "w": 6.25, "d": 6.25, "h": 8.75, "unit": "in" },
+    "dimensions": {
+      "w": 6.25,
+      "d": 6.25,
+      "h": 8.75,
+      "unit": "in"
+    },
     "description": "A striking pair of Old Paris porcelain Medici-form vases, France, circa 1820-1830 (Charles X period). Hand-painted with gilt accents in the grand continental tradition. Minor wear to gilding consistent with age.",
     "category": "decor",
-    "tags": ["vase", "pair", "porcelain", "old paris", "19th century", "french", "gilt"],
+    "tags": [
+      "vase",
+      "pair",
+      "porcelain",
+      "old paris",
+      "19th century",
+      "french",
+      "gilt"
+    ],
     "era": "Charles X, c. 1820-1830",
     "origin": "France",
     "images": [
@@ -30,10 +43,21 @@
     "price": 594,
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
-    "dimensions": { "w": 7, "d": 4.75, "h": 10, "unit": "in" },
+    "dimensions": {
+      "w": 7,
+      "d": 4.75,
+      "h": 10,
+      "unit": "in"
+    },
     "description": "Elegant bronze sconces with a cast portrait of Diane de Poitiers. These ornate, French Renaissance-style candleholders feature a rich, deeply patinated bronze finish and would anchor a hallway, dining room or library beautifully.",
     "category": "lighting",
-    "tags": ["sconce", "pair", "bronze", "french renaissance", "candle"],
+    "tags": [
+      "sconce",
+      "pair",
+      "bronze",
+      "french renaissance",
+      "candle"
+    ],
     "era": "Henri II Style",
     "origin": "France",
     "images": [
@@ -52,10 +76,21 @@
     "price": 6400,
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
-    "dimensions": { "w": 65, "d": 27, "h": 94, "unit": "in" },
+    "dimensions": {
+      "w": 65,
+      "d": 27,
+      "h": 94,
+      "unit": "in"
+    },
     "description": "A stunning 18th century French Regency armoire, crafted from rich walnut with a timeless, elegant silhouette. Featuring shelved interior storage and beautifully aged patina throughout. A true statement piece for an entry, bedroom or library.",
     "category": "furniture",
-    "tags": ["armoire", "storage", "walnut", "18th century", "french regency"],
+    "tags": [
+      "armoire",
+      "storage",
+      "walnut",
+      "18th century",
+      "french regency"
+    ],
     "era": "18th Century, French Regency",
     "origin": "France",
     "images": [
@@ -74,10 +109,21 @@
     "price": 1550,
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
-    "dimensions": { "w": 30.5, "d": 24.5, "h": 20.5, "unit": "in" },
+    "dimensions": {
+      "w": 30.5,
+      "d": 24.5,
+      "h": 20.5,
+      "unit": "in"
+    },
     "description": "A stunning 19th century Napoleon III painted tray presented on a custom Art Deco wrought iron stand. Vivid gold leaf and intricate floral detailing make this a striking occasional or drinks table.",
     "category": "decor",
-    "tags": ["tray table", "gold leaf", "napoleon iii", "art deco", "19th century"],
+    "tags": [
+      "tray table",
+      "gold leaf",
+      "napoleon iii",
+      "art deco",
+      "19th century"
+    ],
     "era": "19th Century, Napoleon III",
     "origin": "France",
     "images": [
@@ -96,10 +142,21 @@
     "price": 2500,
     "compareAtPrice": null,
     "condition": "Vintage, Excellent Condition",
-    "dimensions": { "w": 28.5, "d": 29, "h": 43.5, "unit": "in" },
+    "dimensions": {
+      "w": 28.5,
+      "d": 29,
+      "h": 43.5,
+      "unit": "in"
+    },
     "description": "Elevate any room with this vintage-inspired Louis XV style armchair. Newly upholstered in a modern chevron-patterned dove gray velvet, this piece pairs classic carved beechwood curves with a fresh, livable finish.",
     "category": "furniture",
-    "tags": ["chair", "seating", "velvet", "louis xv style", "armchair"],
+    "tags": [
+      "chair",
+      "seating",
+      "velvet",
+      "louis xv style",
+      "armchair"
+    ],
     "era": "Louis XV Style",
     "origin": "France",
     "images": [
@@ -118,10 +175,21 @@
     "price": 5500,
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
-    "dimensions": { "w": 8.88, "d": 8.88, "h": 59.75, "unit": "in" },
+    "dimensions": {
+      "w": 8.88,
+      "d": 8.88,
+      "h": 59.75,
+      "unit": "in"
+    },
     "description": "Elegant Edwardian-style marble pedestals, hand carved from premium Carrara marble in a timeless, traditional design. Tall and slender, they are ideal for displaying sculpture, urns or botanicals.",
     "category": "decor",
-    "tags": ["pedestal", "marble", "carrara", "edwardian", "display stand"],
+    "tags": [
+      "pedestal",
+      "marble",
+      "carrara",
+      "edwardian",
+      "display stand"
+    ],
     "era": "Edwardian",
     "origin": "Italy",
     "images": [
@@ -140,10 +208,21 @@
     "price": 4500,
     "compareAtPrice": null,
     "condition": "Antique, Restored",
-    "dimensions": { "w": 36.25, "d": 3.75, "h": 70, "unit": "in" },
+    "dimensions": {
+      "w": 36.25,
+      "d": 3.75,
+      "h": 70,
+      "unit": "in"
+    },
     "description": "An exquisite 18th century Louis XVI mirror, expertly restored from a vintage state. This grand, gold-framed wall mirror features antique glass character and graceful neoclassical detailing.",
     "category": "art-mirrors",
-    "tags": ["mirror", "gold frame", "18th century", "louis xvi", "wall mirror"],
+    "tags": [
+      "mirror",
+      "gold frame",
+      "18th century",
+      "louis xvi",
+      "wall mirror"
+    ],
     "era": "18th Century, Louis XVI",
     "origin": "France",
     "images": [
@@ -162,10 +241,21 @@
     "price": 6500,
     "compareAtPrice": null,
     "condition": "Antique, Restored",
-    "dimensions": { "w": 70.5, "d": 24.5, "h": 31, "unit": "in" },
+    "dimensions": {
+      "w": 70.5,
+      "d": 24.5,
+      "h": 31,
+      "unit": "in"
+    },
     "description": "An exquisite Napoleon III-style desk with a freshly lacquered black finish, gilded tooled red leather writing surface, and chiseled bronze accents. An ornate, executive statement piece.",
     "category": "furniture",
-    "tags": ["desk", "lacquer", "leather top", "bronze", "napoleon iii"],
+    "tags": [
+      "desk",
+      "lacquer",
+      "leather top",
+      "bronze",
+      "napoleon iii"
+    ],
     "era": "Napoleon III",
     "origin": "France",
     "images": [
@@ -184,10 +274,21 @@
     "price": 1250,
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
-    "dimensions": { "w": 30, "d": 2, "h": 33.5, "unit": "in" },
+    "dimensions": {
+      "w": 30,
+      "d": 2,
+      "h": 33.5,
+      "unit": "in"
+    },
     "description": "A vintage Federal-style portrait painting in oil on walnut panel. This early 19th century artwork features a striking figure rendered in black, blue and white, full of period character.",
     "category": "art-mirrors",
-    "tags": ["painting", "portrait", "oil on panel", "federal style", "19th century"],
+    "tags": [
+      "painting",
+      "portrait",
+      "oil on panel",
+      "federal style",
+      "19th century"
+    ],
     "era": "Early 19th Century, Federal",
     "origin": "United States",
     "images": [
@@ -206,10 +307,21 @@
     "price": 3800,
     "compareAtPrice": null,
     "condition": "Vintage, Excellent Condition",
-    "dimensions": { "w": 75, "d": 35, "h": 36, "unit": "in" },
+    "dimensions": {
+      "w": 75,
+      "d": 35,
+      "h": 36,
+      "unit": "in"
+    },
     "description": "An elegant Louis XV-style canapé from the early 20th century, featuring luxurious dark gray silk velvet upholstery and plush down-filled cushions over a hand-carved frame.",
     "category": "furniture",
-    "tags": ["sofa", "canape", "velvet", "louis xv style", "seating"],
+    "tags": [
+      "sofa",
+      "canape",
+      "velvet",
+      "louis xv style",
+      "seating"
+    ],
     "era": "Early 20th Century, Louis XV Style",
     "origin": "France",
     "images": [
@@ -228,10 +340,20 @@
     "price": 354,
     "compareAtPrice": null,
     "condition": "Vintage, Newly Rewired",
-    "dimensions": { "w": 17, "d": 17, "h": 29, "unit": "in" },
+    "dimensions": {
+      "w": 17,
+      "d": 17,
+      "h": 29,
+      "unit": "in"
+    },
     "description": "A captivating Japanese Satsuma lamp, crafted in hand-painted porcelain with a distinctive black ground. Newly rewired and fitted with a 17-inch diameter shade, ready to install.",
     "category": "lighting",
-    "tags": ["lamp", "porcelain", "satsuma", "japanese"],
+    "tags": [
+      "lamp",
+      "porcelain",
+      "satsuma",
+      "japanese"
+    ],
     "era": "Vintage",
     "origin": "Japan",
     "images": [
@@ -250,10 +372,21 @@
     "price": 1140,
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
-    "dimensions": { "w": 6, "d": 6, "h": 12, "unit": "in" },
+    "dimensions": {
+      "w": 6,
+      "d": 6,
+      "h": 12,
+      "unit": "in"
+    },
     "description": "Elegant French Rococo Revival bronze doré candlesticks, circa 1860. Heavily detailed gilt-bronze metalwork lends a touch of continental luxury to any tablescape or mantel.",
     "category": "decor",
-    "tags": ["candlestick", "pair", "bronze dore", "rococo revival", "1860"],
+    "tags": [
+      "candlestick",
+      "pair",
+      "bronze dore",
+      "rococo revival",
+      "1860"
+    ],
     "era": "1860, Rococo Revival",
     "origin": "France",
     "images": [
@@ -265,5 +398,4271 @@
     "sourceUrl": "https://www.chairish.com/product/996462/french-rococo-revival-bronze-dore-candlesticks-1860-a-pair",
     "sourceProductId": "996462",
     "createdAt": "2025-07-19T12:00:00.000Z"
+  },
+  {
+    "id": "monumental-french-louis-xv-style-bergere",
+    "title": "Monumental French Louis XV Style Bergere",
+    "price": 3500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 35.25,
+      "d": 36.0,
+      "h": 39.5,
+      "unit": "in"
+    },
+    "description": "A monumental Louis XV-style bergere with generously scaled proportions and a deep, comfortable seat. Hand-carved from solid wood in the sweeping curves and cabriole legs the period is known for, this statement chair brings old-world presence to any room.",
+    "category": "furniture",
+    "tags": [
+      "bergere",
+      "chair",
+      "louis xv style",
+      "french",
+      "carved wood",
+      "armchair"
+    ],
+    "era": "Louis XV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/55cd2099-55e4-4493-bd8e-75b9fa691fa4/monumental-french-louis-xv-style-bergere-7145?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b726550d-bcfb-43c7-ab3d-acdbf2481bae/monumental-french-louis-xv-style-bergere-6114?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/ace9b364-2b5d-4c49-bff7-abe59d6eec20/monumental-french-louis-xv-style-bergere-8958?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fac5f4d1-c8e5-42ac-860b-4c207706cf5c/monumental-french-louis-xv-style-bergere-6273?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/36554567/monumental-french-louis-xv-style-bergere",
+    "sourceProductId": "36554567",
+    "createdAt": "2026-06-25T09:00:00.000Z"
+  },
+  {
+    "id": "1920s-hand-carved-bo-ho-mirror",
+    "title": "1920s Hand Carved Bo-Ho Mirror",
+    "price": 2800,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 38.5,
+      "d": 4.5,
+      "h": 49.75,
+      "unit": "in"
+    },
+    "description": "A dramatic 1920s hand-carved mirror with a rich polychrome finish and bohemian flair. Intricately carved wood framing surrounds the glass, lending old-world texture and a global, eclectic edge to any wall.",
+    "category": "art-mirrors",
+    "tags": [
+      "mirror",
+      "hand carved",
+      "bohemian",
+      "1920s",
+      "wall mirror",
+      "wood"
+    ],
+    "era": "1920s",
+    "origin": "Morocco",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/aae15253-a435-4ea3-a9a7-ec78910ccd4e/1920s-hand-carved-bo-ho-mirror-1884?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a70c444f-42f1-4923-874b-a59b6cc63c36/1920s-hand-carved-bo-ho-mirror-4811?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3d11ba9d-0cf3-49e0-994e-03b65d82f1f1/1920s-hand-carved-bo-ho-mirror-7578?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b6d49b9f-f94d-4d0e-9dec-1af621b3fac1/1920s-hand-carved-bo-ho-mirror-6829?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/36455630/1920s-hand-carved-bo-ho-mirror",
+    "sourceProductId": "36455630",
+    "createdAt": "2026-06-20T10:15:00.000Z"
+  },
+  {
+    "id": "georgian-style-arm-chair",
+    "title": "Georgian Style Arm Chair",
+    "price": 1800,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 26.0,
+      "d": 28.0,
+      "h": 43.5,
+      "unit": "in"
+    },
+    "description": "A regal Georgian-style armchair in rich walnut, crafted in the early 20th century. Its elegant bergere silhouette and timeless proportions make it a refined accent for a study, bedroom or seating group.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "armchair",
+      "georgian style",
+      "walnut",
+      "english"
+    ],
+    "era": "Early 20th Century, Georgian Style",
+    "origin": "England",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/97d0329c-2167-4f55-997d-2db7d58113d5/georgian-style-arm-chair-1972?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/04488d1b-1bd1-4845-85c6-49bdffc95de5/georgian-style-arm-chair-3971?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f4387a12-9379-447d-8760-fa5e1917f040/georgian-style-arm-chair-4992?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/db51a39b-93ce-4b8f-80f8-776fc1db1f87/georgian-style-arm-chair-1696?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/36455618/georgian-style-arm-chair",
+    "sourceProductId": "36455618",
+    "createdAt": "2026-06-15T14:30:00.000Z"
+  },
+  {
+    "id": "louis-xv-style-settee",
+    "title": "Louis Xv Style Settee",
+    "price": 2200,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 57.0,
+      "d": 33.0,
+      "h": 33.5,
+      "unit": "in"
+    },
+    "description": "A charming 1920s Louis XV-style settee upholstered in brick red chenille over a carved walnut frame. Cozy and inviting, this vintage lounge piece brings warm color and old-world curves to any seating arrangement.",
+    "category": "furniture",
+    "tags": [
+      "settee",
+      "sofa",
+      "louis xv style",
+      "walnut",
+      "chenille",
+      "french"
+    ],
+    "era": "1920s, Louis XV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/bdda050f-99f3-4bf6-8974-3baa2232b38d/louis-xv-style-settee-3101?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2b32d868-7ac0-40f1-ae28-1babc1a1b0b3/louis-xv-style-settee-1620?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/bc5765d8-ddef-4558-8bea-0bff5a5c2735/louis-xv-style-settee-5583?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b8717faa-4b74-40af-9f5d-cee5e00b21ef/louis-xv-style-settee-6456?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/36338239/louis-xv-style-settee",
+    "sourceProductId": "36338239",
+    "createdAt": "2026-06-10T11:45:00.000Z"
+  },
+  {
+    "id": "milo-baughman-for-coggin-white-parsons-table",
+    "title": "Milo Baughman for Coggin White Parson's Table.",
+    "price": 1950,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 39.25,
+      "d": 58.75,
+      "h": 28.25,
+      "unit": "in"
+    },
+    "description": "A sleek Milo Baughman for Coggin dining table in crisp white laminate, circa 1970s. The clean-lined parsons silhouette and included leaf extension make this a versatile mid-century modern dining or work table.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "dining table",
+      "milo baughman",
+      "mid-century modern",
+      "laminate",
+      "parsons"
+    ],
+    "era": "1970s, Mid-Century Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/158a6262-6cdd-4952-90c8-10ded39617e1/milo-baughman-for-coggin-white-parsons-table-2956?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4403b4e2-9763-44f5-93d9-7b9696f801aa/milo-baughman-for-coggin-white-parsons-table-9378?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3dd351ba-477f-46f8-be93-7a1775b6810f/milo-baughman-for-coggin-white-parsons-table-4707?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/14dc25ce-8101-456d-afe2-e27cd933cffa/milo-baughman-for-coggin-white-parsons-table-9994?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/36455827/milo-baughman-for-coggin-white-parsons-table",
+    "sourceProductId": "36455827",
+    "createdAt": "2026-06-05T16:00:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-burled-walnut-ink-well-and-stand",
+    "title": "Napoleon III Burled Walnut Ink Well and Stand",
+    "price": 210,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 6.0,
+      "d": 6.0,
+      "h": 6.0,
+      "unit": "in"
+    },
+    "description": "An antique French Napoleon III inkwell and stand in richly figured burled walnut, featuring a carved, movable pen holder. A charming heirloom-quality desk accessory full of 19th century character.",
+    "category": "furniture",
+    "tags": [
+      "inkwell",
+      "desk accessory",
+      "burled walnut",
+      "napoleon iii",
+      "french",
+      "antique"
+    ],
+    "era": "Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f07ae939-1770-42fb-9679-e45648a3f2dc/napoleon-iii-burled-walnut-ink-well-and-stand-2931?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/252b9630-ffcc-4553-9600-da3e74174d45/napoleon-iii-burled-walnut-ink-well-and-stand-7453?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/df7add1a-c561-4249-96eb-2d3900656bd4/napoleon-iii-burled-walnut-ink-well-and-stand-2288?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e8fdbf64-bf56-4527-acbf-ddc967c340f0/napoleon-iii-burled-walnut-ink-well-and-stand-2890?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/996434/napoleon-iii-burled-walnut-unusual-ink-well-and-stand",
+    "sourceProductId": "996434",
+    "createdAt": "2026-05-30T09:30:00.000Z"
+  },
+  {
+    "id": "1860s-french-urn-with-religious-motif",
+    "title": "1860s French Urn With Religious Motif",
+    "price": 170,
+    "compareAtPrice": 210,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 5.0,
+      "d": 3.5,
+      "h": 9.0,
+      "unit": "in"
+    },
+    "description": "An ornate 1860s French ceramic urn with a religious motif rendered in classic gold and white glaze. Intricate griffin detailing and a lovely aged patina speak to its 19th century origins.",
+    "category": "decor",
+    "tags": [
+      "urn",
+      "ceramic",
+      "religious motif",
+      "19th century",
+      "french",
+      "antique"
+    ],
+    "era": "1860s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a911bcf7-3c24-484f-8a6b-e7324b08e7a3/1860s-french-urn-with-religious-motif-6613?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d5ed557f-2416-49f9-91a8-cdc181c61892/1860s-french-urn-with-religious-motif-4159?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a052bbf0-a477-42e0-871c-e0b255ccc95d/1860s-french-urn-with-religious-motif-4558?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/996542/1860s-french-urn-with-religious-motif",
+    "sourceProductId": "996542",
+    "createdAt": "2026-05-25T13:15:00.000Z"
+  },
+  {
+    "id": "french-choisy-le-roi-asparagus-server",
+    "title": "French Choisy Le Roi Asparagus Server",
+    "price": 540,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 9.0,
+      "d": 11.5,
+      "h": 3.5,
+      "unit": "in"
+    },
+    "description": "A vintage French Choisy-le-Roi asparagus server in sunny canary yellow pottery, circa 1890-1900. A charming and functional example of classic French country tableware.",
+    "category": "furniture",
+    "tags": [
+      "server",
+      "pottery",
+      "choisy le roi",
+      "french country",
+      "19th century",
+      "tableware"
+    ],
+    "era": "circa 1890-1900",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d7a6b7d0-898e-4049-912f-45351a75f89c/french-choisy-le-roi-asparagus-server-4092?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/807bf462-74df-4ec1-8192-3e985d638d6d/french-choisy-le-roi-asparagus-server-4853?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/754d679a-57a0-46ca-9ed6-faf05530b6ac/french-choisy-le-roi-asparagus-server-1531?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/db581275-0ac1-4d6c-8ce0-6c0e4284b468/french-choisy-le-roi-asparagus-server-8995?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/998057/french-choisy-le-roi-asparagus-server",
+    "sourceProductId": "998057",
+    "createdAt": "2026-05-20T10:00:00.000Z"
+  },
+  {
+    "id": "brown-french-19th-century-tobacco-jar-with-berry-and-ivy-details",
+    "title": "Brown French 19th Century Tobacco Jar With Berry and Ivy Details",
+    "price": 270,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 5.0,
+      "d": 5.0,
+      "h": 7.75,
+      "unit": "in"
+    },
+    "description": "A charming 19th century French tobacco jar in rustic faux bois ceramic, adorned with berry and ivy details. This nature-inspired vessel carries the warm, earthy character of the period.",
+    "category": "decor",
+    "tags": [
+      "jar",
+      "tobacco jar",
+      "ceramic",
+      "19th century",
+      "french",
+      "faux bois"
+    ],
+    "era": "19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/87efaa73-258b-4c33-adfc-920897febc09/brown-french-19th-century-tobacco-jar-with-berry-and-ivy-details-3248?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e18afeb7-f338-4c6a-a08b-2ea33519f5f6/brown-french-19th-century-tobacco-jar-with-berry-and-ivy-details-8214?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7e093d25-df51-4a12-88af-8d43f2375f51/brown-french-19th-century-tobacco-jar-with-berry-and-ivy-details-3874?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c5c57dd5-505e-404c-8431-168cba9be151/brown-french-19th-century-tobacco-jar-with-berry-and-ivy-details-1307?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1003090/brown-french-19th-century-tobacco-jar-with-berry-and-ivy-details",
+    "sourceProductId": "1003090",
+    "createdAt": "2026-05-15T15:45:00.000Z"
+  },
+  {
+    "id": "small-oval-french-faience-dish",
+    "title": "Small Oval French Faience Dish",
+    "price": 95,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 12.5,
+      "d": 9.0,
+      "h": 2.0,
+      "unit": "in"
+    },
+    "description": "A lovely oval French faience dish featuring delicate branch and leaf motifs in a soft violet and green glaze. Rustic and vintage in character, ideal for display or serving.",
+    "category": "furniture",
+    "tags": [
+      "dish",
+      "faience",
+      "french",
+      "ceramic",
+      "vintage"
+    ],
+    "era": "Vintage",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/53d450e5-4b68-467f-8f71-7ea5583004b0/small-oval-french-faience-dish-0450?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e9728aa9-bd79-4681-937d-c0f6ec230254/small-oval-french-faience-dish-6445?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e1baf3a0-bd2d-4fb6-8c20-a7692a1da3a6/small-oval-french-faience-dish-9647?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1006210/small-oval-french-faience-dish",
+    "sourceProductId": "1006210",
+    "createdAt": "2026-05-10T12:00:00.000Z"
+  },
+  {
+    "id": "brass-cannonball-andirons-a-pair",
+    "title": "Brass Cannonball Andirons - A Pair",
+    "price": 1650,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 13.0,
+      "d": 24.25,
+      "h": 22.0,
+      "unit": "in"
+    },
+    "description": "A bold pair of oversized brass cannonball andirons, early 20th century, in a British colonial style. Their substantial scale and warm brass finish make a masculine, architectural statement at the hearth.",
+    "category": "furniture",
+    "tags": [
+      "andirons",
+      "pair",
+      "brass",
+      "fireplace",
+      "colonial style"
+    ],
+    "era": "Early 20th Century",
+    "origin": "England",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/440026dc-40f8-4c5f-9560-163d26dcdc21/brass-cannonball-andirons-a-pair-6406?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e69b593e-771e-4e61-8a6f-e6393d4bcf45/brass-cannonball-andirons-a-pair-9110?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/66c2fba7-7989-49cc-abd3-0bdd4bce8868/brass-cannonball-andirons-a-pair-8020?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/816ddf38-3242-48c7-99cb-fa69baf3eaaa/brass-cannonball-andirons-a-pair-7227?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1090304/brass-cannonball-andirons-a-pair",
+    "sourceProductId": "1090304",
+    "createdAt": "2026-05-05T09:15:00.000Z"
+  },
+  {
+    "id": "mid-century-modern-frosted-tulip-lamp",
+    "title": "Mid-Century Modern Frosted Tulip Lamp",
+    "price": 270,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 20.0,
+      "d": 20.0,
+      "h": 40.0,
+      "unit": "in"
+    },
+    "description": "A striking Mid-Century Modern tulip lamp in frosted acrylic and glass. This retro-chic accent piece brings soft, sculptural light and playful 1960s style to any room.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "mid-century modern",
+      "tulip",
+      "frosted glass",
+      "lighting"
+    ],
+    "era": "Mid-Century Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/26a0006d-50b8-475f-a27d-957f5dfc6040/mid-century-modern-frosted-tulip-lamp-6669?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6523258e-3e15-48ed-8308-761915fcf423/mid-century-modern-frosted-tulip-lamp-7702?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e50d4193-d676-468c-9f38-a4779deede56/mid-century-modern-frosted-tulip-lamp-8973?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/ce3d2927-99f1-4314-a5f2-6f96ee4bafb5/mid-century-modern-frosted-tulip-lamp-0974?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1098108/mid-century-modern-frosted-tulip-lamp",
+    "sourceProductId": "1098108",
+    "createdAt": "2026-04-30T14:00:00.000Z"
+  },
+  {
+    "id": "egyptian-revival-bronze-candlesticks-a-pair",
+    "title": "Egyptian Revival Bronze Candlesticks - A Pair",
+    "price": 714,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 5.5,
+      "d": 4.0,
+      "h": 8.0,
+      "unit": "in"
+    },
+    "description": "An elegant pair of Egyptian Revival bronze candlesticks from the 1920s, each cast with intricate female figures. A touch of Art Deco-era luxury and exoticism for the mantel or table.",
+    "category": "furniture",
+    "tags": [
+      "candlestick",
+      "pair",
+      "bronze",
+      "egyptian revival",
+      "1920s",
+      "art deco"
+    ],
+    "era": "1920s, Egyptian Revival",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/26b08e2a-e4c8-49b5-ba1a-7fdae19f10d8/egyptian-revival-bronze-candlesticks-a-pair-3290?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d0aa5156-b177-4f7f-aea5-3946919b8d1d/egyptian-revival-bronze-candlesticks-a-pair-5533?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/70e6239b-6c4f-4434-bcb6-175058a24767/egyptian-revival-bronze-candlesticks-a-pair-7514?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d2f17566-b5be-4fe2-8e54-7f0d4e4ee96c/egyptian-revival-bronze-candlesticks-a-pair-8544?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1098161/egyptian-revival-bronze-candlesticks-a-pair",
+    "sourceProductId": "1098161",
+    "createdAt": "2026-04-25T11:30:00.000Z"
+  },
+  {
+    "id": "english-majolica-bulldog-pitcher",
+    "title": "English Majolica Bulldog Pitcher",
+    "price": 420,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 5.0,
+      "d": 6.5,
+      "h": 9.0,
+      "unit": "in"
+    },
+    "description": "A charming English majolica pitcher modeled as a bulldog, dating to the late 19th century. Whimsical and full of character, it's a delightful conversation piece for the table or shelf.",
+    "category": "furniture",
+    "tags": [
+      "pitcher",
+      "majolica",
+      "bulldog",
+      "english",
+      "19th century",
+      "ceramic"
+    ],
+    "era": "Late 19th Century",
+    "origin": "England",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a494c444-ca66-427d-b58b-7ba9b8e3471b/english-majolica-bulldog-pitcher-0716?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9b02de92-eef6-40c7-94cc-2c26fe0e0712/english-majolica-bulldog-pitcher-1844?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e76c976f-7c4b-4278-8283-5587dee50abb/english-majolica-bulldog-pitcher-9575?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4c9896fa-54d7-41c2-86df-741164105d5a/english-majolica-bulldog-pitcher-9721?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1098173/english-majolica-bulldog-pitcher",
+    "sourceProductId": "1098173",
+    "createdAt": "2026-04-20T16:45:00.000Z"
+  },
+  {
+    "id": "louis-philippe-three-drawer-desk-commode",
+    "title": "Louis Philippe Three Drawer Desk Commode",
+    "price": 2200,
+    "compareAtPrice": 3540,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 50.0,
+      "d": 22.75,
+      "h": 37.0,
+      "unit": "in"
+    },
+    "description": "A handsome Louis Philippe three-drawer desk commode, its clean lines and generous proportions offering both storage and workspace. A versatile 19th century French case piece for a study, hallway or bedroom.",
+    "category": "furniture",
+    "tags": [
+      "commode",
+      "desk",
+      "louis philippe",
+      "french",
+      "chest of drawers"
+    ],
+    "era": "19th Century, Louis Philippe",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f21a7249-580f-47eb-b663-d1f3017e6614/louis-philippe-three-drawer-desk-commode-0995?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3118050a-d60e-4c07-ba06-2df8f98e09ba/louis-philippe-three-drawer-desk-commode-6653?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3551b62e-cf91-4415-8319-aa252e090351/louis-philippe-three-drawer-desk-commode-4791?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c45d3437-e098-4991-afe9-c8aea3a53e27/louis-philippe-three-drawer-desk-commode-8705?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1099839/louis-philippe-three-drawer-desk-commode",
+    "sourceProductId": "1099839",
+    "createdAt": "2026-04-15T10:30:00.000Z"
+  },
+  {
+    "id": "english-silver-plated-tray-with-painted-brass-stand",
+    "title": "English Silver Plated Tray with Painted Brass Stand",
+    "price": 540,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 21.5,
+      "d": 22.0,
+      "h": 21.5,
+      "unit": "in"
+    },
+    "description": "An elegant English silver-plated tray presented on a painted brass stand, with a lovely worn-through vintage finish. Versatile as a drinks table or display surface in any traditional interior.",
+    "category": "decor",
+    "tags": [
+      "tray table",
+      "silver plate",
+      "brass",
+      "english",
+      "vintage"
+    ],
+    "era": "Vintage",
+    "origin": "England",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/480eafe7-64d2-4f79-a502-0cb4e4d8d14e/english-silver-plated-tray-with-painted-brass-stand-6882?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/5cbfe8b5-2344-49e2-8d7c-727d82e7042d/english-silver-plated-tray-with-painted-brass-stand-6357?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/67c943a0-6d25-4000-8238-5be6dca3286d/english-silver-plated-tray-with-painted-brass-stand-0209?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c5d8ca8a-5086-4550-a835-8bc35065e221/english-silver-plated-tray-with-painted-brass-stand-2339?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1109562/english-silver-plated-tray-with-painted-brass-stand",
+    "sourceProductId": "1109562",
+    "createdAt": "2026-04-10T13:00:00.000Z"
+  },
+  {
+    "id": "french-sterling-silver-sauce-boat-in-francis-i-pattern-with-as-monogram",
+    "title": "French Sterling Silver Sauce Boat in Francis I Pattern With as Monogram",
+    "price": 2100,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 11.0,
+      "d": 7.0,
+      "h": 4.25,
+      "unit": "in"
+    },
+    "description": "An elegant French sterling silver sauce boat in the ornate Francis I pattern, personalized with a charming monogram. Crafted in the early 20th century, a fine addition to any formal table setting.",
+    "category": "furniture",
+    "tags": [
+      "sauce boat",
+      "sterling silver",
+      "francis i pattern",
+      "french",
+      "tableware"
+    ],
+    "era": "Early 20th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/37f01d9f-3151-481c-af86-e069b06e5031/french-sterling-silver-sauce-boat-in-francis-i-pattern-with-as-monogram-1574?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/cd8ef3b3-8e5e-46a7-bb6b-79a59fecb858/french-sterling-silver-sauce-boat-in-francis-i-pattern-with-as-monogram-8550?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8aae63a1-6afc-442f-b928-6cb9c1e1de48/french-sterling-silver-sauce-boat-in-francis-i-pattern-with-as-monogram-8906?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e79e877f-ee75-4b1e-9e2c-51a1da5ca04d/french-sterling-silver-sauce-boat-in-francis-i-pattern-with-as-monogram-1741?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1140532/french-sterling-silver-sauce-boat-in-francis-i-pattern-with-as-monogram",
+    "sourceProductId": "1140532",
+    "createdAt": "2026-04-05T09:45:00.000Z"
+  },
+  {
+    "id": "french-antique-napoleon-iii-fireplace-fender",
+    "title": "French Antique Napoleon III Fireplace Fender",
+    "price": 510,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 53.0,
+      "d": 3.0,
+      "h": 8.5,
+      "unit": "in"
+    },
+    "description": "An exquisite French Napoleon III fireplace fender in polished brass, dating to the 1870s. Its elegant, restrained design adds a refined finishing touch to any hearth.",
+    "category": "furniture",
+    "tags": [
+      "fireplace fender",
+      "brass",
+      "napoleon iii",
+      "french",
+      "19th century"
+    ],
+    "era": "1870s, Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/89b70549-0dba-4bfa-9a40-efa466f51ab1/french-antique-napoleon-iii-fireplace-fender-5035?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7aa4be84-e930-4e31-b5f2-9273be5bd6df/french-antique-napoleon-iii-fireplace-fender-4607?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8ee0578f-759e-4d4c-b012-f348e179a4a9/french-antique-napoleon-iii-fireplace-fender-3362?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/faf0b418-be04-4996-a0a2-f40c58e46d5c/french-antique-napoleon-iii-fireplace-fender-6757?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1166806/french-antique-napoleon-iii-fireplace-fender",
+    "sourceProductId": "1166806",
+    "createdAt": "2026-03-31T15:15:00.000Z"
+  },
+  {
+    "id": "antique-french-small-brass-cauldron-with-wrought-iron-handle",
+    "title": "Antique French Small Brass Cauldron With Wrought Iron Handle",
+    "price": 150,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 11.0,
+      "d": 9.25,
+      "h": 4.5,
+      "unit": "in"
+    },
+    "description": "An antique French brass cauldron with a rustic wrought iron handle, dating to the early 1900s. Its warm, burnished patina and rustic charm suit a farmhouse mantel or kitchen display.",
+    "category": "decor",
+    "tags": [
+      "cauldron",
+      "brass",
+      "wrought iron",
+      "french",
+      "rustic",
+      "antique"
+    ],
+    "era": "Early 1900s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/906c6610-568b-427c-8526-9370e46a8456/antique-french-small-brass-cauldron-with-wrought-iron-handle-8199?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f99e8581-5456-4ce8-a719-f9b2deb284be/antique-french-small-brass-cauldron-with-wrought-iron-handle-8577?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/846a75ac-0f3f-4971-891c-25907bee6bf1/antique-french-small-brass-cauldron-with-wrought-iron-handle-1166?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e3ea53b0-b00c-40ce-a6a3-1803851c87a8/antique-french-small-brass-cauldron-with-wrought-iron-handle-5115?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1175642/antique-french-small-brass-cauldron-with-wrought-iron-handle",
+    "sourceProductId": "1175642",
+    "createdAt": "2026-03-26T12:30:00.000Z"
+  },
+  {
+    "id": "united-states-army-silver-plate-ladle",
+    "title": "United States Army Silver Plate Ladle",
+    "price": 42,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 4.0,
+      "d": 3.25,
+      "h": 11.0,
+      "unit": "in"
+    },
+    "description": "A vintage United States Army silver plate ladle from the 1960s. Utilitarian in form yet full of rustic, mid-century character, a fun conversation piece for a vintage kitchen or bar cart.",
+    "category": "decor",
+    "tags": [
+      "ladle",
+      "silver plate",
+      "military",
+      "vintage",
+      "americana"
+    ],
+    "era": "1960s",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8d5bfd8c-c970-46d7-b963-4ce54c8a95a3/united-states-army-silver-plate-ladle-2347?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b25e9a2f-7fc0-4475-b2cc-f8ff60cd1257/united-states-army-silver-plate-ladle-2110?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2ecdae86-c2d9-4854-bbac-cfaac8426c08/united-states-army-silver-plate-ladle-8579?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/65aca369-f4bb-4c9b-8e5e-07587041b208/united-states-army-silver-plate-ladle-3728?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1204017/united-states-army-silver-plate-ladle",
+    "sourceProductId": "1204017",
+    "createdAt": "2026-03-21T10:00:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-black-lacquer-and-gilt-center-table",
+    "title": "Napoleon III Black Lacquer and Gilt Center Table",
+    "price": 1950,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 40.5,
+      "d": 26.5,
+      "h": 31.0,
+      "unit": "in"
+    },
+    "description": "A dramatic Napoleon III-style center table in black lacquer with gilded bronze accents. Crafted in the late 19th century, this bold, statement-making table anchors a seating area with old-world glamour.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "center table",
+      "napoleon iii",
+      "black lacquer",
+      "gilt",
+      "french"
+    ],
+    "era": "Late 19th Century, Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f3877c0d-0eba-4287-8fdb-ba96cd97f177/napoleon-iii-black-lacquer-and-gilt-center-table-5021?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/38f13b22-3f72-42af-b17e-765c9a362243/napoleon-iii-black-lacquer-and-gilt-center-table-2219?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c6b65b7c-c494-4c60-9e62-500c74a5dbb6/napoleon-iii-black-lacquer-and-gilt-center-table-0432?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2891b327-785b-4e21-abd5-a66aec3fbc66/napoleon-iii-black-lacquer-and-gilt-center-table-3642?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1779835/napoleon-iii-black-lacquer-and-gilt-center-table",
+    "sourceProductId": "1779835",
+    "createdAt": "2026-03-16T14:15:00.000Z"
+  },
+  {
+    "id": "louis-xv-style-converted-gasolier-sconces-a-pair",
+    "title": "Louis XV Style Converted Gasolier Sconces a Pair",
+    "price": 3300,
+    "compareAtPrice": null,
+    "condition": "Antique, Newly Rewired",
+    "dimensions": {
+      "w": 16.5,
+      "d": 12.0,
+      "h": 23.5,
+      "unit": "in"
+    },
+    "description": "A pair of large, ornate Louis XV-style bronze sconces, originally gasoliers and now newly rewired for electric use. Their sweeping scrollwork brings antique glamour to a formal room.",
+    "category": "lighting",
+    "tags": [
+      "sconce",
+      "pair",
+      "bronze",
+      "louis xv style",
+      "converted gasolier",
+      "french"
+    ],
+    "era": "Louis XV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2ee83807-fac5-4ae7-9939-83757bec5e23/louis-xv-style-converted-gasolier-sconces-a-pair-3532?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fb9cb718-26bf-48ed-b7f9-64f8f25bf028/louis-xv-style-converted-gasolier-sconces-a-pair-1557?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8d7b2f26-5885-4f4d-af4f-bc7af4cc4da9/louis-xv-style-converted-gasolier-sconces-a-pair-7537?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c4900200-f3c2-432b-91a2-13bee9f7aa4c/louis-xv-style-converted-gasolier-sconces-a-pair-2641?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1825270/louis-xv-style-converted-gasolier-sconces-a-pair",
+    "sourceProductId": "1825270",
+    "createdAt": "2026-03-11T11:00:00.000Z"
+  },
+  {
+    "id": "american-fancy-spindle-chair",
+    "title": "American Fancy Spindle Chair",
+    "price": 650,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 23.5,
+      "d": 19.0,
+      "h": 37.5,
+      "unit": "in"
+    },
+    "description": "A charming American fancy spindle chair from the mid-19th century, with rustic, distressed green and yellow paint. Full of folk-art character, ideal for adding warmth to a country interior.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "spindle chair",
+      "american",
+      "folk art",
+      "19th century",
+      "painted"
+    ],
+    "era": "Mid-19th Century",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/759c9ac0-8122-4f87-9e0e-afd81a512b14/american-fancy-spindle-chair-3255?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f1438eb4-e9c1-4c53-9b4f-e97399f96ec8/american-fancy-spindle-chair-5971?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e8a731d7-dc2c-49fd-9e16-293d6d7a7e9a/american-fancy-spindle-chair-2716?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7eb2b01d-e055-479f-a7a6-1cdf8f98a9ee/american-fancy-spindle-chair-8804?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1936486/american-fancy-spindle-chair",
+    "sourceProductId": "1936486",
+    "createdAt": "2026-03-06T16:30:00.000Z"
+  },
+  {
+    "id": "french-terra-cotta-console",
+    "title": "French Terra-Cotta Console",
+    "price": 1250,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 21.75,
+      "d": 21.0,
+      "h": 20.0,
+      "unit": "in"
+    },
+    "description": "A captivating French terra-cotta console, mid-19th century, with rustic, weathered charm. Originally used as a plinth to display religious statuary, it now makes a striking sculptural stand or side table.",
+    "category": "furniture",
+    "tags": [
+      "console",
+      "terra cotta",
+      "french",
+      "19th century",
+      "pedestal",
+      "rustic"
+    ],
+    "era": "Mid-19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8facaa32-201b-47a1-91c2-915ec42e05ed/french-terra-cotta-console-8524?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f9aa6246-e0b6-43f7-a0f9-7e9b06ff8ea5/french-terra-cotta-console-5329?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/52c708df-4c46-4ee9-98f7-b28817c6b75c/french-terra-cotta-console-3421?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/cd82d90f-4767-4923-9291-b379805943e9/french-terra-cotta-console-9994?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1942341/french-terra-cotta-console",
+    "sourceProductId": "1942341",
+    "createdAt": "2026-03-01T09:00:00.000Z"
+  },
+  {
+    "id": "pottery-umbrella-stand",
+    "title": "Pottery Umbrella Stand",
+    "price": 795,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 10.25,
+      "d": 10.25,
+      "h": 20.0,
+      "unit": "in"
+    },
+    "description": "A charming pottery umbrella stand in a vibrant cornflower blue glaze, dating to the early 1900s. A traditional, functional piece that adds color to any entryway.",
+    "category": "furniture",
+    "tags": [
+      "umbrella stand",
+      "pottery",
+      "ceramic",
+      "entryway",
+      "vintage"
+    ],
+    "era": "Early 1900s",
+    "origin": "England",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4802b841-474d-44c7-bb51-ea683d652547/pottery-umbrella-stand-6545?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e5bd62dd-fd45-4375-b93b-7b75cc9df719/pottery-umbrella-stand-8412?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/30c749de-a6a3-48a7-af67-e85d0cd27bd1/pottery-umbrella-stand-5573?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4e915d85-5831-467f-a30a-cd263f28ef14/pottery-umbrella-stand-4289?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/2907473/pottery-umbrella-stand",
+    "sourceProductId": "2907473",
+    "createdAt": "2026-02-24T13:45:00.000Z"
+  },
+  {
+    "id": "1920s-french-style-basket-lantern",
+    "title": "1920s French Style Basket Lantern",
+    "price": 2500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 10.5,
+      "d": 10.5,
+      "h": 27.0,
+      "unit": "in"
+    },
+    "description": "A vintage 1920s French-style lantern in gilded iron and painted tole, its ornate basket form designed to hold a candle or floral display. A romantic lighting fixture for an entry or garden room.",
+    "category": "lighting",
+    "tags": [
+      "lantern",
+      "gilded iron",
+      "tole",
+      "french",
+      "1920s",
+      "lighting"
+    ],
+    "era": "1920s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b29c93cf-8f6e-4354-8cf7-9a6e88d31d66/1920s-french-style-basket-lantern-2641?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/32e33ee2-9e65-4a41-ba05-4e2ca12dcfc2/1920s-french-style-basket-lantern-8418?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b1d2e895-c271-498d-aeba-102d46cef5fe/1920s-french-style-basket-lantern-7087?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/476b2103-c737-47dc-8154-d65aeb2b1eac/1920s-french-style-basket-lantern-1326?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/3174508/lovely-basket-lantern",
+    "sourceProductId": "3174508",
+    "createdAt": "2026-02-19T10:15:00.000Z"
+  },
+  {
+    "id": "french-wrought-iron-butchers-rack",
+    "title": "French Wrought Iron Butcher's Rack",
+    "price": 595,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 13.0,
+      "d": 13.0,
+      "h": 11.5,
+      "unit": "in"
+    },
+    "description": "A 19th century French wrought iron butcher's rack, originally used to display fresh produce. Its versatile, multi-tiered form now offers rustic storage or display in a kitchen or pantry.",
+    "category": "furniture",
+    "tags": [
+      "rack",
+      "wrought iron",
+      "french",
+      "19th century",
+      "farmhouse",
+      "kitchen storage"
+    ],
+    "era": "19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/73348cc4-b1d9-4282-99f7-590809d17ac6/french-wrought-iron-butchers-rack-4192?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/bc40756a-54ed-4e60-b757-a2c12ec350bf/french-wrought-iron-butchers-rack-7141?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/dfb47801-2ad8-4ad1-bc17-a2bcecc5fcec/french-wrought-iron-butchers-rack-3701?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e54ed479-2a4c-4cbb-8f8b-84f3fde065f8/french-wrought-iron-butchers-rack-2827?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/3347229/french-wrought-iron-butchers-rack",
+    "sourceProductId": "3347229",
+    "createdAt": "2026-02-14T15:00:00.000Z"
+  },
+  {
+    "id": "french-19th-century-dough-trough",
+    "title": "French 19th Century Dough Trough",
+    "price": 1500,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 53.0,
+      "d": 25.5,
+      "h": 10.0,
+      "unit": "in"
+    },
+    "description": "A large rustic French dough trough in pine, 19th century, with a lovely aged patina. Once used for kneading bread, this artisan piece now makes a striking farmhouse coffee table base or planter.",
+    "category": "furniture",
+    "tags": [
+      "dough trough",
+      "pine",
+      "french",
+      "19th century",
+      "farmhouse",
+      "rustic"
+    ],
+    "era": "19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8bf1d6ad-b5b9-4b33-96bb-49d0f9d73876/french-19th-century-dough-trough-0904?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fa5323b8-7cb0-4625-96d2-4b1438263e0c/french-19th-century-dough-trough-3038?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9fbd167a-78a4-4385-8bfe-d4f44ddc56de/french-19th-century-dough-trough-2207?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d95a760c-0545-408b-ad48-92f6c18ffb1d/french-19th-century-dough-trough-0397?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/3453038/french-19th-century-dough-trough",
+    "sourceProductId": "3453038",
+    "createdAt": "2026-02-09T12:15:00.000Z"
+  },
+  {
+    "id": "charles-x-old-paris-compotes-set-of-3",
+    "title": "Charles X Old Paris Compotes Set of 3",
+    "price": 1950,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 13.0,
+      "d": 8.0,
+      "h": 10.0,
+      "unit": "in"
+    },
+    "description": "A set of three elegant Old Paris porcelain compotes, Charles X period, hand-painted with blue flowers and gilt accents. These decorative bowls bring refined French tablescape style to any collection.",
+    "category": "furniture",
+    "tags": [
+      "compote",
+      "bowl",
+      "old paris",
+      "porcelain",
+      "charles x",
+      "gilt",
+      "french"
+    ],
+    "era": "Charles X, c. 1820-1830",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c736ade2-5289-4ee9-99b9-4ca1157f74af/charles-x-old-paris-compotes-set-of-3-1744?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b2ec0237-9a88-435d-b5ca-1fae5912f94e/charles-x-old-paris-compotes-set-of-3-3390?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4f58beb8-ec76-4305-8713-c16c1c9d17bb/charles-x-old-paris-compotes-set-of-3-5020?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/ec2a6574-f164-4d0a-a074-940556d053f2/charles-x-old-paris-compotes-set-of-3-1956?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/5152958/charles-x-old-paris-compotes-set-of-3",
+    "sourceProductId": "5152958",
+    "createdAt": "2026-02-04T09:30:00.000Z"
+  },
+  {
+    "id": "american-bleached-oak-desk",
+    "title": "American Bleached Oak Desk",
+    "price": 2200,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 40.0,
+      "d": 27.5,
+      "h": 29.5,
+      "unit": "in"
+    },
+    "description": "An American bleached oak desk from the early 20th century, its stripped and whitewashed finish giving a rustic-chic, vintage-inspired look. A versatile writing desk for a study or bedroom.",
+    "category": "furniture",
+    "tags": [
+      "desk",
+      "oak",
+      "bleached wood",
+      "american",
+      "vintage"
+    ],
+    "era": "Early 20th Century",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e3a83b41-424b-49c2-b508-5d5c27d8c906/american-bleached-oak-desk-5701?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/81c855d0-e137-4cae-8d14-897355d77ebe/american-bleached-oak-desk-2360?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0b94fb75-7866-421f-8d4b-cebab6cd5566/american-bleached-oak-desk-7663?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fa1755f1-fc63-4c2f-844d-ae4b89fa0e70/american-bleached-oak-desk-4045?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/5153439/american-bleached-oak-desk",
+    "sourceProductId": "5153439",
+    "createdAt": "2026-01-30T14:45:00.000Z"
+  },
+  {
+    "id": "french-4-drawer-commode",
+    "title": "French 4 Drawer Commode",
+    "price": 5500,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 46.0,
+      "d": 20.0,
+      "h": 37.0,
+      "unit": "in"
+    },
+    "description": "An unusually narrow French commode in the Louis XIV style, combining bronze mounts, a marble top and walnut casework. A luxurious, compact storage solution for a hallway or bedroom.",
+    "category": "furniture",
+    "tags": [
+      "commode",
+      "chest of drawers",
+      "louis xiv style",
+      "marble top",
+      "bronze",
+      "walnut",
+      "french"
+    ],
+    "era": "Louis XIV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3377f1fe-37ae-4fde-9b08-a8a536223282/french-4-drawer-commode-5910?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/012e53cf-9f41-4c9c-afc2-c7bafc5a6741/french-4-drawer-commode-9689?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/63187bbd-fcfa-42a4-8ea2-1ef87c73fbbd/french-4-drawer-commode-3858?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/34084186-5663-4668-80a4-bdd17449fb2d/french-4-drawer-commode-2935?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/5177835/french-4-drawer-commode",
+    "sourceProductId": "5177835",
+    "createdAt": "2026-01-25T11:15:00.000Z"
+  },
+  {
+    "id": "industrial-lamps-a-pair",
+    "title": "Industrial Lamps a Pair",
+    "price": 2200,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 15.0,
+      "d": 9.0,
+      "h": 35.0,
+      "unit": "in"
+    },
+    "description": "A pair of industrial-chic lamps crafted from salvaged iron with rustic-luxe textile shades. These contemporary fixtures bring warm, sculptural light with an urban edge.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "pair",
+      "industrial",
+      "iron",
+      "contemporary"
+    ],
+    "era": "Contemporary Industrial",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/dafeeac5-20f8-4381-b301-0dcf5279f403/industrial-lamps-a-pair-7962?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a4beeec5-e6dc-4440-b7d7-1ed5759804ec/industrial-lamps-a-pair-8471?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/92a8ca14-150b-4275-b122-3aef0e0827fa/industrial-lamps-a-pair-1820?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c36a91c4-f5de-469f-b139-c24be859e7d8/industrial-lamps-a-pair-8199?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/6799922/industrial-lamps-a-pair",
+    "sourceProductId": "6799922",
+    "createdAt": "2026-01-20T16:00:00.000Z"
+  },
+  {
+    "id": "aubusson-tapestry-panels-set-of-4",
+    "title": "Aubusson Tapestry Panels Set of 4",
+    "price": 7000,
+    "compareAtPrice": null,
+    "condition": "Vintage, Restored",
+    "dimensions": {
+      "w": 21.5,
+      "d": 0.05,
+      "h": 61.5,
+      "unit": "in"
+    },
+    "description": "A stunning set of four Napoleon III-style Aubusson tapestry panels, expertly restored and mounted on linen. These high-quality textile artworks bring rich color and old-world texture to any wall.",
+    "category": "art-mirrors",
+    "tags": [
+      "tapestry",
+      "aubusson",
+      "set of 4",
+      "textile art",
+      "french",
+      "napoleon iii style"
+    ],
+    "era": "Napoleon III Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c6eb4f30-e1da-42ce-bd98-b2df444bdb2a/aubusson-tapestry-panels-set-of-4-3498?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2fe27f4c-3c54-4c9d-89b4-b4f3b7ebcf36/aubusson-tapestry-panels-set-of-4-5489?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6f3ce722-d377-4e91-aecf-5ae16dae0774/aubusson-tapestry-panels-set-of-4-4352?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/6947413/aubusson-tapestry-panels-set-of-4",
+    "sourceProductId": "6947413",
+    "createdAt": "2026-01-15T10:45:00.000Z"
+  },
+  {
+    "id": "solid-brass-mcm-dining-table",
+    "title": "Solid Brass MCM Dining Table",
+    "price": 4900,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 71.0,
+      "d": 39.5,
+      "h": 29.25,
+      "unit": "in"
+    },
+    "description": "A striking 1970s solid brass dining table with a bold Greek key motif and ornate detailing. This glamorous Mid-Century Modern statement piece brings luxe glitz to any dining room.",
+    "category": "furniture",
+    "tags": [
+      "dining table",
+      "brass",
+      "mid-century modern",
+      "greek key",
+      "1970s"
+    ],
+    "era": "1970s, Mid-Century Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0562e581-b508-40d4-9523-0d4438eb0737/solid-brass-mcm-dining-table-7254?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2919b4a1-3508-48a2-96c2-21c6f4427b03/solid-brass-mcm-dining-table-1586?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6bb687b7-85c5-4083-bb25-ed4af678a7a8/solid-brass-mcm-dining-table-2202?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/05cca3a5-878e-40d4-a1c7-dd4df274c1f2/solid-brass-mcm-dining-table-0169?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/7889578/solid-brass-mcm-dining-table",
+    "sourceProductId": "7889578",
+    "createdAt": "2026-01-30T09:00:00.000Z"
+  },
+  {
+    "id": "american-baroque-corner-chair",
+    "title": "American Baroque Corner Chair",
+    "price": 1450,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 20.0,
+      "d": 24.0,
+      "h": 38.0,
+      "unit": "in"
+    },
+    "description": "An opulent 19th century American Baroque corner chair in gilded gold leaf with rich red upholstery. Ornate carved woodwork makes this a dramatic focal point for any seating arrangement.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "corner chair",
+      "baroque",
+      "gilt",
+      "american",
+      "19th century"
+    ],
+    "era": "19th Century, Baroque",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/5015eb93-988a-47c7-b850-fc1037218ddc/american-baroque-corner-chair-5733?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/510b1eed-bbba-438c-b6dc-ef105b8ba5b9/american-baroque-corner-chair-6118?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fbc6552c-43b7-4d4a-8a0a-ac51710767bd/american-baroque-corner-chair-7240?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/32602c96-4b75-4130-b071-37dd70f7e8ef/american-baroque-corner-chair-3677?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/8184656/american-baroque-corner-chair",
+    "sourceProductId": "8184656",
+    "createdAt": "2026-01-28T13:30:00.000Z"
+  },
+  {
+    "id": "louis-xvi-style-arm-chair",
+    "title": "Louis XVI Style Arm Chair",
+    "price": 1450,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 24.5,
+      "d": 26.0,
+      "h": 42.5,
+      "unit": "in"
+    },
+    "description": "A gilded Louis XVI-style armchair retaining its original upholstery, crafted in giltwood at the turn of the 20th century. Antique charm and formal glamour in a versatile accent scale.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "armchair",
+      "louis xvi style",
+      "giltwood",
+      "french"
+    ],
+    "era": "Late 19th/Early 20th Century, Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/df1c691f-65e8-43ef-a58e-33045e76f93f/louis-xvi-style-arm-chair-3323?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3a4b0959-e74a-4c31-a0a2-207c96d0f9f8/louis-xvi-style-arm-chair-2503?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fc94126b-b65c-40c0-8021-df77494c6cb7/louis-xvi-style-arm-chair-3857?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0d0df44e-4339-4774-b7fb-130cf96cc33d/louis-xvi-style-arm-chair-7210?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/8184683/louis-xvi-style-arm-chair",
+    "sourceProductId": "8184683",
+    "createdAt": "2026-02-02T15:15:00.000Z"
+  },
+  {
+    "id": "louis-xv-style-arm-chairs-a-pair",
+    "title": "Louis XV Style Arm Chairs a Pair",
+    "price": 3800,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 25.25,
+      "d": 24.0,
+      "h": 37.0,
+      "unit": "in"
+    },
+    "description": "A pair of exquisite Louis XV-style giltwood armchairs featuring original Aubusson tapestry upholstery. A rare, richly detailed pair for a formal living room or entry.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "armchair",
+      "pair",
+      "louis xv style",
+      "aubusson tapestry",
+      "giltwood"
+    ],
+    "era": "Louis XV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f538425d-962d-47cc-a774-7bc202ed38e1/louis-xv-style-arm-chairs-a-pair-6728?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e64ff0e3-f26f-4485-9cbf-dd9a5f1dd80f/louis-xv-style-arm-chairs-a-pair-4675?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/156b8af4-d0d0-4569-a87c-8219aa403e4c/louis-xv-style-arm-chairs-a-pair-4690?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f6b5403e-7397-4b2f-8a05-e44c65a009b3/louis-xv-style-arm-chairs-a-pair-2405?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/8661523/louis-xv-style-arm-chairs-a-pair",
+    "sourceProductId": "8661523",
+    "createdAt": "2026-02-06T11:45:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-walnut-table",
+    "title": "Napoleon III Walnut Table",
+    "price": 2450,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 36.0,
+      "d": 22.0,
+      "h": 30.5,
+      "unit": "in"
+    },
+    "description": "A classic Napoleon III-style walnut accent table with a rich, hand-polished finish and elegant barley-twist legs. Ideal as an end table or occasional table in a traditional interior.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "accent table",
+      "walnut",
+      "napoleon iii style",
+      "barley twist",
+      "french"
+    ],
+    "era": "Napoleon III Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/32f27233-c1d1-412a-8912-3de9554b05ff/napoleon-iii-walnut-table-4947?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/79225680-fb6c-44d2-beb2-b41269b427bb/napoleon-iii-walnut-table-8911?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0cc0a562-5517-4d84-9b2e-028df404a153/napoleon-iii-walnut-table-0145?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9e202b9c-21c1-4cd0-92e7-eb6522bf1faf/napoleon-iii-walnut-table-9060?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/8794498/napoleon-iii-walnut-table",
+    "sourceProductId": "8794498",
+    "createdAt": "2026-02-11T09:15:00.000Z"
+  },
+  {
+    "id": "vintage-copper-weather-vane",
+    "title": "Vintage Copper Weather Vane",
+    "price": 1150,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 4.75,
+      "d": 28.0,
+      "h": 15.0,
+      "unit": "in"
+    },
+    "description": "A vintage 1920s copper weather vane with rustic, handcrafted charm. This artisan-made outdoor accent, in the Arts & Crafts spirit, brings sculptural interest to a garden, barn or porch.",
+    "category": "furniture",
+    "tags": [
+      "weather vane",
+      "copper",
+      "arts and crafts",
+      "vintage",
+      "outdoor decor"
+    ],
+    "era": "1920s, Arts & Crafts",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0951a9a5-a907-4707-a5fc-17c9740f1800/vintage-copper-weather-vane-7857?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/216d7652-a10b-4ce6-b2a4-09dd879bc80d/vintage-copper-weather-vane-7222?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/351499e2-01c5-4160-8aa8-0c7122ae3df8/vintage-copper-weather-vane-6260?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f27c6f35-197f-454c-a650-312ff7114167/vintage-copper-weather-vane-7103?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/11690308/vintage-copper-weather-vane",
+    "sourceProductId": "11690308",
+    "createdAt": "2026-02-16T14:30:00.000Z"
+  },
+  {
+    "id": "louis-xv-style-table",
+    "title": "Louis XV Style Table",
+    "price": 950,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 35.25,
+      "d": 22.25,
+      "h": 27.0,
+      "unit": "in"
+    },
+    "description": "A vintage Louis XV-style walnut side table topped with kelly green velvet upholstery. A versatile, eclectic accent piece that pairs classic curves with a playful pop of color.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "side table",
+      "louis xv style",
+      "walnut",
+      "velvet"
+    ],
+    "era": "Louis XV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/53941a2e-f7fa-4944-b843-22ccbf7f9b0a/louis-xv-style-table-3562?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fbe7c2a0-3932-46a3-9782-fe308cf0fdd2/louis-xv-style-table-0105?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f74f605e-96dc-4579-9ebb-269bbd8748b0/louis-xv-style-table-1259?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/778f5f89-bcfb-41c2-884d-aa8230b6b7ff/louis-xv-style-table-0527?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/17434079/louis-xv-style-table",
+    "sourceProductId": "17434079",
+    "createdAt": "2026-02-21T10:45:00.000Z"
+  },
+  {
+    "id": "gilded-wood-lamps-a-pair",
+    "title": "Gilded Wood Lamps a Pair",
+    "price": 1500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 7.0,
+      "d": 7.0,
+      "h": 24.5,
+      "unit": "in"
+    },
+    "description": "A striking pair of gilded wood table lamps with a bold, sculptural Mid-Century Modern silhouette. Artisan-made from solid wood, they bring warm metallic shine to a console or nightstand.",
+    "category": "furniture",
+    "tags": [
+      "lamp",
+      "pair",
+      "gilded wood",
+      "mid-century modern",
+      "table lamp"
+    ],
+    "era": "Mid-Century Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/09880a76-d0b1-4fd5-9213-c9e48969daf4/gilded-wood-lamps-a-pair-8135?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fef00293-705d-44d4-8f4b-642142347538/gilded-wood-lamps-a-pair-8589?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a56d2d89-f844-4467-9d17-8523c157284c/gilded-wood-lamps-a-pair-7013?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3218f1e2-8c8b-479d-9cf6-eb626bc3da2d/gilded-wood-lamps-a-pair-3606?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/17494281/gilded-wood-lamps-a-pair",
+    "sourceProductId": "17494281",
+    "createdAt": "2026-02-26T16:15:00.000Z"
+  },
+  {
+    "id": "french-pastoral-scene",
+    "title": "French Pastoral Scene",
+    "price": 1800,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 28.75,
+      "d": 2.0,
+      "h": 36.75,
+      "unit": "in"
+    },
+    "description": "A captivating French pastoral scene rendered in oil on canvas, mid-19th century. This serene countryside composition brings timeless, painterly charm to any wall.",
+    "category": "art-mirrors",
+    "tags": [
+      "painting",
+      "oil on canvas",
+      "pastoral scene",
+      "french",
+      "19th century",
+      "wall art"
+    ],
+    "era": "Mid-19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/67b76fb6-e47c-488e-8561-211c93bc4843/french-pastoral-scene-7643?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/caa1a307-315e-43b4-81da-65932c302ef2/french-pastoral-scene-3070?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/eb68e03a-4870-4bad-b1e7-bb687dc2c99e/french-pastoral-scene-9265?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/1d1b419e-e20c-4e57-8522-6c6fca0db7cf/french-pastoral-scene-7064?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/19668032/french-pastoral-scene",
+    "sourceProductId": "19668032",
+    "createdAt": "2026-03-03T12:00:00.000Z"
+  },
+  {
+    "id": "chinese-mahogany-demilune-table",
+    "title": "Chinese Mahogany Demilune Table",
+    "price": 1700,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 37.5,
+      "d": 20.0,
+      "h": 33.0,
+      "unit": "in"
+    },
+    "description": "An elegant Chinese mahogany demilune table with intricately carved details and a timeless silhouette. A versatile console for an entryway, hallway or against any wall.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "demilune",
+      "console",
+      "mahogany",
+      "chinese",
+      "carved"
+    ],
+    "era": "Vintage",
+    "origin": "China",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e77c2505-f928-4358-ab78-36dd745b9510/chinese-mahogany-demilune-table-8279?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4e6449ef-8741-4bfc-9541-71aad3bb9ade/chinese-mahogany-demilune-table-0319?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b5e9f628-d07f-42d5-9bde-973074175d43/chinese-mahogany-demilune-table-5693?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/36c632b4-eb3a-4907-8454-ba5c2d33ae68/chinese-mahogany-demilune-table-1194?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/24020601/chinese-mahogany-demilune-table",
+    "sourceProductId": "24020601",
+    "createdAt": "2026-03-08T09:45:00.000Z"
+  },
+  {
+    "id": "cast-iron-architectural-salvage-lamps-a-pair",
+    "title": "Cast Iron Architectural Salvage Lamps a Pair",
+    "price": 1650,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 14.0,
+      "d": 6.0,
+      "h": 24.0,
+      "unit": "in"
+    },
+    "description": "A pair of industrial-chic table lamps fashioned from salvaged 19th century cast iron architectural capitals. Each unique, vintage-inspired base brings sculptural, weathered texture to a room.",
+    "category": "furniture",
+    "tags": [
+      "lamp",
+      "pair",
+      "cast iron",
+      "architectural salvage",
+      "industrial"
+    ],
+    "era": "19th Century Salvage",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9811e6ce-69cc-4113-b64a-12c4535db149/cast-iron-architectural-salvage-lamps-a-pair-8167?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6f5a97ce-2e38-4ed3-aac6-ca6aa4e11c6d/cast-iron-architectural-salvage-lamps-a-pair-9303?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e0740117-3ee1-450f-b08e-04910cd8176f/cast-iron-architectural-salvage-lamps-a-pair-0588?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8dcf0e0e-4853-4201-9dc8-5ac60148faa4/cast-iron-architectural-salvage-lamps-a-pair-8635?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/25012713/cast-iron-architectural-salvage-lamps-a-pair",
+    "sourceProductId": "25012713",
+    "createdAt": "2026-03-13T15:30:00.000Z"
+  },
+  {
+    "id": "erik-buch-for-oddense-maskinsnedkeri-od-mobler-danish-teak-barstools",
+    "title": "Erik Buch for Oddense Maskinsnedkeri o.d. Mobler Danish Teak Barstools",
+    "price": 2200,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 15.5,
+      "d": 17.75,
+      "h": 33.0,
+      "unit": "in"
+    },
+    "description": "A pair of iconic Mid-Century Modern teak barstools designed by Erik Buch for Oddense Maskinsnedkeri. Artisan-crafted in Denmark, these masculine, sculptural stools are prized examples of Scandinavian design.",
+    "category": "furniture",
+    "tags": [
+      "barstool",
+      "teak",
+      "erik buch",
+      "danish modern",
+      "mid-century modern",
+      "scandinavian"
+    ],
+    "era": "Mid-Century Modern",
+    "origin": "Denmark",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/25dbf5f5-6b21-45a3-8993-3834d39c81fd/erik-buch-for-oddense-maskinsnedkeri-od-mobler-danish-teak-barstools-4633?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3185afbc-df60-45cf-bcb7-ac0c80654d19/erik-buch-for-oddense-maskinsnedkeri-od-mobler-danish-teak-barstools-2919?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/07e242db-c052-4092-a4c7-de0e61612deb/erik-buch-for-oddense-maskinsnedkeri-od-mobler-danish-teak-barstools-9842?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d496e394-76da-4fa3-b7c2-d4f8e4b932af/erik-buch-for-oddense-maskinsnedkeri-od-mobler-danish-teak-barstools-1478?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/26302231/pair-of-oddense-maskinsnedkeri-barstools",
+    "sourceProductId": "26302231",
+    "createdAt": "2026-03-18T11:00:00.000Z"
+  },
+  {
+    "id": "newly-upholstered-adrian-pears-all-high-back-chair",
+    "title": "Newly Upholstered Adrian Pears All High Back Chair",
+    "price": 1000,
+    "compareAtPrice": null,
+    "condition": "Vintage, Newly Upholstered",
+    "dimensions": {
+      "w": 28.0,
+      "d": 28.0,
+      "h": 47.0,
+      "unit": "in"
+    },
+    "description": "A newly upholstered 1960s Adrian Pearsall accent chair in a textured blue fabric. This compact, retro-chic high-back chair brings sculptural Mid-Century Modern style to any seating group.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "adrian pearsall",
+      "mid-century modern",
+      "upholstered",
+      "accent chair"
+    ],
+    "era": "1960s, Mid-Century Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4858b062-bc00-436c-b2c8-70051bb35239/newly-upholstered-adrian-pears-all-high-back-chair-2094?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/818e1208-aad4-4b8d-b263-529088cd1a98/newly-upholstered-adrian-pears-all-high-back-chair-5794?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6b2a79e2-6d3f-4190-b28a-c138f06c3a92/newly-upholstered-adrian-pears-all-high-back-chair-8097?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c12611a7-b48d-4042-9726-5d65eaec6bb8/newly-upholstered-adrian-pears-all-high-back-chair-0828?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/27138095/newly-upholstered-adrian-pears-all-high-back-chair",
+    "sourceProductId": "27138095",
+    "createdAt": "2026-03-23T13:45:00.000Z"
+  },
+  {
+    "id": "louis-xvi-style-settee",
+    "title": "Louis XVI Style Settee",
+    "price": 1600,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 37.75,
+      "d": 25.5,
+      "h": 32.5,
+      "unit": "in"
+    },
+    "description": "An elegant Louis XVI-style settee in beige-painted giltwood. This versatile accent piece works beautifully at the foot of a bed or as additional formal seating.",
+    "category": "furniture",
+    "tags": [
+      "settee",
+      "sofa",
+      "louis xvi style",
+      "giltwood",
+      "french"
+    ],
+    "era": "Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f9d00807-de4c-434b-a81c-9648ce4feaf0/louis-xvi-style-settee-0280?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/5b2d3d42-5ad0-47aa-b59b-004f98795c59/louis-xvi-style-settee-0207?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0f2d3130-deab-4a74-ab67-62c0063de5dc/louis-xvi-style-settee-8635?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9d0dd632-cb79-48e6-83b8-c0f466c81d05/louis-xvi-style-settee-0834?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/31991250/louis-xvi-style-settee",
+    "sourceProductId": "31991250",
+    "createdAt": "2026-03-28T10:15:00.000Z"
+  },
+  {
+    "id": "italian-two-drawer-neck-classic-18th-century-commode",
+    "title": "Italian Two Drawer Neck Classic 18th Century Commode",
+    "price": 2500,
+    "compareAtPrice": null,
+    "condition": "Antique, Restored",
+    "dimensions": {
+      "w": 43.0,
+      "d": 20.0,
+      "h": 32.5,
+      "unit": "in"
+    },
+    "description": "An elegant 18th century Italian commode in dark wood with a black marble top. This neoclassical two-drawer chest offers timeless style and restored antique charm.",
+    "category": "furniture",
+    "tags": [
+      "commode",
+      "chest of drawers",
+      "italian",
+      "18th century",
+      "marble top",
+      "neoclassical"
+    ],
+    "era": "18th Century, Neoclassical",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/784018c0-8935-4899-a3b8-143dd6fc7eb7/italian-two-drawer-neck-classic-18th-century-commode-6355?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f11c16ee-5db5-4886-b4ef-2f16102efe7b/italian-two-drawer-neck-classic-18th-century-commode-3681?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/726843c8-8e3f-4eae-ad09-20c0d564b512/italian-two-drawer-neck-classic-18th-century-commode-4967?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35321484/italian-two-drawer-neck-classic-18th-century-commode",
+    "sourceProductId": "35321484",
+    "createdAt": "2026-04-02T16:00:00.000Z"
+  },
+  {
+    "id": "philips-collection-rivers-stone-coffee-table",
+    "title": "Philips Collection Rivers Stone Coffee Table",
+    "price": 2700,
+    "compareAtPrice": null,
+    "condition": "Vintage, Excellent Condition",
+    "dimensions": {
+      "w": 34.0,
+      "d": 55.0,
+      "h": 16.0,
+      "unit": "in"
+    },
+    "description": "An organic modern coffee table by Phillips Collection, its sculptural resin form inspired by river stones. The warm, golden hue reflects light beautifully, making a striking contemporary centerpiece.",
+    "category": "furniture",
+    "tags": [
+      "coffee table",
+      "resin",
+      "organic modern",
+      "phillips collection",
+      "contemporary"
+    ],
+    "era": "Contemporary, Organic Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/80e27f28-6a11-477d-984e-eae7fb4f1ecc/philips-collection-rivers-stone-coffee-table-7732?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f9f5d8b7-ed5d-47fd-9086-8c17f4f4bd73/philips-collection-rivers-stone-coffee-table-1278?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a13c3bbd-6350-4bb9-81e4-fd0337664264/philips-collection-rivers-stone-coffee-table-0683?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/556e9712-af08-431d-9ad0-9e004c529ff1/philips-collection-rivers-stone-coffee-table-9882?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35321490/philips-collection-rivers-stone-coffee-table",
+    "sourceProductId": "35321490",
+    "createdAt": "2026-04-07T12:30:00.000Z"
+  },
+  {
+    "id": "monumental-louis-xvi-period-buffet",
+    "title": "Monumental Louis XVI Period Buffet",
+    "price": 16000,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 106.0,
+      "d": 25.5,
+      "h": 30.5,
+      "unit": "in"
+    },
+    "description": "A monumental Louis XVI period buffet crafted from rich fruitwood, its long, low form displaying an unparalleled aged patina. A rare and important antique casegoods piece of timeless elegance.",
+    "category": "furniture",
+    "tags": [
+      "buffet",
+      "sideboard",
+      "louis xvi period",
+      "fruitwood",
+      "antique",
+      "french",
+      "18th century"
+    ],
+    "era": "18th Century, Louis XVI Period",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f4205631-98c2-4818-8c92-40c421babe1b/monumental-louis-xvi-period-buffet-2143?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a550ab94-dd88-4a79-b05f-a10cedbc37c7/monumental-louis-xvi-period-buffet-9737?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/536eede6-c686-4eae-9fa3-dba32481f9c6/monumental-louis-xvi-period-buffet-3385?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/69964cf7-13aa-4e97-8bc6-58e111761733/monumental-louis-xvi-period-buffet-8602?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35724100/monumental-louis-xvi-period-buffet",
+    "sourceProductId": "35724100",
+    "createdAt": "2026-04-12T09:00:00.000Z"
+  },
+  {
+    "id": "louis-xvi-style-marquetry-semanier",
+    "title": "Louis XVI Style Marquetry Semanier",
+    "price": 3200,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 29.0,
+      "d": 17.5,
+      "h": 50.0,
+      "unit": "in"
+    },
+    "description": "An elegant Louis XVI-style marquetry semanier in a rich blend of walnut, ebony, rosewood and yew. This versatile eight-drawer chest offers ample storage with exceptional inlaid detail.",
+    "category": "furniture",
+    "tags": [
+      "semanier",
+      "chest of drawers",
+      "marquetry",
+      "louis xvi style",
+      "inlay",
+      "french"
+    ],
+    "era": "Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7a7ef322-9c39-4061-91ee-cbf2da5ea8fb/louis-xvi-style-marquetry-semanier-1053?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/70dfc8ff-f2a9-484c-8ea0-bfdb5b2fd59c/louis-xvi-style-marquetry-semanier-1200?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6a4d1c51-be06-44ba-a70c-f0a995b53c3d/louis-xvi-style-marquetry-semanier-1639?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0ba4c8ca-fdc4-4069-a344-8834128b7b84/louis-xvi-style-marquetry-semanier-3204?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/19652641/louis-xvi-style-marquetry-semanier",
+    "sourceProductId": "19652641",
+    "createdAt": "2026-04-17T14:15:00.000Z"
+  },
+  {
+    "id": "french-19th-century-tobacco-jar-with-floral-design-and-snail",
+    "title": "French 19th Century Tobacco Jar With Floral Design and Snail",
+    "price": 510,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 5.0,
+      "d": 5.0,
+      "h": 6.0,
+      "unit": "in"
+    },
+    "description": "A vintage French ceramic tobacco jar with a charming floral design and a whimsical snail accent atop the lid. Its vivid light blue interior adds a playful pop of color.",
+    "category": "decor",
+    "tags": [
+      "jar",
+      "tobacco jar",
+      "ceramic",
+      "french",
+      "19th century",
+      "floral"
+    ],
+    "era": "19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9ac862de-865b-423c-95ee-e2badba9bb51/french-19th-century-tobacco-jar-with-floral-design-and-snail-0227?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/431e2754-d9e4-4b93-a00c-89dd4cff1634/french-19th-century-tobacco-jar-with-floral-design-and-snail-1074?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9a79f05f-b54f-4f1c-9817-d26ba5dcdd5b/french-19th-century-tobacco-jar-with-floral-design-and-snail-3355?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/55f1aa24-d3e2-4c80-98bb-ffc3b929e5aa/french-19th-century-tobacco-jar-with-floral-design-and-snail-4506?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1003126/french-19th-century-tobacco-jar-with-floral-design-and-snail",
+    "sourceProductId": "1003126",
+    "createdAt": "2026-04-22T11:30:00.000Z"
+  },
+  {
+    "id": "enligsh-bone-china-salt-cellar-with-flowers",
+    "title": "Enligsh Bone China Salt Cellar with Flowers",
+    "price": 50,
+    "compareAtPrice": 156,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 2.5,
+      "d": 2.5,
+      "h": 3.5,
+      "unit": "in"
+    },
+    "description": "A charming English bone china salt cellar with delicate floral decoration, complete with its original wooden spoon. Crafted by the renowned Crown Staffordshire, a lovely tabletop miniature.",
+    "category": "furniture",
+    "tags": [
+      "salt cellar",
+      "bone china",
+      "english",
+      "floral",
+      "tableware"
+    ],
+    "era": "Vintage",
+    "origin": "England",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/cbb5f962-128e-49e6-b143-3184c9ddeee4/enligsh-bone-china-salt-cellar-with-flowers-5471?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f1ac7941-33b7-4575-829a-197f9e51482f/enligsh-bone-china-salt-cellar-with-flowers-9854?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c60ae260-b924-4b14-b135-d1a61f3e96fc/enligsh-bone-china-salt-cellar-with-flowers-0261?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6cb065ad-77a2-44e1-9a7c-eba5d38e5e2e/enligsh-bone-china-salt-cellar-with-flowers-3749?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1090282/enligsh-bone-china-salt-cellar-with-flowers",
+    "sourceProductId": "1090282",
+    "createdAt": "2026-04-27T16:45:00.000Z"
+  },
+  {
+    "id": "alabaster-oranges-and-lemon-set-of-3",
+    "title": "Alabaster Oranges and Lemon - Set of 3",
+    "price": 150,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 2.75,
+      "d": 2.75,
+      "h": 2.0,
+      "unit": "in"
+    },
+    "description": "A charming set of three alabaster fruits, oranges and a lemon, with a muted, weathered finish. A touch of French country style for a bowl, tray or mantel display.",
+    "category": "decor",
+    "tags": [
+      "alabaster",
+      "fruit",
+      "french country",
+      "decorative object",
+      "set of 3"
+    ],
+    "era": "Vintage",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e0d3a740-63dd-4fb4-abc5-a29eb3701222/alabaster-oranges-and-lemon-set-of-3-4774?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/eb2631da-2d61-499c-81d4-c9b9843e824e/alabaster-oranges-and-lemon-set-of-3-4974?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/61da1fbe-7a23-422a-a254-64532ab7e582/alabaster-oranges-and-lemon-set-of-3-5476?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fbc98616-afcc-4c8a-98f6-6a4c2e4ac824/alabaster-oranges-and-lemon-set-of-3-8162?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1106167/alabaster-oranges-and-lemon-set-of-3",
+    "sourceProductId": "1106167",
+    "createdAt": "2026-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "alabaster-cherry",
+    "title": "Alabaster Cherry",
+    "price": 80,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 1.5,
+      "d": 1.5,
+      "h": 2.0,
+      "unit": "in"
+    },
+    "description": "A petite alabaster cherry with a sweet, vintage-inspired design and a delicate green wire stem. A charming addition to a French country or Italian-style decorative fruit collection.",
+    "category": "furniture",
+    "tags": [
+      "alabaster",
+      "fruit",
+      "decorative object",
+      "french country",
+      "italian"
+    ],
+    "era": "Vintage",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fc464408-f93b-4370-bcce-9c38c3cb61c5/alabaster-cherry-3069?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/143b7808-04b4-4a0f-8608-25d761aebfda/alabaster-cherry-7710?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c51ab34d-4130-4b44-a236-9f5239fb7973/alabaster-cherry-0624?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/801d4864-172a-4e26-ae3f-a87036393557/alabaster-cherry-0531?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1106180/alabaster-strawberry",
+    "sourceProductId": "1106180",
+    "createdAt": "2026-05-07T13:15:00.000Z"
+  },
+  {
+    "id": "capodimonte-music-box-figurine",
+    "title": "Capodimonte Music Box Figurine",
+    "price": 150,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 4.0,
+      "d": 4.0,
+      "h": 7.25,
+      "unit": "in"
+    },
+    "description": "A vintage Capodimonte porcelain figurine of a boy with a music box, dating from the early 1900s. Charming and nostalgic, this compact decor piece is a lovely collector's item.",
+    "category": "decor",
+    "tags": [
+      "figurine",
+      "capodimonte",
+      "porcelain",
+      "music box",
+      "italian",
+      "vintage"
+    ],
+    "era": "Early 1900s",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/54affd31-1465-46c5-a2a2-3cb9cac9a9f8/capodimonte-music-box-figurine-8958?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a140c1cd-af44-4205-ac95-d9e61d772970/capodimonte-music-box-figurine-4326?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6047e437-4a54-4ab1-8e06-c8046aa9f7ea/capodimonte-music-box-figurine-8755?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/40dd4071-2fa7-410a-8d27-ce153ba2ef6e/capodimonte-music-box-figurine-0862?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1114087/capodimonte-music-box-figurine",
+    "sourceProductId": "1114087",
+    "createdAt": "2026-05-12T09:30:00.000Z"
+  },
+  {
+    "id": "baccarat-harcourt-pattern-candy-dish",
+    "title": "Baccarat Harcourt Pattern Candy Dish",
+    "price": 450,
+    "compareAtPrice": null,
+    "condition": "Vintage, Excellent Condition",
+    "dimensions": {
+      "w": 9.0,
+      "d": 9.0,
+      "h": 8.5,
+      "unit": "in"
+    },
+    "description": "An elegant Baccarat crystal candy dish in the iconic Harcourt pattern. Timeless French crystal craftsmanship in excellent condition, perfect for decorative display or serving.",
+    "category": "furniture",
+    "tags": [
+      "candy dish",
+      "baccarat",
+      "crystal",
+      "harcourt pattern",
+      "french"
+    ],
+    "era": "Vintage",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/5e718024-50ea-460e-ac83-e9e49e9373ce/baccarat-harcourt-pattern-candy-dish-2975?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e4292d51-4819-482c-a821-1eac7c2de819/baccarat-harcourt-pattern-candy-dish-4301?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4c70dd65-aa50-4279-9ab6-5b378b6fec75/baccarat-harcourt-pattern-candy-dish-5046?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/831fb64c-bae9-4d6f-a852-6ca68614dbcc/baccarat-harcourt-pattern-candy-dish-6132?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1114103/baccarat-harcourt-pattern-candy-dish",
+    "sourceProductId": "1114103",
+    "createdAt": "2026-05-17T15:45:00.000Z"
+  },
+  {
+    "id": "french-art-deco-cheese-dish-in-the-style-of-lilaque",
+    "title": "French Art Deco Cheese Dish in the Style of Lilaque",
+    "price": 150,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 8.75,
+      "d": 8.75,
+      "h": 6.5,
+      "unit": "in"
+    },
+    "description": "A stunning French Art Deco cheese dish in frosted glass, in the style of Lalique, with delicate bird motifs. An early 20th century decorative piece with quintessential Art Deco charm.",
+    "category": "furniture",
+    "tags": [
+      "cheese dish",
+      "art deco",
+      "frosted glass",
+      "french",
+      "lalique style"
+    ],
+    "era": "Early 20th Century, Art Deco",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9fade8db-73b4-4eb8-b7fe-33b6dce091ae/french-art-deco-cheese-dish-in-the-style-of-lilaque-0149?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7a47ec1b-e95c-437c-b1a9-5767fcdf9940/french-art-deco-cheese-dish-in-the-style-of-lilaque-9064?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/10f2267c-a270-4127-aa1f-838e3521adb6/french-art-deco-cheese-dish-in-the-style-of-lilaque-9196?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/dded3760-c507-41f0-80e1-d4ea7898a8c3/french-art-deco-cheese-dish-in-the-style-of-lilaque-2664?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1114207/french-art-deco-cheese-dish-in-the-style-of-lilaque",
+    "sourceProductId": "1114207",
+    "createdAt": "2026-05-22T12:00:00.000Z"
+  },
+  {
+    "id": "19th-century-mandarin-platter",
+    "title": "19th Century Mandarin Platter",
+    "price": 780,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 14.0,
+      "d": 14.0,
+      "h": 2.75,
+      "unit": "in"
+    },
+    "description": "A 19th century Chinese Mandarin platter in a striking sky blue and burnt orange glaze, featuring a four-panel narrative border and a central medallion. A vibrant example of export porcelain.",
+    "category": "decor",
+    "tags": [
+      "platter",
+      "mandarin porcelain",
+      "chinese export",
+      "19th century",
+      "ceramic"
+    ],
+    "era": "19th Century",
+    "origin": "China",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c7a6d1a8-45d6-45ca-969e-052e0a9331d8/19th-century-mandarin-platter-1506?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/aa0dec8e-c138-4461-81db-350b4fdb0397/19th-century-mandarin-platter-2423?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/31553858-33f4-46a9-a44d-1d75652e3b93/19th-century-mandarin-platter-2600?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0eab47fe-02a1-4032-9241-16541bd3943a/19th-century-mandarin-platter-2200?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1114221/19th-century-mandarin-platter",
+    "sourceProductId": "1114221",
+    "createdAt": "2026-05-27T10:30:00.000Z"
+  },
+  {
+    "id": "pressed-glass-covered-dish",
+    "title": "Pressed Glass Covered Dish",
+    "price": 66,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 6.75,
+      "d": 6.75,
+      "h": 6.5,
+      "unit": "in"
+    },
+    "description": "A vintage Art Deco pressed glass covered dish with a striking geometric design. A stylish serving piece or decorative accent with true period character.",
+    "category": "furniture",
+    "tags": [
+      "dish",
+      "pressed glass",
+      "art deco",
+      "vintage",
+      "covered dish"
+    ],
+    "era": "Vintage, Art Deco",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/371f4fcb-c9e3-444d-a2b1-b3189b4cd47e/pressed-glass-covered-dish-9871?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/4cc3b91d-bc60-4f69-be0d-8bb10ffaff6b/pressed-glass-covered-dish-6760?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/347a2c27-685c-47ce-a711-5d60a29ac054/pressed-glass-covered-dish-5165?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/64c23e20-deb3-410c-9888-219ded1b6199/pressed-glass-covered-dish-1017?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1114251/pressed-glass-covered-dish",
+    "sourceProductId": "1114251",
+    "createdAt": "2026-06-01T14:00:00.000Z"
+  },
+  {
+    "id": "louis-xvi-style-mirror",
+    "title": "Louis XVI Style Mirror",
+    "price": 3420,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 32.0,
+      "d": 5.0,
+      "h": 71.0,
+      "unit": "in"
+    },
+    "description": "An ornate Louis XVI style mirror with sculptural gold details and a grand, oversized presence. Crafted in the late 19th century, this statement mirror commands a room.",
+    "category": "art-mirrors",
+    "tags": [
+      "mirror",
+      "gold frame",
+      "louis xvi style",
+      "19th century",
+      "wall mirror"
+    ],
+    "era": "Late 19th Century, Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7a9781d6-b0ca-4bb6-86f8-a6d51fe55bf3/louis-xvi-style-mirror-1105?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/12b1ffb1-7569-4948-8ece-46a50d47f2b0/louis-xvi-style-mirror-0498?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a17f1724-e964-450b-be9d-003f63b85624/louis-xvi-style-mirror-0622?aspect=fit&width=1200&height=1200",
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/5b029028-b1a5-4965-80b6-656d512b49e7/louis-xvi-style-mirror-3702?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1117998/louis-xvi-style-mirror",
+    "sourceProductId": "1117998",
+    "createdAt": "2026-06-30T11:15:00.000Z"
+  },
+  {
+    "id": "glass-column-candlesticks-pair",
+    "title": "Glass Column Candlesticks - a Pair",
+    "price": 234,
+    "compareAtPrice": null,
+    "condition": "Vintage, Excellent Condition",
+    "dimensions": {
+      "w": 4.0,
+      "d": 4.0,
+      "h": 7.25,
+      "unit": "in"
+    },
+    "description": "A pair of glass column candlesticks from the 1940s, prized for their clean minimalist lines and quiet Mid-Century Modern sensibility. Presented in excellent condition, they read equally well in a traditional tablescape or a pared-down modern interior.",
+    "category": "lighting",
+    "tags": [
+      "candlestick",
+      "pair",
+      "glass",
+      "mid-century modern",
+      "1940s"
+    ],
+    "era": "1940s, Mid-Century Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/c2411bee-1f24-408c-ab1a-3a9450b14ac7/glass-column-candlesticks-a-pair-6238?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1125128/glass-column-candlesticks-a-pair",
+    "sourceProductId": "1125128",
+    "createdAt": "2026-07-20T12:00:00.000Z"
+  },
+  {
+    "id": "old-paris-dessert-service-set-of-6",
+    "title": "Old Paris Dessert Service - Set of 6",
+    "price": 540,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 10.0,
+      "d": 10.0,
+      "h": 7.5,
+      "unit": "in"
+    },
+    "description": "An elegant 1830s Old Paris porcelain dessert service comprising a sculptural footed fruit bowl, two footed bowls, two serving trays and a sugar bowl. Hand-finished in the grand French tradition, it brings heirloom charm to any table.",
+    "category": "decor",
+    "tags": [
+      "dessert service",
+      "old paris",
+      "porcelain",
+      "1830s",
+      "french",
+      "set of 6"
+    ],
+    "era": "1830s, Louis Philippe",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e781e7ed-c4bd-4674-a496-d13b9e321be2/old-paris-dessert-service-set-of-6-7573?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1125227/old-paris-dessert-service-set-of-6",
+    "sourceProductId": "1125227",
+    "createdAt": "2026-07-17T12:00:00.000Z"
+  },
+  {
+    "id": "19th-century-breton-region-vaisselier",
+    "title": "19th Century Breton Region Vaisselier",
+    "price": 2760,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 52.0,
+      "d": 20.5,
+      "h": 79.0,
+      "unit": "in"
+    },
+    "description": "A monumental 19th century Breton region vaisselier (sideboard), dated 1889 in nailhead trim upon its crest. Carved with fanciful ship's wheel motifs and fitted with a drawer and two-door cupboard below, it carries the wear of an honest working life in a French farmhouse.",
+    "category": "furniture",
+    "tags": [
+      "vaisselier",
+      "sideboard",
+      "breton",
+      "french",
+      "19th century",
+      "carved"
+    ],
+    "era": "1889, Breton Regional",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d3c83a5a-55ce-49c7-826b-ef690f1e972a/19th-century-breton-region-vaisselier-1259?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1129000/19th-century-breton-region-vaisselier",
+    "sourceProductId": "1129000",
+    "createdAt": "2026-07-14T12:00:00.000Z"
+  },
+  {
+    "id": "french-mid-century-modern-rosewood-bar",
+    "title": "French Mid-Century Modern Rosewood Bar",
+    "price": 1620,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 39.25,
+      "d": 17.25,
+      "h": 55.5,
+      "unit": "in"
+    },
+    "description": "A stately French Mid-Century Modern rosewood bar cabinet, circa 1940s, with a mirrored back, glass sliding doors and striking sunburst-patterned wood and metalwork. Vintage glamour for a dining room or den.",
+    "category": "furniture",
+    "tags": [
+      "bar cabinet",
+      "rosewood",
+      "mid-century modern",
+      "french",
+      "sunburst"
+    ],
+    "era": "1940s, Mid-Century Modern",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6ec36adc-f866-4f96-aa5b-221de8fd3985/french-mid-century-modern-rosewood-bar-8663?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1129018/french-mid-century-modern-rosewood-bar",
+    "sourceProductId": "1129018",
+    "createdAt": "2026-07-11T12:00:00.000Z"
+  },
+  {
+    "id": "french-1940s-frosted-floral-glass-vase-brass-setting",
+    "title": "French 1940's Frosted Floral Glass Vase With Brass Setting",
+    "price": 135,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 6.0,
+      "d": 6.0,
+      "h": 9.25,
+      "unit": "in"
+    },
+    "description": "A charming French frosted glass vase from the 1940s, cast with delicate floral details and fitted with brass mounts at the top and bottom. A sweet accent for a mantel or side table.",
+    "category": "decor",
+    "tags": [
+      "vase",
+      "frosted glass",
+      "brass",
+      "floral",
+      "french",
+      "1940s"
+    ],
+    "era": "1940s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7cec9a45-4e13-4c21-a84e-5c3e6a9c8d5b/french-1940s-frosted-floral-glass-vase-with-brass-setting-1841?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1129839/french-1940s-frosted-floral-glass-vase-with-brass-setting",
+    "sourceProductId": "1129839",
+    "createdAt": "2026-07-08T12:00:00.000Z"
+  },
+  {
+    "id": "sarreguemines-french-military-life-plates-set-of-7",
+    "title": "Sarreguemines French Military Life Plates - Set of 7",
+    "price": 720,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 7.25,
+      "d": 1.0,
+      "h": 7.25,
+      "unit": "in"
+    },
+    "description": "A set of seven Sarreguemines ceramic plates decorated with scenes of French military life, five original designs with two duplicated. Excellent condition overall with only a single small chip to one plate.",
+    "category": "decor",
+    "tags": [
+      "plates",
+      "sarreguemines",
+      "military",
+      "french",
+      "ceramic",
+      "set of 7"
+    ],
+    "era": "Late 19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/83ef79c1-b9bb-4d4c-837a-1f4c19e28e4c/sarreguemines-french-military-life-plates-set-of-7-2464?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1130934/sarreguemines-french-military-life-plates-set-of-7",
+    "sourceProductId": "1130934",
+    "createdAt": "2026-07-05T12:00:00.000Z"
+  },
+  {
+    "id": "french-empire-mahogany-four-drawer-chest",
+    "title": "French Empire Solid Mahogany Four Drawer Chest",
+    "price": 3900,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 53.5,
+      "d": 26.0,
+      "h": 37.0,
+      "unit": "in"
+    },
+    "description": "A handsome French Empire chest of drawers, circa 1815, in solid mahogany with columned corners, bronze hardware and a gray marble top. Wear to the wood and light scratching to the marble are consistent with two centuries of use.",
+    "category": "furniture",
+    "tags": [
+      "chest",
+      "commode",
+      "mahogany",
+      "empire",
+      "bronze hardware",
+      "marble top",
+      "french"
+    ],
+    "era": "Circa 1815, French Empire",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b6132c37-acd7-46e2-b67a-2fe8c0bd7193/french-empire-solid-mahogany-four-drawer-chest-5936?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1131991/french-empire-solid-mahogany-four-drawer-chest",
+    "sourceProductId": "1131991",
+    "createdAt": "2026-07-02T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xviii-period-side-chairs-pair",
+    "title": "Antique Louis XVIII Period Side Chairs With 19th Century Upholstery - a Pair",
+    "price": 1380,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 20.0,
+      "d": 18.0,
+      "h": 43.5,
+      "unit": "in"
+    },
+    "description": "A pair of antique Louis XVIII-style side chairs, their frames dating back generations, later reupholstered in the late 19th century. The graceful legs remain in excellent condition, with only minor wear to the fabric.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "pair",
+      "side chair",
+      "louis xviii",
+      "french",
+      "antique"
+    ],
+    "era": "Antique, Louis XVIII Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a8fc83d8-8d9d-4362-b17f-8c5f43ab9193/antique-louis-xviii-period-side-chairs-with-19th-century-upholstery-a-pair-3197?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1138896/antique-louis-xviii-period-side-chairs-with-19th-century-upholstery-a-pair",
+    "sourceProductId": "1138896",
+    "createdAt": "2026-06-29T12:00:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-bronze-andirons-pair",
+    "title": "19th Century French Napoleon III Bronze Andirons - a Pair",
+    "price": 414,
+    "compareAtPrice": null,
+    "condition": "Antique, Excellent Condition",
+    "dimensions": {
+      "w": 9.0,
+      "d": 5.0,
+      "h": 17.0,
+      "unit": "in"
+    },
+    "description": "A pair of French Napoleon III bronze andirons, circa 1880s, with intricately detailed finials. A handsome finishing touch for a working or decorative fireplace.",
+    "category": "decor",
+    "tags": [
+      "andirons",
+      "fireplace",
+      "bronze",
+      "napoleon iii",
+      "french",
+      "pair"
+    ],
+    "era": "1880s, Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7d817822-e0b1-4784-8fab-d882c8beecd5/19th-century-french-napoleon-iii-bronze-andirons-a-pair-8663?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1139479/19th-century-french-napoleon-iii-bronze-andirons-a-pair",
+    "sourceProductId": "1139479",
+    "createdAt": "2026-06-26T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xvi-style-bronze-andirons-set-of-3",
+    "title": "19th Century Louis XVI Style Bronze Andirons - Set of 3",
+    "price": 1440,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 34.0,
+      "d": 4.0,
+      "h": 18.5,
+      "unit": "in"
+    },
+    "description": "A three-piece bronze andiron set in the Louis XVI style, dating to the 1880s, decorated throughout with flowers and flourishes. Minor tarnish to the bronze only adds to its antique character.",
+    "category": "decor",
+    "tags": [
+      "andirons",
+      "fireplace",
+      "bronze",
+      "louis xvi style",
+      "french",
+      "set of 3"
+    ],
+    "era": "1880s, Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7d7bda63-e916-485b-886c-d94bf1a4668c/19th-century-louis-xvi-style-bronze-andirons-set-of-3-7726?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1139502/19th-century-louis-xvi-style-bronze-andirons-set-of-3",
+    "sourceProductId": "1139502",
+    "createdAt": "2026-06-23T12:00:00.000Z"
+  },
+  {
+    "id": "french-louis-xvi-brass-chenet-3-pieces",
+    "title": "French Louis XVI Brass Chenet - 3 Pieces",
+    "price": 1074,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 48.5,
+      "d": 4.0,
+      "h": 16.0,
+      "unit": "in"
+    },
+    "description": "A three-piece French brass chenet (andiron) set in the Louis XVI style, circa 1880, richly detailed in the neoclassical manner. Light tarnish and a small dent to the center piece are consistent with age.",
+    "category": "decor",
+    "tags": [
+      "chenet",
+      "andirons",
+      "fireplace",
+      "brass",
+      "louis xvi style",
+      "french"
+    ],
+    "era": "Circa 1880, Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/aff2f428-734f-4324-81a7-83a158b59d54/french-louis-xvi-brass-chenet-3-pieces-6156?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1140346/french-louis-xvi-brass-chenet-3-pieces",
+    "sourceProductId": "1140346",
+    "createdAt": "2026-06-20T12:00:00.000Z"
+  },
+  {
+    "id": "miniature-old-paris-vases-pair",
+    "title": "Miniature Old Paris Vases - a Pair",
+    "price": 150,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 3.5,
+      "d": 2.0,
+      "h": 4.0,
+      "unit": "in"
+    },
+    "description": "A sweet pair of miniature Old Paris porcelain vases, circa 1890s, with gilt accents and sculptural detailing in true Old Paris fashion. Lovely for displaying a few buds or standing alone. Wear to the gilding and paint is consistent with age.",
+    "category": "decor",
+    "tags": [
+      "vase",
+      "pair",
+      "old paris",
+      "porcelain",
+      "miniature",
+      "gilt",
+      "french"
+    ],
+    "era": "1890s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/adee97f5-64c0-4761-a675-2dc261cf6d7e/miniature-old-paris-vases-a-pair-5469?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1148324/miniature-old-paris-vases-a-pair",
+    "sourceProductId": "1148324",
+    "createdAt": "2026-06-17T12:00:00.000Z"
+  },
+  {
+    "id": "old-paris-painted-and-gilded-vase",
+    "title": "Old Paris Painted and Gilded Vase",
+    "price": 270,
+    "compareAtPrice": null,
+    "condition": "Antique, Excellent Condition",
+    "dimensions": {
+      "w": 7.0,
+      "d": 4.5,
+      "h": 12.0,
+      "unit": "in"
+    },
+    "description": "An exceptional Old Paris porcelain vase, hand painted with flowers and finished in gilt. In excellent condition with no chips, cracks or breaks - only gentle wear to the gilding.",
+    "category": "decor",
+    "tags": [
+      "vase",
+      "old paris",
+      "porcelain",
+      "gilt",
+      "painted",
+      "french"
+    ],
+    "era": "19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b7590534-9cfb-4734-8b0f-f8ecdd323358/old-paris-painted-and-gilded-vase-2017?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1148388/old-paris-painted-and-gilded-vase",
+    "sourceProductId": "1148388",
+    "createdAt": "2026-06-14T12:00:00.000Z"
+  },
+  {
+    "id": "cast-iron-bulldog-bank",
+    "title": "Cast Iron Bull Dog Bank",
+    "price": 357,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 9.0,
+      "d": 5.0,
+      "h": 6.0,
+      "unit": "in"
+    },
+    "description": "A whimsical 1920s cast iron bulldog bank figurine, painted grey with a charmingly snaggletoothed expression and wonderful old patina. A fun figural collectible for any dog lover.",
+    "category": "decor",
+    "tags": [
+      "figurine",
+      "cast iron",
+      "bank",
+      "bulldog",
+      "vintage",
+      "americana"
+    ],
+    "era": "1920s",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/dfe9017c-cdeb-4a54-bd4a-197cf8a15db2/cast-iron-bull-dog-bank-7212?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1430098/cast-iron-bull-dog-bank",
+    "sourceProductId": "1430098",
+    "createdAt": "2026-06-11T12:00:00.000Z"
+  },
+  {
+    "id": "vintage-wrigley-building-scotty-dog-souvenir",
+    "title": "Vintage Wrigley Building Scotty Dog Souvenir",
+    "price": 84,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 3.0,
+      "d": 1.5,
+      "h": 3.0,
+      "unit": "in"
+    },
+    "description": "A nostalgic 1920s Scotty dog souvenir figurine cast in black metal, commemorating Chicago's landmark Wrigley Building. A compact, characterful curiosity for a shelf or bookcase.",
+    "category": "decor",
+    "tags": [
+      "figurine",
+      "scotty dog",
+      "souvenir",
+      "black metal",
+      "vintage",
+      "americana"
+    ],
+    "era": "1920s",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/1974009b-f44b-4667-be26-913397374888/vintage-wrigley-building-scotty-dog-souvenir-2512?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1430211/vintage-wrigley-building-scotty-dog-souvenir",
+    "sourceProductId": "1430211",
+    "createdAt": "2026-06-08T12:00:00.000Z"
+  },
+  {
+    "id": "st-louis-crystal-bonbonier",
+    "title": "St. Louis Crystal Bonbonier",
+    "price": 525,
+    "compareAtPrice": null,
+    "condition": "Vintage, Excellent Condition",
+    "dimensions": {
+      "w": 7.0,
+      "d": 7.0,
+      "h": 9.5,
+      "unit": "in"
+    },
+    "description": "A rare St. Louis crystal bonbonier in the Art Nouveau taste, early 1900s, complete with its original under plate and preserved in pristine condition. Sourced from a house sale in the south of France.",
+    "category": "decor",
+    "tags": [
+      "bonbonier",
+      "crystal",
+      "st. louis",
+      "art nouveau",
+      "box",
+      "french"
+    ],
+    "era": "Early 1900s, Art Nouveau",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/cebbce9a-0c52-4e9b-b73f-66878434c128/st-louis-crystal-bonbonier-8872?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1697181/st-louis-crystal-bonbonier",
+    "sourceProductId": "1697181",
+    "createdAt": "2026-06-05T12:00:00.000Z"
+  },
+  {
+    "id": "set-of-12-french-horn-sterling-steel-knives",
+    "title": "Set of 12 French Horn, Sterling and Steel Knives",
+    "price": 650,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 1.0,
+      "d": 0.2,
+      "h": 8.0,
+      "unit": "in"
+    },
+    "description": "A hard-to-find set of twelve French Napoleon III-era knives with horn handles delicately carved to resemble branches, sterling and steel blades, presented in their original box.",
+    "category": "decor",
+    "tags": [
+      "knives",
+      "flatware",
+      "horn handle",
+      "sterling",
+      "napoleon iii",
+      "french",
+      "set of 12"
+    ],
+    "era": "Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/1c9cc625-4e70-4156-8ec6-69aed53ff680/set-of-12-french-horn-sterling-and-steel-knives-6538?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1765697/set-of-12-french-horn-sterling-and-steel-knives",
+    "sourceProductId": "1765697",
+    "createdAt": "2026-06-02T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xv-style-arm-chair-aubusson-tapestry",
+    "title": "Louis XV Style Arm Chair With Aubusson Tapestry",
+    "price": 2450,
+    "compareAtPrice": null,
+    "condition": "Antique, Excellent Condition",
+    "dimensions": {
+      "w": 26.5,
+      "d": 26.0,
+      "h": 39.0,
+      "unit": "in"
+    },
+    "description": "A Louis XV style walnut armchair, late 19th century, retaining its original Aubusson tapestry upholstery in wonderful condition. Curvaceous and just a touch decadent, it suits both traditional and mid-century interiors.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "armchair",
+      "aubusson",
+      "tapestry",
+      "louis xv style",
+      "walnut",
+      "french"
+    ],
+    "era": "Late 19th Century, Louis XV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/a22933ef-6746-4030-8671-43d42a30622e/louis-xv-style-arm-chair-with-aubusson-tapestry-9459?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1796250/louis-xv-style-arm-chair-with-aubusson-tapestry",
+    "sourceProductId": "1796250",
+    "createdAt": "2026-05-30T12:00:00.000Z"
+  },
+  {
+    "id": "french-bronze-empire-clock",
+    "title": "French Bronze Empire Clock",
+    "price": 2400,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 12.0,
+      "d": 6.75,
+      "h": 22.0,
+      "unit": "in"
+    },
+    "description": "A classic French Empire bronze mantel clock, cast with a graceful goddess figure and finished in a rich bronze patina. A striking, working conversation piece for a mantel or shelf.",
+    "category": "decor",
+    "tags": [
+      "clock",
+      "bronze",
+      "empire",
+      "french",
+      "mantel clock"
+    ],
+    "era": "French Empire",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d8c717e8-921e-4ba9-a976-894d1d4cc0dc/french-bronze-empire-clock-7769?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1825961/french-bronze-empire-clock",
+    "sourceProductId": "1825961",
+    "createdAt": "2026-05-27T12:00:00.000Z"
+  },
+  {
+    "id": "charles-x-painted-tole-lamp",
+    "title": "Charles X Painted Tole Lamp",
+    "price": 620,
+    "compareAtPrice": null,
+    "condition": "Vintage, Newly Rewired",
+    "dimensions": {
+      "w": 5.0,
+      "d": 5.0,
+      "h": 29.5,
+      "unit": "in"
+    },
+    "description": "A Charles X period tole lamp finished in a vibrant mustard yellow, converted from oil and newly rewired for safe modern use. A cheerful splash of color for any tabletop.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "tole",
+      "charles x",
+      "painted",
+      "french",
+      "mustard yellow"
+    ],
+    "era": "Charles X",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/17476226-8f7f-4989-b2e5-c62376c55b1d/charles-x-painted-tole-lamp-4792?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1844143/charles-x-painted-tole-lamp",
+    "sourceProductId": "1844143",
+    "createdAt": "2026-05-24T12:00:00.000Z"
+  },
+  {
+    "id": "capodimonte-french-imperial-soldier-statue",
+    "title": "Capodimonte Porcelain Statue of a French Imperial Soldier",
+    "price": 175,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 2.5,
+      "d": 2.5,
+      "h": 8.5,
+      "unit": "in"
+    },
+    "description": "A charming Capodimonte porcelain statue depicting a French Imperial soldier of the Napoleonic era, crafted in Italy in the early 1900s. A compact decorative accent full of character.",
+    "category": "decor",
+    "tags": [
+      "statue",
+      "capodimonte",
+      "porcelain",
+      "napoleonic",
+      "figurine",
+      "italian"
+    ],
+    "era": "Early 1900s, Napoleonic Era Subject",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/ffaf0e8c-c9c5-48c1-ad48-dda9296973ae/capodimonte-porcelain-statue-of-a-french-imperial-soldier-1395?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1888445/capodimonte-porcelain-statue-of-a-french-imperial-soldier",
+    "sourceProductId": "1888445",
+    "createdAt": "2026-05-21T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xv-period-side-chair",
+    "title": "Louis XV Period Side Chair",
+    "price": 1400,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 19.0,
+      "d": 19.0,
+      "h": 36.5,
+      "unit": "in"
+    },
+    "description": "A Louis XV period side chair in rich walnut, its rustic elegance and heirloom quality shining through generations of use. A wonderful accent chair for an entry, desk or bedroom.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "side chair",
+      "louis xv",
+      "walnut",
+      "french",
+      "antique"
+    ],
+    "era": "Louis XV Period",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/12765f92-07ba-4a5b-acb9-99401eb4249b/louis-xv-period-side-chair-8559?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/2488311/louis-xv-period-side-chair",
+    "sourceProductId": "2488311",
+    "createdAt": "2026-05-18T12:00:00.000Z"
+  },
+  {
+    "id": "19th-century-italian-walnut-chair",
+    "title": "19th Century Walnut Chair",
+    "price": 1500,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 27.5,
+      "d": 30.0,
+      "h": 42.5,
+      "unit": "in"
+    },
+    "description": "A 19th century Italian walnut side chair with a clever removable seat and back, designed to be re-upholstered seasonally. The current beige linen shows minor water staining, but the frame remains in excellent, ready-to-use condition.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "walnut",
+      "italian",
+      "19th century",
+      "upholstered",
+      "side chair"
+    ],
+    "era": "19th Century",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/89d3b111-26a5-40cd-b31c-15792f49a012/19th-century-walnut-chair-1212?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/2503445/19th-century-walnut-chair",
+    "sourceProductId": "2503445",
+    "createdAt": "2026-05-15T12:00:00.000Z"
+  },
+  {
+    "id": "copper-samovar",
+    "title": "Copper Samovar",
+    "price": 295,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 15.0,
+      "d": 16.0,
+      "h": 20.0,
+      "unit": "in"
+    },
+    "description": "A handsome copper samovar dating to the 1920s, likely brought to France by White Russian emigres following the First World War. An eclectic, urn-like accent piece with rich patina.",
+    "category": "decor",
+    "tags": [
+      "samovar",
+      "copper",
+      "urn",
+      "russian",
+      "1920s",
+      "kitchen"
+    ],
+    "era": "1920s",
+    "origin": "Russia, via France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8c62a529-6612-423e-bd8e-4ff15df082e7/copper-samovar-0469?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/2677526/copper-samovar",
+    "sourceProductId": "2677526",
+    "createdAt": "2026-05-12T12:00:00.000Z"
+  },
+  {
+    "id": "french-landscape-painting-barbizon-style",
+    "title": "French Landscape",
+    "price": 1500,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 25.0,
+      "d": 1.5,
+      "h": 21.5,
+      "unit": "in"
+    },
+    "description": "A tranquil French landscape painting in the Barbizon style, late 19th century, depicting a serene river scene in oil on canvas. A quietly relaxing focal point for any wall.",
+    "category": "art-mirrors",
+    "tags": [
+      "painting",
+      "landscape",
+      "barbizon",
+      "oil on canvas",
+      "french",
+      "19th century"
+    ],
+    "era": "Late 19th Century, Barbizon Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/88606be4-a004-4d21-936f-4b9d4142f2b1/french-landscape-2833?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/3085278/french-landscape",
+    "sourceProductId": "3085278",
+    "createdAt": "2026-05-09T12:00:00.000Z"
+  },
+  {
+    "id": "french-stone-mortar",
+    "title": "French Mortar",
+    "price": 1300,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 5.5,
+      "d": 9.5,
+      "h": 9.5,
+      "unit": "in"
+    },
+    "description": "A weathered French stone mortar, early 19th century, with the rustic, sun-bleached patina of long garden use. Lovely planted with moss or orchids, or simply displayed on its own.",
+    "category": "decor",
+    "tags": [
+      "mortar",
+      "stone",
+      "urn",
+      "french",
+      "garden",
+      "19th century"
+    ],
+    "era": "Early 19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6fbd3585-c297-4735-9a90-843b39ab5cb4/french-mortar-7099?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/3438422/french-mortar",
+    "sourceProductId": "3438422",
+    "createdAt": "2026-05-06T12:00:00.000Z"
+  },
+  {
+    "id": "late-19th-century-brass-andirons-pair",
+    "title": "Late 19th Century Napoleon Brass Andirons- a Pair",
+    "price": 295,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 5.0,
+      "d": 15.0,
+      "h": 11.0,
+      "unit": "in"
+    },
+    "description": "A pair of late 19th century Louis XVI style brass andirons, polished to a gleaming shine. Equally suited to a wood-burning or gas fireplace for a traditional finishing touch.",
+    "category": "decor",
+    "tags": [
+      "andirons",
+      "fireplace",
+      "brass",
+      "louis xvi style",
+      "french",
+      "pair"
+    ],
+    "era": "Late 19th Century, Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/957e0c25-401c-4dbb-aa29-5fea637dd77d/late-19th-century-napoleon-brass-andirons-a-pair-8933?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/3584390/napoleon-3-brass-andirons",
+    "sourceProductId": "3584390",
+    "createdAt": "2026-05-03T12:00:00.000Z"
+  },
+  {
+    "id": "cast-iron-architectural-salvage-lamps-pair-richmond",
+    "title": "Cast Iron Architectural Salvage Lamps a Pair",
+    "price": 1450,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 14.0,
+      "d": 14.0,
+      "h": 24.0,
+      "unit": "in"
+    },
+    "description": "A pair of cast iron architectural salvage lamps, dating to the last quarter of the 19th century and rescued from a building being demolished in downtown Richmond. Industrial-chic with a storied patina - perfect for a library or sofa table.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "cast iron",
+      "architectural salvage",
+      "industrial",
+      "pair",
+      "americana"
+    ],
+    "era": "Late 19th Century",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3e5db49e-2107-4859-98cc-08adb7868dfa/cast-iron-architectural-salvage-lamps-a-pair-5487?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/4081549/cast-iron-architectural-salvage-lamps-a-pair",
+    "sourceProductId": "4081549",
+    "createdAt": "2026-04-30T12:00:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-gien-medici-vase",
+    "title": "Napoleon III Vase",
+    "price": 1595,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 12.0,
+      "d": 12.0,
+      "h": 14.0,
+      "unit": "in"
+    },
+    "description": "A hand-painted Napoleon III-style Medici vase by the celebrated French ceramics house Gien, decorated with a romantic floral scene in warm browns and creams and hand signed by the artist.",
+    "category": "decor",
+    "tags": [
+      "vase",
+      "gien",
+      "porcelain",
+      "napoleon iii",
+      "hand painted",
+      "french"
+    ],
+    "era": "Napoleon III Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6e3bf60d-e4b5-4550-9695-1c58476b7596/napoleon-iii-vase-9687?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/4292342/napoleon-iii-vase",
+    "sourceProductId": "4292342",
+    "createdAt": "2026-04-27T12:00:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-mahogany-desk-chair",
+    "title": "Napoleon 3rd Desk Chair",
+    "price": 1950,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 24.0,
+      "d": 20.0,
+      "h": 28.0,
+      "unit": "in"
+    },
+    "description": "A Napoleon III desk chair in solid Cuban mahogany with its original leather upholstery still intact. Sturdy and supremely comfortable, it's ready for daily use in a home office.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "desk chair",
+      "mahogany",
+      "leather",
+      "napoleon iii",
+      "french"
+    ],
+    "era": "Late 19th Century, Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/0cf42dcb-43a0-4111-9431-648c0b5cc23a/napoleon-3rd-desk-chair-7506?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/5073098/napoleon-3rd-desk-chair",
+    "sourceProductId": "5073098",
+    "createdAt": "2026-04-24T12:00:00.000Z"
+  },
+  {
+    "id": "louis-philippe-walnut-refraisesoire-wine-table",
+    "title": "Louis Phillipe Walnut Refraisesoire",
+    "price": 2450,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 18.0,
+      "d": 18.0,
+      "h": 29.5,
+      "unit": "in"
+    },
+    "description": "A rare Louis-Philippe walnut refraichissoir (wine cellarette table), early 19th century, fitted with a small drawer for wine accessories and topped in Pyrenees marble. Rustic elegance for a wine cellar or dining room.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "wine table",
+      "walnut",
+      "marble top",
+      "louis philippe",
+      "french"
+    ],
+    "era": "Early 19th Century, Louis Philippe",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/03e623bd-f3b2-43ca-9f3c-bf26001cc573/louis-phillipe-walnut-refraisesoire-2748?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/5153497/louis-phillipe-walnut-refraisesoire",
+    "sourceProductId": "5153497",
+    "createdAt": "2026-04-21T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xvi-style-giltwood-lamp",
+    "title": "Louis XVI Style Lamp",
+    "price": 1450,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 7.5,
+      "d": 7.5,
+      "h": 31.5,
+      "unit": "in"
+    },
+    "description": "A hand-carved Louis XVI style lamp in giltwood and paint, dating to the 1920s. Ornate and glamorous, it brings a touch of gilded formality to any tabletop.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "giltwood",
+      "louis xvi style",
+      "carved",
+      "french",
+      "1920s"
+    ],
+    "era": "1920s, Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2271f078-97b9-44fd-b1c3-ca225202f75f/louis-xvi-style-lamp-0655?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/5513469/louis-xvi-style-lamp",
+    "sourceProductId": "5513469",
+    "createdAt": "2026-04-18T12:00:00.000Z"
+  },
+  {
+    "id": "maitland-smith-bronze-console",
+    "title": "Maitland Smith Console",
+    "price": 4500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 65.0,
+      "d": 19.0,
+      "h": 33.25,
+      "unit": "in"
+    },
+    "description": "An elegant Maitland-Smith console table with bronze accents and patinated wrought iron base, its transitional design drawing on Louis XIV inspiration. A statement piece for an entry or hallway.",
+    "category": "furniture",
+    "tags": [
+      "console",
+      "maitland-smith",
+      "bronze",
+      "wrought iron",
+      "louis xiv style"
+    ],
+    "era": "Transitional, Louis XIV-Inspired",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/2d772be9-c593-402a-b713-149018d31535/maitland-smith-console-6206?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/17472887/defense-de-balcon-console",
+    "sourceProductId": "17472887",
+    "createdAt": "2026-04-15T12:00:00.000Z"
+  },
+  {
+    "id": "18th-century-italian-walnut-chest-of-drawers",
+    "title": "18th Century Italian Chest of Drawers",
+    "price": 5800,
+    "compareAtPrice": null,
+    "condition": "Antique, Restored",
+    "dimensions": {
+      "w": 47.5,
+      "d": 26.0,
+      "h": 32.0,
+      "unit": "in"
+    },
+    "description": "An 18th century Italian chest of drawers in warm walnut, expertly restored to heirloom quality. Dramatic and timeless, it commands attention in any room it graces.",
+    "category": "furniture",
+    "tags": [
+      "chest",
+      "commode",
+      "walnut",
+      "italian",
+      "18th century",
+      "restored"
+    ],
+    "era": "18th Century",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/633745ac-6dc0-4787-bb98-5e2687d0104d/18th-century-italian-chest-of-drawers-0863?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35724790/18th-century-italian-chest-of-drawers",
+    "sourceProductId": "35724790",
+    "createdAt": "2026-04-12T12:00:00.000Z"
+  },
+  {
+    "id": "maitland-smith-style-bronze-monkey-table",
+    "title": "Maitland Smith Style Bronze Monkey Table",
+    "price": 2500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 30.0,
+      "d": 30.0,
+      "h": 30.75,
+      "unit": "in"
+    },
+    "description": "A whimsical bronze monkey table in the Maitland-Smith style, 1980s, with a playful figural base and glass top. A conversation-starting accent for an entry or side table.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "bronze",
+      "monkey",
+      "maitland-smith style",
+      "glass top",
+      "whimsical"
+    ],
+    "era": "1980s",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/d2f4a99a-6d93-4250-b2b0-27933955df4a/maitland-smith-style-bronze-monkey-table-1366?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35321473/maitland-smith-style-bronze-monkey-table",
+    "sourceProductId": "35321473",
+    "createdAt": "2026-04-09T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xvi-console-game-table",
+    "title": "Louis XVI Console Game Table",
+    "price": 3500,
+    "compareAtPrice": null,
+    "condition": "Antique, Restored",
+    "dimensions": {
+      "w": 33.0,
+      "d": 33.0,
+      "h": 28.75,
+      "unit": "in"
+    },
+    "description": "A Louis XVI console game table in rich mahogany with brass accents, freshly restored to showcase its classic French lines. A formal, versatile piece for an entryway or games room.",
+    "category": "furniture",
+    "tags": [
+      "console",
+      "game table",
+      "mahogany",
+      "brass",
+      "louis xvi",
+      "french"
+    ],
+    "era": "Louis XVI Period",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/fd129e19-af75-499d-9f40-57e2ccddf3b2/louis-xvi-console-game-table-1596?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35724730/louis-xvi-console-game-table",
+    "sourceProductId": "35724730",
+    "createdAt": "2026-04-06T12:00:00.000Z"
+  },
+  {
+    "id": "saxe-gotha-german-faience-vases-pair",
+    "title": "Saxe-Gotha German Faience Vases - a Pair",
+    "price": 400,
+    "compareAtPrice": 570,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 6.0,
+      "d": 8.0,
+      "h": 6.5,
+      "unit": "in"
+    },
+    "description": "A pair of antique Saxe-Gotha German faience vases, circa 1890-1900, in white with accents of dark pink and soft yellow. The exteriors remain excellent, with only minor interior cracking consistent with age.",
+    "category": "decor",
+    "tags": [
+      "vase",
+      "pair",
+      "faience",
+      "german",
+      "saxe-gotha",
+      "antique"
+    ],
+    "era": "Circa 1890-1900",
+    "origin": "Germany",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/821821b0-2b0e-4eaa-ae6e-d93b90edbc78/saxe-gotha-german-faience-vases-a-pair-5955?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/996344/saxe-gotha-german-faience-vases-a-pair",
+    "sourceProductId": "996344",
+    "createdAt": "2026-04-03T12:00:00.000Z"
+  },
+  {
+    "id": "plaster-pricket-lamp",
+    "title": "Plaster Pricket Lamp",
+    "price": 450,
+    "compareAtPrice": null,
+    "condition": "Vintage, Excellent Condition",
+    "dimensions": {
+      "w": 18.0,
+      "d": 18.0,
+      "h": 32.0,
+      "unit": "in"
+    },
+    "description": "A 1960s plaster pricket lamp in soft grey with a chic, shabby elegance, newly rewired for safety and fitted with a fresh white shade. A textural addition to any tabletop.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "pricket",
+      "plaster",
+      "1960s",
+      "vintage"
+    ],
+    "era": "1960s",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/707ef454-f8f1-4a35-bb59-bb0a1246a86e/plaster-pricket-lamp-6428?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1058055/plaster-pricket-lamp",
+    "sourceProductId": "1058055",
+    "createdAt": "2026-03-31T12:00:00.000Z"
+  },
+  {
+    "id": "19th-century-french-bronze-pricket-lamps-pair",
+    "title": "19th Century French Pricket Lamps - a Pair",
+    "price": 2340,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 20.0,
+      "d": 20.0,
+      "h": 46.5,
+      "unit": "in"
+    },
+    "description": "A stately pair of French bronze pricket lamps dating to the 1870s, newly rewired and fitted with fresh neutral shades. Substantial and formal, they anchor a console or pair of side tables beautifully.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "pricket",
+      "bronze",
+      "french",
+      "19th century",
+      "pair"
+    ],
+    "era": "1870s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8b0bfefb-ec74-4d0c-98ff-36be5168224a/19th-century-french-pricket-lamps-a-pair-2880?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1059085/19th-century-french-pricket-lamps-a-pair",
+    "sourceProductId": "1059085",
+    "createdAt": "2026-03-28T12:00:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-bronze-crystal-sconces-pair",
+    "title": "Napoleon III Bronze and Crystal Sconces - A Pair",
+    "price": 1170,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 13.0,
+      "d": 9.0,
+      "h": 17.0,
+      "unit": "in"
+    },
+    "description": "A pair of exquisite Napoleon III bronze and crystal sconces, dating to the 1890s and recently rewired for safe, easy installation. Refined sparkle for a hallway, dining room or bath.",
+    "category": "lighting",
+    "tags": [
+      "sconce",
+      "bronze",
+      "crystal",
+      "napoleon iii",
+      "french",
+      "pair"
+    ],
+    "era": "1890s, Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/42cc745a-3cf8-48e2-a648-3337784d267e/napoleon-iii-bronze-and-crystal-sconces-a-pair-6324?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1096966/napoleon-iii-bronze-and-crystal-sconces-a-pair",
+    "sourceProductId": "1096966",
+    "createdAt": "2026-03-25T12:00:00.000Z"
+  },
+  {
+    "id": "french-sconces-porcelain-flowers-pair",
+    "title": "French Sconces with Porcelain Flowers - A Pair",
+    "price": 834,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 12.0,
+      "d": 3.0,
+      "h": 11.0,
+      "unit": "in"
+    },
+    "description": "A pair of French Art Nouveau wall sconces from the 1920s, adorned with charming porcelain flowers arranged organically along the candle holders. Some wear to the painted metal, but the floral details remain intact.",
+    "category": "lighting",
+    "tags": [
+      "sconce",
+      "porcelain",
+      "flowers",
+      "art nouveau",
+      "french",
+      "pair"
+    ],
+    "era": "1920s, Art Nouveau",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/6e1ea7c7-3f26-4ed5-b1cd-9810170bf296/french-sconces-with-porcelain-flowers-a-pair-3206?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1102064/french-sconces-with-porcelain-flowers-a-pair",
+    "sourceProductId": "1102064",
+    "createdAt": "2026-03-22T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xv-period-commode-serpentine-front",
+    "title": "Louis XV Period Commode with Serpentine Front",
+    "price": 4100,
+    "compareAtPrice": 5760,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 51.0,
+      "d": 25.0,
+      "h": 32.0,
+      "unit": "in"
+    },
+    "description": "A genuine Louis XV period commode, circa 1750, with a graceful serpentine front and the deep, glowing patina that only 250 years of hand-rubbed waxing can produce. A rare, well-loved antique in very good condition.",
+    "category": "furniture",
+    "tags": [
+      "commode",
+      "serpentine",
+      "louis xv",
+      "french",
+      "18th century",
+      "patina"
+    ],
+    "era": "Circa 1750, Louis XV Period",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e38814de-db4b-4aa5-8200-edd47556fab4/louis-xv-period-commode-with-serpentine-front-9477?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1106302/louis-xv-period-commode-with-serpentine-front",
+    "sourceProductId": "1106302",
+    "createdAt": "2026-03-19T12:00:00.000Z"
+  },
+  {
+    "id": "french-mid-century-modern-metal-letter-o",
+    "title": "French Mid-Century Modern Metal Letter \"O\"",
+    "price": 150,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 20.25,
+      "d": 2.5,
+      "h": 20.0,
+      "unit": "in"
+    },
+    "description": "A vintage French metal letter 'O', salvaged from a 1930s outdoor sign and painted a lovely lilac-periwinkle hue. A graphic, playful accent for a gallery wall or bookshelf.",
+    "category": "decor",
+    "tags": [
+      "metal letter",
+      "sign",
+      "french",
+      "1930s",
+      "wall decor"
+    ],
+    "era": "1930s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3f715c30-1d63-4f15-9144-c8faacb8ec14/french-mid-century-modern-metal-letter-o-0172?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1197088/french-mid-century-modern-metal-letter-o",
+    "sourceProductId": "1197088",
+    "createdAt": "2026-03-16T12:00:00.000Z"
+  },
+  {
+    "id": "french-1940s-wrought-iron-bronze-brass-sconces-pair",
+    "title": "French 19th Century Wrought Iron Bronze and Brass Sconces a Pair",
+    "price": 1900,
+    "compareAtPrice": null,
+    "condition": "Vintage, Restored",
+    "dimensions": {
+      "w": 10.5,
+      "d": 6.25,
+      "h": 14.25,
+      "unit": "in"
+    },
+    "description": "An unusual pair of French 1940s sconces in a mix of wrought iron, bronze and brass, sourced from a house sale in France before the building's demolition. Fully restored and rewired, ready for installation.",
+    "category": "lighting",
+    "tags": [
+      "sconce",
+      "wrought iron",
+      "bronze",
+      "brass",
+      "french",
+      "1940s",
+      "restored"
+    ],
+    "era": "1940s",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/976ff93f-b363-48c2-90e7-0db8bdef78d5/french-19th-century-wrought-iron-bronze-and-brass-sconces-a-pair-4154?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/1844038/french-19th-century-wrought-iron-bronze-and-brass-sconces-a-pair",
+    "sourceProductId": "1844038",
+    "createdAt": "2026-03-13T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xvi-style-arm-chairs-ivory-pair",
+    "title": "Louis XVI Style Arm Chairs a Pair",
+    "price": 1600,
+    "compareAtPrice": null,
+    "condition": "Vintage, Newly Upholstered",
+    "dimensions": {
+      "w": 32.0,
+      "d": 23.0,
+      "h": 34.5,
+      "unit": "in"
+    },
+    "description": "A pair of Louis XVI-style accent chairs in refined walnut, newly upholstered in a neutral ivory fabric with gold-toned accents on the arms. Sleek and transitional, they suit both classic and contemporary rooms.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "armchair",
+      "louis xvi style",
+      "walnut",
+      "ivory",
+      "pair",
+      "french"
+    ],
+    "era": "Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/7e7c2c35-198d-478b-8563-265a2c19767d/louis-xvi-style-arm-chairs-a-pair-4289?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/2588461/louis-xvi-style-arm-chairs-a-pair",
+    "sourceProductId": "2588461",
+    "createdAt": "2026-03-10T12:00:00.000Z"
+  },
+  {
+    "id": "19th-century-louis-xvi-style-bronze-sconces-pair",
+    "title": "19th Century Louis XVI Style Sconces a Pair",
+    "price": 2450,
+    "compareAtPrice": null,
+    "condition": "Antique, Restored",
+    "dimensions": {
+      "w": 12.5,
+      "d": 10.0,
+      "h": 22.0,
+      "unit": "in"
+    },
+    "description": "A grand pair of 19th century Louis XVI-style bronze dore four-arm sconces, sourced in France and since wired for electric use with discreetly added backplates. Formal and elegant, ready to install.",
+    "category": "lighting",
+    "tags": [
+      "sconce",
+      "bronze dore",
+      "louis xvi style",
+      "french",
+      "19th century",
+      "pair"
+    ],
+    "era": "19th Century, Louis XVI Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/73d16e9b-086c-4758-aa59-d9eb4a6f1371/19th-century-louis-xvi-style-sconces-a-pair-5148?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/2865743/19th-century-louis-xvi-style-sconces-a-pair",
+    "sourceProductId": "2865743",
+    "createdAt": "2026-03-07T12:00:00.000Z"
+  },
+  {
+    "id": "louis-philippe-mahogany-corner-cabinets-pair",
+    "title": "Louis Philippe \"Encoinures\" Corner Cabinets - a Pair",
+    "price": 12500,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 44.5,
+      "d": 29.0,
+      "h": 87.0,
+      "unit": "in"
+    },
+    "description": "An exceptionally rare pair of Louis Philippe mahogany corner cabinets (encoignures), with a rich, honey-toned patina built up over nearly 200 years. Matched pairs of French antique furniture are seldom found intact, making this a special acquisition.",
+    "category": "furniture",
+    "tags": [
+      "cabinet",
+      "corner cabinet",
+      "mahogany",
+      "louis philippe",
+      "french",
+      "pair"
+    ],
+    "era": "Louis Philippe, Circa 1830-1848",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/3ab13bc1-3f2b-4400-ac0e-f80b480ef8ea/louis-philippe-encoinures-corner-cabinets-a-pair-1959?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/2993668/louis-philippe-pairs-of-encoinures-corner-cabinets-a-pair",
+    "sourceProductId": "2993668",
+    "createdAt": "2026-03-04T12:00:00.000Z"
+  },
+  {
+    "id": "napoleon-iii-black-lacquer-marble-top-table",
+    "title": "Napoleon 3 Black Lacquered Table W/ Marble Top",
+    "price": 1950,
+    "compareAtPrice": null,
+    "condition": "Antique, Restored",
+    "dimensions": {
+      "w": 35.5,
+      "d": 23.0,
+      "h": 28.5,
+      "unit": "in"
+    },
+    "description": "A Napoleon III writing table in glossy restored black lacquer topped with white restored marble. A striking anchor piece for a study or entry.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "writing desk",
+      "black lacquer",
+      "marble top",
+      "napoleon iii",
+      "french"
+    ],
+    "era": "Napoleon III",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b26561b8-3532-40de-b751-bcdeb2184816/napoleon-3-black-lacquered-table-w-marble-top-5378?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/3588343/napoleon-3-black-lacquered-table-w-marble-top",
+    "sourceProductId": "3588343",
+    "createdAt": "2026-03-01T12:00:00.000Z"
+  },
+  {
+    "id": "arts-and-crafts-ceramic-umbrella-stand",
+    "title": "Arts and Crafts Umbrella Stand",
+    "price": 1800,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 11.0,
+      "d": 11.0,
+      "h": 23.0,
+      "unit": "in"
+    },
+    "description": "A captivating Arts & Crafts-style ceramic umbrella stand in a rich palette of royal blue, dark green and goldenrod. A colorful, sculptural piece for an entryway.",
+    "category": "decor",
+    "tags": [
+      "umbrella stand",
+      "ceramic",
+      "arts and crafts",
+      "blue",
+      "vintage"
+    ],
+    "era": "Arts and Crafts",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/36f24e31-0b38-42f9-ae3b-609bd2e31086/arts-and-crafts-umbrella-stand-1060?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/5345942/arts-and-crafts-umbrella-stand",
+    "sourceProductId": "5345942",
+    "createdAt": "2026-02-26T12:00:00.000Z"
+  },
+  {
+    "id": "old-master-dutch-style-still-life-painting",
+    "title": "Old Master Dutch Style Painting",
+    "price": 1500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 48.0,
+      "d": 2.0,
+      "h": 36.0,
+      "unit": "in"
+    },
+    "description": "A traditional oil painting in the Dutch Old Master style, rendered as a rich still life full of old-world color and drama. A striking focal point for a maximalist room or a single statement piece in a pared-back interior.",
+    "category": "art-mirrors",
+    "tags": [
+      "painting",
+      "still life",
+      "dutch old master",
+      "oil",
+      "reproduction"
+    ],
+    "era": "Dutch Old Master Style, Reproduction",
+    "origin": "Netherlands (style)",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b53ead0e-d5b8-4914-ad66-034787fffcff/old-master-dutch-style-painting-6317?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/19668069/old-master-dutch-style-painting",
+    "sourceProductId": "19668069",
+    "createdAt": "2026-02-23T12:00:00.000Z"
+  },
+  {
+    "id": "hepplewhite-style-leather-top-dining-table",
+    "title": "Hepplewhite Leather Top Table",
+    "price": 3950,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 64.0,
+      "d": 64.0,
+      "h": 29.0,
+      "unit": "in"
+    },
+    "description": "A round Georgian Hepplewhite-style dining table with a warm walnut patina and a fitted leather top. Perfectly suited to convivial dinner parties, where everyone shares equal distance from the center.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "dining table",
+      "leather top",
+      "hepplewhite",
+      "georgian",
+      "walnut"
+    ],
+    "era": "Georgian, Hepplewhite Style",
+    "origin": "England",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/f1843f6e-2ffc-45e4-b9ef-bcf297efeadb/hepplewhite-leather-top-table-7544?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/23818249/hepplewhite-leather-top-table",
+    "sourceProductId": "23818249",
+    "createdAt": "2026-02-20T12:00:00.000Z"
+  },
+  {
+    "id": "french-regency-style-oak-buffet",
+    "title": "French Regency Style Buffet",
+    "price": 3800,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 62.5,
+      "d": 20.75,
+      "h": 32.75,
+      "unit": "in"
+    },
+    "description": "A French Regency-style oak buffet topped in warm terracotta-colored marble. Handsome proportions and rich patina make it a versatile serving piece or media console.",
+    "category": "furniture",
+    "tags": [
+      "buffet",
+      "sideboard",
+      "oak",
+      "marble top",
+      "french regency",
+      "french"
+    ],
+    "era": "French Regency Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/51de8610-f2dd-4fc3-88f7-df94fff57507/french-regency-style-buffet-6310?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/26300871/french-regency-style-buffet",
+    "sourceProductId": "26300871",
+    "createdAt": "2026-02-17T12:00:00.000Z"
+  },
+  {
+    "id": "louis-xv-style-oak-buffet",
+    "title": "Louis XV Buffet",
+    "price": 1900,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 55.75,
+      "d": 25.0,
+      "h": 38.5,
+      "unit": "in"
+    },
+    "description": "An early 19th century Louis XV style buffet in oak, likely from the north of France, with warm rustic patina and traditional country charm.",
+    "category": "furniture",
+    "tags": [
+      "buffet",
+      "sideboard",
+      "oak",
+      "louis xv style",
+      "french",
+      "rustic"
+    ],
+    "era": "Early 19th Century, Louis XV Style",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b359e9b2-5476-4c97-8b78-797a03f89c9f/louis-xv-buffet-9095?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/26302112/louis-xv-buffet",
+    "sourceProductId": "26302112",
+    "createdAt": "2026-02-14T12:00:00.000Z"
+  },
+  {
+    "id": "italian-venetian-gilt-settee",
+    "title": "Italian Gilt Settee",
+    "price": 3500,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 76.5,
+      "d": 26.0,
+      "h": 45.5,
+      "unit": "in"
+    },
+    "description": "A grand 19th century Italian gilt settee with an ornate, Venetian-inspired frame in a beautifully distressed finish. The structural frame is in excellent condition, ready for fresh upholstery of your choosing.",
+    "category": "furniture",
+    "tags": [
+      "settee",
+      "sofa",
+      "gilt",
+      "venetian",
+      "italian",
+      "19th century"
+    ],
+    "era": "19th Century, Venetian Style",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/8b949373-e571-45fc-9272-7d5b1f06733d/italian-gilt-settee-4005?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/28162654/italian-gilt-settee",
+    "sourceProductId": "28162654",
+    "createdAt": "2026-02-11T12:00:00.000Z"
+  },
+  {
+    "id": "terracotta-candlesticks-summer-autumn-pair",
+    "title": "Pair of Terracotta Candle Sticks \"Summer\" and \"Autumn\"",
+    "price": 950,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition",
+    "dimensions": {
+      "w": 5.25,
+      "d": 5.25,
+      "h": 17.25,
+      "unit": "in"
+    },
+    "description": "A pair of terracotta candlesticks titled 'Summer' and 'Autumn', early 1900s, mounted on bronze bases in the classical Roman taste. Warm, rustic coloring brings an autumnal glow to any tabletop.",
+    "category": "lighting",
+    "tags": [
+      "candlestick",
+      "terracotta",
+      "bronze",
+      "classical",
+      "roman style",
+      "italian",
+      "pair"
+    ],
+    "era": "Early 1900s, Classical Roman Style",
+    "origin": "Italy",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/dc82ae0c-a6b9-4958-9118-75fd9fa2a1a6/pair-of-terracotta-candle-sticks-summer-and-autumn-4750?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35321476/pair-of-terracotta-candle-sticks-summer-and-autumn",
+    "sourceProductId": "35321476",
+    "createdAt": "2026-02-08T12:00:00.000Z"
+  },
+  {
+    "id": "french-19th-century-banjo-clock-toulouse",
+    "title": "French 19th Century \"Banjo Clock\"",
+    "price": 1900,
+    "compareAtPrice": null,
+    "condition": "Antique, Good Condition, Functioning",
+    "dimensions": {
+      "w": 19.0,
+      "d": 9.0,
+      "h": 95.0,
+      "unit": "in"
+    },
+    "description": "A French 19th century 'comtoise' banjo-form clock made in Toulouse, painted to resemble mahogany and fitted with a servant's ring that chimes twice. Fully functioning after two decades gracing a French hallway.",
+    "category": "decor",
+    "tags": [
+      "clock",
+      "comtoise",
+      "banjo clock",
+      "brass",
+      "french",
+      "19th century"
+    ],
+    "era": "19th Century",
+    "origin": "France",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/519bfe07-9f21-4e7e-9637-cf5eead2e40a/french-19th-century-banjo-clock-8654?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/31991236/french-19th-century-banjo-clock",
+    "sourceProductId": "31991236",
+    "createdAt": "2026-02-05T12:00:00.000Z"
+  },
+  {
+    "id": "american-empire-mahogany-secretary",
+    "title": "American Empire Secretary",
+    "price": 4000,
+    "compareAtPrice": 4500,
+    "condition": "Antique, Good Condition, Original Finish",
+    "dimensions": {
+      "w": 42.25,
+      "d": 21.0,
+      "h": 93.0,
+      "unit": "in"
+    },
+    "description": "A handsome American Empire secretary in book-matched Cuban mahogany, late 19th century, retaining its original finish and velvet writing surfaces. A multi-purpose heirloom piece with a depth of color today's furniture can't replicate.",
+    "category": "furniture",
+    "tags": [
+      "secretary",
+      "mahogany",
+      "american empire",
+      "desk",
+      "bookcase",
+      "antique"
+    ],
+    "era": "Late 19th Century, American Empire",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e0cde8a2-06e1-4730-badc-269e2db5327d/american-empire-secretary-2856?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/11690511/american-empire-secretary",
+    "sourceProductId": "11690511",
+    "createdAt": "2026-02-02T12:00:00.000Z"
+  },
+  {
+    "id": "hollywood-regency-glass-gilt-side-tables-pair",
+    "title": "Hollywood Regency Glass and Gilt Side Tables a Pair",
+    "price": 1500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 24.0,
+      "d": 24.0,
+      "h": 22.0,
+      "unit": "in"
+    },
+    "description": "A glamorous pair of Hollywood Regency glass and gilt side tables, 1960s, oversized and finished in chic gold leaf. Originally purchased new in 1969 for a Virginia beach estate - pure vintage glamour.",
+    "category": "furniture",
+    "tags": [
+      "table",
+      "side table",
+      "hollywood regency",
+      "gold leaf",
+      "1960s",
+      "glass"
+    ],
+    "era": "1960s, Hollywood Regency",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/e1c99290-2819-44ed-a0ed-f335aef2b386/hollywood-regency-glass-and-gilt-side-tables-a-pair-3065?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/35321488/hollywood-regency-glass-and-gilt-side-tables-a-pair",
+    "sourceProductId": "35321488",
+    "createdAt": "2026-01-30T12:00:00.000Z"
+  },
+  {
+    "id": "baker-michael-taylor-screen-back-slipper-chairs-pair",
+    "title": "Pair of Baker Furniture for Michael Taylor Screen Back Slipper Chairs",
+    "price": 4500,
+    "compareAtPrice": null,
+    "condition": "Vintage, Newly Upholstered",
+    "dimensions": {
+      "w": 28.0,
+      "d": 28.0,
+      "h": 30.0,
+      "unit": "in"
+    },
+    "description": "A pair of iconic Michael Taylor for Baker Furniture screen-back slipper chairs, prized for their clean architectural lines and Mid-Century Modern sophistication. Freshly upholstered in a soft neutral fabric, true American design heritage.",
+    "category": "furniture",
+    "tags": [
+      "chair",
+      "slipper chair",
+      "michael taylor",
+      "baker furniture",
+      "mid-century modern",
+      "american"
+    ],
+    "era": "Mid-Century Modern",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/b0f69f00-7cdf-4fed-af90-29568277f374/pair-of-baker-furniture-for-michael-taylor-screen-back-slipper-chairs-5317?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": true,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/26305660/pair-of-baker-furniture-for-michael-taylor-screen-back-slipper-chairs",
+    "sourceProductId": "26305660",
+    "createdAt": "2026-01-27T12:00:00.000Z"
+  },
+  {
+    "id": "hand-carved-wooden-chain-lamp",
+    "title": "Hand Carved Wooden Chain Lamps",
+    "price": 800,
+    "compareAtPrice": null,
+    "condition": "Vintage, Good Condition",
+    "dimensions": {
+      "w": 6.75,
+      "d": 6.75,
+      "h": 32.0,
+      "unit": "in"
+    },
+    "description": "A hand-carved wooden chain lamp with an industrial-chic, sculptural silhouette, its links intricately carved by hand from solid wood. A one-of-a-kind conversation piece for a study or den.",
+    "category": "lighting",
+    "tags": [
+      "lamp",
+      "wood",
+      "hand carved",
+      "industrial",
+      "sculptural",
+      "vintage"
+    ],
+    "era": "Vintage",
+    "origin": "United States",
+    "images": [
+      "https://chairish-prod.freetls.fastly.net/image/product/sized/9d3b3dc4-de1a-4147-a9a9-236f680e3e9e/hand-carved-wooden-chain-lamps-7607?aspect=fit&width=1200&height=1200"
+    ],
+    "featured": false,
+    "status": "available",
+    "source": "chairish",
+    "sourceUrl": "https://www.chairish.com/product/17494271/hand-carved-wooden-chain-lamps",
+    "sourceProductId": "17494271",
+    "createdAt": "2026-01-24T12:00:00.000Z"
   }
 ]
