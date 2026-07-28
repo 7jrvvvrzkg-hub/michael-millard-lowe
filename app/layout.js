@@ -2,7 +2,6 @@ import "./globals.css";
 import PhoneBar from "@/components/PhoneBar";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import MobileTabBar from "@/components/MobileTabBar";
 import { BUSINESS, HOURS_SCHEMA } from "@/lib/constants";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
@@ -79,12 +78,11 @@ export default function RootLayout({ children }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessJsonLd) }}
         />
       </head>
-      <body className="min-h-screen bg-parchment-50 pb-16 pt-9 font-sans text-espresso-950 antialiased md:pb-0">
+      <body className="min-h-screen bg-parchment-50 pt-9 font-sans text-espresso-950 antialiased">
         <PhoneBar />
         <Header />
         <main>{children}</main>
         <Footer />
-        <MobileTabBar />
       </body>
     </html>
   );

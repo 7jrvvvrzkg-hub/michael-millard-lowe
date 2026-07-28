@@ -36,11 +36,15 @@ export default async function Header() {
           <AnimatedSearchBar />
         </div>
 
-        <div className="ml-auto flex shrink-0 items-center gap-4">
-          <LikesNavLink className="hidden sm:flex" />
+        <div className="ml-auto flex shrink-0 items-center gap-3 sm:gap-4">
+          {/* Likes used to be hidden below the sm breakpoint, with no other
+              way to reach it on mobile once the crowded bottom tab bar
+              (which had a Likes tab) was removed - so it now shows here at
+              every screen size instead. */}
+          <LikesNavLink className="flex" />
           <Link
             href={authed ? "/admin" : "/admin/login"}
-            className="rounded-full border border-espresso-900 px-4 py-1.5 text-xs font-semibold uppercase tracking-wide text-espresso-950 transition-colors hover:bg-espresso-950 hover:text-parchment-50"
+            className="rounded-full border border-espresso-900 px-3 py-1.5 text-xs font-semibold uppercase tracking-wide text-espresso-950 transition-colors hover:bg-espresso-950 hover:text-parchment-50 sm:px-4"
           >
             {authed ? "Dashboard" : "Login"}
           </Link>
