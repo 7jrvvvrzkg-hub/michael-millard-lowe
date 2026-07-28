@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import StorySection from "@/components/StorySection";
+import ReviewsCarousel from "@/components/ReviewsCarousel";
 import CategoryGrid from "@/components/CategoryGrid";
 import ListingCard from "@/components/ListingCard";
 import Link from "next/link";
@@ -14,9 +15,14 @@ export default function HomePage() {
 
   return (
     <>
-      <Hero heroImage={featured[0]?.images?.[0]} />
+      {/* The hero's showcase photo is the shop's own storefront window shot
+          (not a dynamic listing image) - the owner specifically asked for
+          this to replace whatever listing photo used to show here. */}
+      <Hero heroImage="/shop-window.webp" />
 
       <StorySection />
+
+      <ReviewsCarousel />
 
       <CategoryGrid listings={all} />
 

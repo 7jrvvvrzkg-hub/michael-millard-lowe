@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { CATEGORIES, BUSINESS } from "@/lib/constants";
+import { CATEGORIES, BUSINESS, HOURS } from "@/lib/constants";
 
 export default function Footer() {
   return (
@@ -50,7 +50,6 @@ export default function Footer() {
             Visit Us
           </p>
           <ul className="mt-4 space-y-2.5 text-sm text-parchment-100/80">
-            <li>By appointment &amp; in-store</li>
             <li>Licensed appraiser &amp; auctioneer</li>
             <li>
               <a
@@ -63,6 +62,18 @@ export default function Footer() {
               </a>
             </li>
           </ul>
+
+          <p className="mt-5 text-xs font-semibold uppercase tracking-[0.14em] text-parchment-100/50">
+            Store Hours
+          </p>
+          <dl className="mt-3 space-y-1 text-sm text-parchment-100/80">
+            {HOURS.map(({ day, hours }) => (
+              <div key={day} className="flex justify-between gap-4">
+                <dt>{day}</dt>
+                <dd className="text-parchment-100/60">{hours}</dd>
+              </div>
+            ))}
+          </dl>
         </div>
 
         <div>

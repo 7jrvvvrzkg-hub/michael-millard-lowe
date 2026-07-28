@@ -76,7 +76,7 @@ export default function Hero({ heroImage }) {
           {heroImage ? (
             <Image
               src={heroImage}
-              alt="Featured antique"
+              alt="The Michael Millard-Lowe Antiques storefront window"
               fill
               sizes="(min-width: 768px) 40vw, 90vw"
               className="object-cover"

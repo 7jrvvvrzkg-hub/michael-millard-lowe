@@ -3,7 +3,7 @@ import PhoneBar from "@/components/PhoneBar";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MobileTabBar from "@/components/MobileTabBar";
-import { BUSINESS } from "@/lib/constants";
+import { BUSINESS, HOURS_SCHEMA } from "@/lib/constants";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 
@@ -67,6 +67,7 @@ const localBusinessJsonLd = {
   },
   url: siteUrl,
   sameAs: [BUSINESS.chairishUrl, BUSINESS.instagramUrl],
+  openingHoursSpecification: HOURS_SCHEMA,
 };
 
 export default function RootLayout({ children }) {

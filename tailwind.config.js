@@ -68,11 +68,19 @@ module.exports = {
           "0%": { backgroundPosition: "-400px 0" },
           "100%": { backgroundPosition: "400px 0" },
         },
+        // Continuous "conveyor belt" scroll for the reviews carousel - the
+        // track renders the review list twice back to back and slides
+        // exactly half its own width, so the loop point is invisible.
+        marquee: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" },
+        },
       },
       animation: {
         fadeInUp: "fadeInUp 0.5s ease-out both",
         blink: "blink 1s step-start infinite",
         shimmer: "shimmer 1.4s ease-in-out infinite",
+        marquee: "marquee 46s linear infinite",
       },
     },
   },

@@ -38,6 +38,13 @@ button {
   overflow: hidden;
 }
 
+.line-clamp-4 {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .scrollbar-none::-webkit-scrollbar {
   display: none;
 }
