@@ -39,7 +39,7 @@ function uniqueId(base, existingIds) {
 async function main() {
   console.log(`Scraping ${SHOP_URL} ...\n`);
   const current = JSON.parse(await fs.readFile(DATA_PATH, "utf-8"));
-  const { results, errors } = await scrapeShop(SHOP_URL);
+  const { results, errors, activeProductIds } = await scrapeShop(SHOP_URL);
 
   console.log(`Fetched ${results.length} listings (${errors.length} errors).`);
 
@@ -73,9 +73,49 @@ async function main() {
     }
   }
 
+  // Mark items sold that have quietly vanished from the Chairish shop page
+  // (Chairish removes sold items rather than labeling them, so a
+  // previously-imported item's ID disappearing from activeProductIds is the
+  // only real signal we have). Guarded the same way as the admin API route:
+  // if activeProductIds looks suspiciously small compared to what we
+  // already believed was active (e.g. a fetch failure), skip this pass
+  // entirely rather than risk mass-marking everything sold.
+  const previouslyActiveChairishCount = current.filter(
+    (l) => l.source === "chairish" && l.status !== "sold"
+  ).length;
+  const activeIdsLookTrustworthy =
+    activeProductIds &&
+    (previouslyActiveChairishCount === 0 ||
+      activeProductIds.size >= previouslyActiveChairishCount * 0.5);
+
+  let markedSold = 0;
+  if (activeIdsLookTrustworthy) {
+    for (let i = 0; i < merged.length; i += 1) {
+      const l = merged[i];
+      if (
+        l.source === "chairish" &&
+        l.sourceProductId &&
+        l.status !== "sold" &&
+        !activeProductIds.has(l.sourceProductId)
+      ) {
+        merged[i] = { ...l, status: "sold" };
+        markedSold += 1;
+      }
+    }
+  }
+
   await fs.writeFile(DATA_PATH, JSON.stringify(merged, null, 2) + "\n", "utf-8");
 
-  console.log(`\nDone. Added ${added}, updated ${updated}, total ${merged.length}.`);
+  console.log(
+    `\nDone. Added ${added}, updated ${updated}, marked sold ${markedSold}, total ${merged.length}.`
+  );
+  if (activeProductIds && !activeIdsLookTrustworthy) {
+    console.log(
+      "\nSkipped sold-detection this run - the shop page fetch looked incomplete " +
+        "(fewer active listings found than expected), so nothing was auto-marked " +
+        "sold to avoid a false mass update. Try running the sync again."
+    );
+  }
   if (errors.length) {
     console.log("\nSome pages could not be parsed:");
     errors.forEach((e) => console.log(`  - ${e.url}: ${e.error}`));

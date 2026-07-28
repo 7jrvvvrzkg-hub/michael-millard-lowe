@@ -30,11 +30,14 @@ export async function POST() {
       current.filter((l) => l.sourceProductId).map((l) => l.sourceProductId)
     );
 
-    const { results, errors } = await scrapeShop(BUSINESS.chairishUrl, {
-      maxPages: 10,
-      maxItems: PER_CLICK_ITEM_BUDGET,
-      skipProductIds: existingIds,
-    });
+    const { results, errors, activeProductIds } = await scrapeShop(
+      BUSINESS.chairishUrl,
+      {
+        maxPages: 10,
+        maxItems: PER_CLICK_ITEM_BUDGET,
+        skipProductIds: existingIds,
+      }
+    );
 
     if (results.length === 0) {
       return NextResponse.json(
@@ -47,13 +50,21 @@ export async function POST() {
       );
     }
 
-    const summary = await mergeScrapedListings(results);
+    const summary = await mergeScrapedListings(results, activeProductIds);
+    const notes = [];
+    if (summary.added + summary.updated >= PER_CLICK_ITEM_BUDGET) {
+      notes.push(
+        "Hit this click's batch limit - click Sync again to pick up any remaining items."
+      );
+    }
+    if (summary.soldCheckSkipped) {
+      notes.push(
+        "Couldn't reliably tell which items are still listed on Chairish this time (page fetch may have been blocked or incomplete), so no listings were auto-marked sold - nothing was changed to be safe. Try syncing again."
+      );
+    }
     return NextResponse.json({
       ...summary,
-      note:
-        summary.added + summary.updated >= PER_CLICK_ITEM_BUDGET
-          ? "Hit this click's batch limit - click Sync again to pick up any remaining items."
-          : undefined,
+      note: notes.length ? notes.join(" ") : undefined,
       errors: errors.slice(0, 5),
     });
   } catch (err) {
