@@ -100,6 +100,8 @@ variables in Vercel (next step).
    | `GITHUB_TOKEN` | see below - required for the admin panel to work on the live site |
    | `GITHUB_REPO` | `your-username/your-repo-name` |
    | `GITHUB_BRANCH` | `main` |
+   | `STRIPE_SECRET_KEY` | see "Buy Now with Stripe" below - a test key works with no bank account |
+   | `STRIPE_WEBHOOK_SECRET` | optional, see below - lets a sale auto-mark the listing sold |
 
 3. Deploy. Once it's live, point your domain at it from the Vercel
    dashboard (Settings -> Domains).
@@ -129,6 +131,35 @@ permanently.
 One limitation worth knowing: because saves go live via a redeploy, avoid
 adding two listings back-to-back within the same ~60 seconds - let the first
 one finish deploying first, or its change could get overwritten.
+
+## Buy Now with Stripe
+
+Each listing's page has a **Buy Now** button that opens a Stripe-hosted
+checkout page, instead of routing every sale through a phone call. Stripe's
+own cut is 2.9% + 30 cents per sale with no monthly fee - no Shopify-style
+platform charge on top.
+
+**To try it out (no bank account needed):**
+
+1. Create a free Stripe account at <https://dashboard.stripe.com/register>.
+2. Grab a **test mode** secret key from
+   <https://dashboard.stripe.com/test/apikeys> (starts with `sk_test_`) and
+   set it as `STRIPE_SECRET_KEY`.
+3. That's it - Buy Now will open a real Stripe checkout page. Pay with
+   Stripe's test card `4242 4242 4242 4242`, any future expiry, any CVC, any
+   ZIP. No real money moves and no bank account is required in test mode.
+
+**To auto-mark a listing "sold" the moment it's paid for:** in your Stripe
+dashboard, go to Developers > Webhooks > Add endpoint, point it at
+`https://yoursite.com/api/stripe-webhook`, subscribe to the
+`checkout.session.completed` event, and copy the signing secret it gives you
+into `STRIPE_WEBHOOK_SECRET`. Without this set, Buy Now still works - you'd
+just mark the item sold by hand in `/admin` afterward.
+
+**To go live and actually get paid:** in your Stripe dashboard, finish the
+account activation flow (business details + a linked bank account for
+payouts), then swap `STRIPE_SECRET_KEY` for your live secret key
+(`sk_live_...`). Everything else works exactly the same.
 
 ## Changing the admin password
 

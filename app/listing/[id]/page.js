@@ -4,6 +4,7 @@ import ImageGallery from "@/components/ImageGallery";
 import ListingCard from "@/components/ListingCard";
 import LikeButton from "@/components/LikeButton";
 import OfferForm from "@/components/OfferForm";
+import BuyButton from "@/components/BuyButton";
 import {
   getListingById,
   getRelatedListings,
@@ -104,13 +105,21 @@ export default function ListingPage({ params }) {
             )}
           </div>
 
-          <div className="mt-6 flex flex-wrap gap-3">
-            <a
-              href={`tel:${BUSINESS.phoneHref}`}
-              className="rounded-full bg-espresso-950 px-6 py-3 text-sm font-semibold text-parchment-50 shadow-card transition-transform hover:-translate-y-0.5 hover:shadow-cardHover"
-            >
-              Call to Inquire &middot; {BUSINESS.phoneDisplay}
-            </a>
+          <div className="mt-6 flex flex-wrap items-start gap-3">
+            {listing.status === "sold" ? (
+              <p className="rounded-full bg-espresso-100 px-6 py-3 text-sm font-semibold text-espresso-700">
+                This piece has sold
+              </p>
+            ) : listing.price > 0 ? (
+              <BuyButton listingId={listing.id} />
+            ) : (
+              <a
+                href={`tel:${BUSINESS.phoneHref}`}
+                className="rounded-full bg-espresso-950 px-6 py-3 text-sm font-semibold text-parchment-50 shadow-card transition-transform hover:-translate-y-0.5 hover:shadow-cardHover"
+              >
+                Call to Inquire &middot; {BUSINESS.phoneDisplay}
+              </a>
+            )}
             <a
               href={`mailto:${BUSINESS.email}?subject=${encodeURIComponent(
                 "Inquiry: " + listing.title
