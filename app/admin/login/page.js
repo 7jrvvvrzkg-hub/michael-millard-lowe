@@ -37,7 +37,7 @@ export default function AdminLoginPage() {
   return (
     <div className="mx-auto flex min-h-[70vh] max-w-md flex-col items-center justify-center px-4 py-16">
       <Image
-        src="/logo-mark.png"
+        src="/logo-mark.png?v=2"
         alt="Michael Millard-Lowe Antiques"
         width={64}
         height={64}

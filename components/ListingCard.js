@@ -49,7 +49,7 @@ export default function ListingCard({ listing, priority = false }) {
         )}
 
         <div className="absolute inset-x-0 bottom-0 flex items-center gap-1.5 bg-gradient-to-t from-espresso-950/70 to-transparent px-2.5 py-2">
-          <span className="h-4 w-4 shrink-0 rounded-full bg-parchment-50/90 bg-[url('/logo-mark.png')] bg-cover" />
+          <span className="h-4 w-4 shrink-0 rounded-full bg-parchment-50/90 bg-[url('/logo-mark.png?v=2')] bg-cover" />
           <span className="truncate text-[11px] font-medium text-parchment-50">
             {CATEGORY_MAP[listing.category]?.label || "Antiques"}
           </span>

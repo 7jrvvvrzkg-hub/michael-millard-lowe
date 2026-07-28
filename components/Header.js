@@ -15,7 +15,7 @@ export default async function Header() {
       <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-3 sm:px-6 lg:gap-8 lg:px-8">
         <Link href="/" className="flex shrink-0 items-center gap-2.5">
           <Image
-            src="/logo-mark.png"
+            src="/logo-mark.png?v=2"
             alt="Michael Millard-Lowe Antiques monogram"
             width={40}
             height={40}

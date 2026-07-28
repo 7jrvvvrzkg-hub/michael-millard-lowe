@@ -27,10 +27,17 @@ export const metadata = {
     "antique mirrors",
     "antique lighting",
   ],
+  // The ?v=2 query strings below are a deliberate cache-bust: these files
+  // went through several revisions (wrong color, then fixed) at the exact
+  // same filenames, and static assets under /public are served with long
+  // cache lifetimes by both browsers and Vercel's CDN. Without changing
+  // the URL, some visitors - especially on mobile, where browsers/carriers
+  // cache even more aggressively - would keep seeing an old cached logo
+  // indefinitely regardless of how many times the underlying file changes.
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
+    icon: "/favicon.ico?v=2",
+    shortcut: "/favicon.ico?v=2",
+    apple: "/apple-touch-icon.png?v=2",
   },
   manifest: "/site.webmanifest",
   openGraph: {
@@ -40,7 +47,7 @@ export const metadata = {
     url: siteUrl,
     siteName: BUSINESS.name,
     type: "website",
-    images: ["/logo-mark.png"],
+    images: ["/logo-mark.png?v=2"],
   },
   twitter: {
     card: "summary",
