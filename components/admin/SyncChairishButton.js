@@ -17,9 +17,8 @@ export default function SyncChairishButton() {
       if (!res.ok) {
         setMessage(data.error || "Sync failed.");
       } else {
-        setMessage(
-          `Synced: ${data.added} added, ${data.updated} updated, ${data.total} total listings.`
-        );
+        const base = `Synced: ${data.added} added, ${data.updated} updated, ${data.total} total listings.`;
+        setMessage(data.note ? `${base} ${data.note}` : base);
         router.refresh();
       }
     } catch {
