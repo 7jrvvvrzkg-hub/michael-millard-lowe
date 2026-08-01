@@ -1,6 +1,10 @@
 {
-  "views": {},
-  "categoryViews": {},
+  "views": {
+    "old-paris-medici-vases-a-pair": 1
+  },
+  "categoryViews": {
+    "decor": 1
+  },
   "searches": {},
   "conversions": []
 }
