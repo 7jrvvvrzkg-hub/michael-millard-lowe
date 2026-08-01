@@ -12,6 +12,7 @@ import {
   formatDimensions,
 } from "@/lib/listings";
 import { CATEGORY_MAP, BUSINESS } from "@/lib/constants";
+import { recordView } from "@/lib/analytics";
 
 export const dynamic = "force-dynamic";
 
@@ -29,9 +30,13 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function ListingPage({ params }) {
+export default async function ListingPage({ params }) {
   const listing = getListingById(params.id);
   if (!listing || listing.status === "hidden") notFound();
+
+  // Best-effort - see lib/analytics.js for why this is awaited (not
+  // fire-and-forget) and why it never throws.
+  await recordView(listing.id, listing.category);
 
   const related = getRelatedListings(listing, 4);
   const onSale =

@@ -102,6 +102,7 @@ variables in Vercel (next step).
    | `GITHUB_BRANCH` | `main` |
    | `STRIPE_SECRET_KEY` | see "Buy Now with Stripe" below - a test key works with no bank account |
    | `STRIPE_WEBHOOK_SECRET` | optional, see below - lets a sale auto-mark the listing sold |
+   | `GOOGLE_SHEETS_WEBHOOK_URL` | see "Newsletter signups" below |
 
 3. Deploy. Once it's live, point your domain at it from the Vercel
    dashboard (Settings -> Domains).
@@ -160,6 +161,78 @@ just mark the item sold by hand in `/admin` afterward.
 account activation flow (business details + a linked bank account for
 payouts), then swap `STRIPE_SECRET_KEY` for your live secret key
 (`sk_live_...`). Everything else works exactly the same.
+
+## Newsletter signups (Google Sheet)
+
+Every page has a "Get the monthly catalogue" email signup at the bottom.
+There's no database involved - signups get appended as rows to a Google
+Sheet you control, using a free trick called an Apps Script "Web app": a
+tiny script attached to the Sheet that can receive a web request and write
+a row.
+
+**Setup (about 5 minutes):**
+
+1. Create a new Google Sheet (or reuse one) - call it something like
+   "Newsletter Subscribers." Row 1 can be headers: `Date`, `Email`.
+2. In the Sheet, go to **Extensions > Apps Script**. Delete whatever's in
+   the editor and paste this in:
+
+   ```js
+   function doPost(e) {
+     var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+     var email = (e.parameter.email || "").trim();
+
+     if (!email) {
+       return ContentService.createTextOutput(
+         JSON.stringify({ ok: false, error: "Missing email" })
+       ).setMimeType(ContentService.MimeType.JSON);
+     }
+
+     sheet.appendRow([new Date(), email]);
+
+     return ContentService.createTextOutput(
+       JSON.stringify({ ok: true })
+     ).setMimeType(ContentService.MimeType.JSON);
+   }
+   ```
+
+3. Click **Deploy > New deployment**. Click the gear icon next to "Select
+   type" and choose **Web app**. Set:
+   - **Execute as:** Me
+   - **Who has access:** Anyone
+4. Click **Deploy**. Google will ask you to authorize the script (it's
+   yours, so this is safe) - approve it.
+5. Copy the URL it gives you (ends in `/exec`) into `GOOGLE_SHEETS_WEBHOOK_URL`
+   in `.env.local` and in your Vercel project's environment variables.
+
+That's it - every signup on the site now lands as a new row in that Sheet,
+with a timestamp. If you ever need to change where signups go, or want to
+add more fields (name, interests, etc.), you'd add matching inputs to the
+form in `components/NewsletterSignup.js` and read the extra
+`e.parameter.<field>` values in the Apps Script.
+
+**One limitation to know:** if you ever edit the Apps Script code after
+deploying, you need to create a **new deployment** (or use "Manage
+deployments > Edit > New version") for the changes to actually take effect
+- just saving the script isn't enough.
+
+## Analytics
+
+`/admin/analytics` (linked from the dashboard) shows the most-viewed
+listings, the most common search terms, which categories and eras get the
+most attention, and every completed Stripe purchase with total revenue.
+There's no third-party analytics service involved - views, searches, and
+purchases get logged into `data/analytics.json`, the same GitHub-backed file
+approach as your listings and offers.
+
+One thing worth understanding: unlike listings (which you only edit
+occasionally), page views happen constantly, and normally any commit to
+your repo makes Vercel rebuild and redeploy the whole site. Redeploying on
+every single visitor would be slow and unnecessary, so this project ships a
+`vercel.json` that tells Vercel to skip the rebuild specifically when the
+*only* file that changed is `data/analytics.json`. You shouldn't need to
+touch it, but it's why analytics tracking doesn't trigger a flurry of
+redeploys the way adding a listing does.
 
 ## Changing the admin password
 

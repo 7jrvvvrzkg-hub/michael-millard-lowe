@@ -36,7 +36,19 @@ function uniqueId(base, existingIds) {
   return id;
 }
 
+// Plain ANSI color codes for a bit of terminal color in the sync report -
+// no dependency needed for something this small.
+const color = {
+  reset: "\x1b[0m",
+  green: "\x1b[32m",
+  purple: "\x1b[35m",
+  blue: "\x1b[34m",
+  red: "\x1b[31m",
+  dim: "\x1b[2m",
+};
+
 async function main() {
+  const startedAt = Date.now();
   console.log(`Scraping ${SHOP_URL} ...\n`);
   const current = JSON.parse(await fs.readFile(DATA_PATH, "utf-8"));
   const { results, errors, activeProductIds } = await scrapeShop(SHOP_URL);
@@ -106,12 +118,33 @@ async function main() {
 
   await fs.writeFile(DATA_PATH, JSON.stringify(merged, null, 2) + "\n", "utf-8");
 
+  const elapsedSeconds = ((Date.now() - startedAt) / 1000).toFixed(1);
+  const checked = results.length + errors.length;
+
+  console.log("");
   console.log(
-    `\nDone. Added ${added}, updated ${updated}, marked sold ${markedSold}, total ${merged.length}.`
+    `${color.green}✓ ${checked} listing${checked === 1 ? "" : "s"} checked${color.reset}` +
+      (activeProductIds ? ` (of ${activeProductIds.size} on Chairish)` : "")
   );
+  if (added > 0) {
+    console.log(`${color.purple}+ ${added} new listing${added === 1 ? "" : "s"} imported${color.reset}`);
+  }
+  if (updated > 0) {
+    console.log(`${color.blue}↻ ${updated} listing${updated === 1 ? "" : "s"} updated${color.reset}`);
+  }
+  if (markedSold > 0) {
+    console.log(`${color.green}● ${markedSold} listing${markedSold === 1 ? "" : "s"} marked sold${color.reset}`);
+  }
+  console.log(
+    errors.length
+      ? `${color.red}! ${errors.length} error${errors.length === 1 ? "" : "s"}${color.reset}`
+      : `${color.dim}0 errors${color.reset}`
+  );
+  console.log(`${color.dim}Completed in ${elapsedSeconds}s${color.reset}`);
+
   if (activeProductIds && !activeIdsLookTrustworthy) {
     console.log(
-      "\nSkipped sold-detection this run - the shop page fetch looked incomplete " +
+      `\n${color.red}Skipped sold-detection this run${color.reset} - the shop page fetch looked incomplete ` +
         "(fewer active listings found than expected), so nothing was auto-marked " +
         "sold to avoid a false mass update. Try running the sync again."
     );

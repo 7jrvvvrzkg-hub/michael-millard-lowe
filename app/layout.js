@@ -2,6 +2,7 @@ import "./globals.css";
 import PhoneBar from "@/components/PhoneBar";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import NewsletterSignup from "@/components/NewsletterSignup";
 import { BUSINESS, HOURS_SCHEMA } from "@/lib/constants";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
@@ -89,6 +90,7 @@ export default function RootLayout({ children }) {
         <PhoneBar />
         <Header />
         <main>{children}</main>
+        <NewsletterSignup />
         <Footer />
       </body>
     </html>

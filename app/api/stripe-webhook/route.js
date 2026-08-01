@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { updateListing } from "@/lib/admin-listings";
+import { recordConversion } from "@/lib/analytics";
 
 export const runtime = "nodejs";
 
@@ -62,6 +63,14 @@ export async function POST(request) {
           err.message
         );
       }
+      // amount_total is in cents; record the real dollar amount for the
+      // Analytics page's conversion tracking.
+      await recordConversion(
+        listingId,
+        typeof session.amount_total === "number"
+          ? session.amount_total / 100
+          : null
+      );
     }
   }
 

@@ -1,13 +1,15 @@
 import ListingCard from "@/components/ListingCard";
 import { searchListings } from "@/lib/listings";
+import { recordSearch } from "@/lib/analytics";
 
 export const dynamic = "force-dynamic";
 
 export const metadata = { title: "Search" };
 
-export default function SearchPage({ searchParams }) {
+export default async function SearchPage({ searchParams }) {
   const q = searchParams?.q || "";
   const results = q ? searchListings(q) : [];
+  if (q) await recordSearch(q);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">

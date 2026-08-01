@@ -24,6 +24,8 @@ export async function POST() {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
+  const startedAt = Date.now();
+
   try {
     const current = await listAllForAdmin();
     const existingIds = new Set(
@@ -62,8 +64,26 @@ export async function POST() {
         "Couldn't reliably tell which items are still listed on Chairish this time (page fetch may have been blocked or incomplete), so no listings were auto-marked sold - nothing was changed to be safe. Try syncing again."
       );
     }
+
+    // A richer, at-a-glance report for the admin UI - see
+    // components/admin/SyncChairishButton.js for how this gets rendered.
+    // "checked" is how many product detail pages this run actually fetched
+    // (bounded by PER_CLICK_ITEM_BUDGET), not the whole catalog - that's
+    // reported separately as totalOnChairish so it's clear when a click
+    // only covered part of the shop.
+    const report = {
+      checked: results.length + errors.length,
+      totalOnChairish: activeProductIds ? activeProductIds.size : null,
+      imported: summary.added,
+      updated: summary.updated,
+      markedSold: summary.markedSold,
+      errorCount: errors.length,
+      elapsedSeconds: Number(((Date.now() - startedAt) / 1000).toFixed(1)),
+    };
+
     return NextResponse.json({
       ...summary,
+      report,
       note: notes.length ? notes.join(" ") : undefined,
       errors: errors.slice(0, 5),
     });
