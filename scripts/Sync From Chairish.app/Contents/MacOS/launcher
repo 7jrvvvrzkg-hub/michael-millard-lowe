@@ -1,9 +1,27 @@
 #!/bin/bash
 # This is the actual executable macOS launches when you double-click the
-# "Sync From Chairish" app icon. A plain script run this way (rather than
-# by double-clicking a .command file directly) has no visible window to
-# print to, so its only job is to open Terminal and hand the real sync
-# script to it - that's what actually does the work and shows the colored
-# progress report.
-APP_DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
-open -a Terminal "$APP_DIR/sync-double-click.command"
+# "Sync From Chairish" app. It shows the whole thing as native macOS
+# dialog boxes - a confirm button, then the result - and runs the sync
+# invisibly in the background, no Terminal window involved at all.
+LAUNCHER_DIR="$(cd "$(dirname "$0")" && pwd)"
+APP_DIR="$(cd "$LAUNCHER_DIR/../../.." && pwd)"
+ICON="$LAUNCHER_DIR/../Resources/AppIcon.icns"
+CORE="$APP_DIR/sync-chairish-core.sh"
+
+confirm=$(osascript \
+  -e 'display dialog "Sync new items from Chairish now?" with title "Michael Millard-Lowe Antiques" buttons {"Cancel", "Sync Now"} default button "Sync Now" with icon POSIX file "'"$ICON"'"' \
+  -e 'button returned of result' 2>/dev/null)
+
+if [ "$confirm" != "Sync Now" ]; then
+  exit 0
+fi
+
+output="$(bash "$CORE" 2>&1)"
+
+# Escape backslashes and double quotes so the captured output can be
+# safely embedded inside an AppleScript string literal.
+escaped=$(printf '%s' "$output" | sed 's/\\/\\\\/g; s/"/\\"/g')
+
+osascript \
+  -e "display dialog \"$escaped\" with title \"Sync From Chairish\" buttons {\"OK\"} default button \"OK\" with icon POSIX file \"$ICON\"" \
+  >/dev/null 2>&1

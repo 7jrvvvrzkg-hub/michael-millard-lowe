@@ -1,0 +1,268 @@
+<!--
+  MONTHLY CATALOGUE NEWSLETTER TEMPLATE
+  ======================================
+  Michael Millard-Lowe Antiques
+
+  This is a self-contained HTML email - open it in a browser to preview it,
+  or paste the whole file's contents into your email tool's "Import HTML"
+  option (Mailchimp, Brevo/Sendinblue, Gmail via a merge extension, etc.).
+
+  It uses old-school nested <table> layout with every style written inline
+  on each tag, on purpose - that's not outdated taste, it's how HTML email
+  actually has to be built. Most email clients (Outlook especially) strip
+  out <style> blocks and modern CSS (flexbox, grid) entirely, so table
+  layout + inline styles is still the only way to guarantee this looks the
+  same in Gmail, Apple Mail, and Outlook alike.
+
+  HOW TO EDIT THIS EACH MONTH
+  ----------------------------
+  1. Update the headline and intro text (search for "EDIT:" comments below).
+  2. For each item, update three things: the image URL, the item name, and
+     the link URL (which should point at that item's real listing page,
+     e.g. https://yoursite.com/listing/some-item-id - copy that straight
+     from the item's page on your live site).
+  3. To feature more or fewer items, copy or delete one whole
+     "ITEM CARD" block (marked below) at a time - each block is one
+     image + name + link, and they're laid out two per row.
+  4. Update the footer year/address if needed, then send.
+-->
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Michael Millard-Lowe Antiques - This Month's Catalogue</title>
+  <!--[if mso]>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+  <style>
+    /* Only a small handful of modern clients (Gmail app, some webmail)
+       actually render a <style> block - everything that matters for
+       Outlook/older clients is still inlined below. This just improves
+       the responsive behavior on the clients that do support it. */
+    @media only screen and (max-width: 600px) {
+      .container { width: 100% !important; }
+      .item-cell { display: block !important; width: 100% !important; padding-bottom: 24px !important; }
+      .item-image { width: 100% !important; height: auto !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background-color:#f8f1e3; font-family:Georgia, 'Times New Roman', serif;">
+
+  <!-- Preheader text (shows in inbox preview, hidden in the email body) -->
+  <div style="display:none; max-height:0; overflow:hidden; font-size:1px; line-height:1px; color:#f8f1e3;">
+    <!-- EDIT: one-line teaser shown in the inbox preview -->
+    New this month: fresh French and Italian antiques, just added to the shop.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#f8f1e3;">
+    <tr>
+      <td align="center" style="padding:32px 16px;">
+
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" style="width:600px; max-width:600px; background-color:#ffffff; border-radius:16px; overflow:hidden;">
+
+          <!-- HEADER -->
+          <tr>
+            <td align="center" style="background-color:#17130f; padding:36px 24px;">
+              <!-- EDIT: swap for your logo <img> if you'd rather show that instead of text -->
+              <p style="margin:0; font-family:Georgia, serif; font-size:13px; letter-spacing:2px; text-transform:uppercase; color:#c2541b;">
+                Michael Millard-Lowe Antiques
+              </p>
+              <h1 style="margin:10px 0 0; font-family:Georgia, serif; font-size:26px; line-height:1.3; color:#f8f1e3; font-weight:normal;">
+                <!-- EDIT: this month's headline -->
+                This Month's New Arrivals
+              </h1>
+              <p style="margin:6px 0 0; font-family:Georgia, serif; font-size:13px; color:#cda868;">
+                <!-- EDIT: month / year -->
+                August 2026
+              </p>
+            </td>
+          </tr>
+
+          <!-- INTRO -->
+          <tr>
+            <td style="padding:28px 32px 8px;">
+              <p style="margin:0; font-family:Georgia, serif; font-size:15px; line-height:1.6; color:#332821;">
+                <!-- EDIT: a short intro paragraph, 2-3 sentences -->
+                A fresh set of pieces just arrived in the shop this month -
+                sourced, as always, in France and Italy. Click any piece
+                below to see full photos, dimensions, and price, or to buy
+                it outright.
+              </p>
+            </td>
+          </tr>
+
+          <!-- ITEM GRID (2 per row) -->
+          <tr>
+            <td style="padding:16px 24px 8px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+
+                <!-- ===================== ITEM ROW ===================== -->
+                <tr>
+                  <!-- ============ ITEM CARD (copy/delete this whole <td> to add/remove one item) ============ -->
+                  <td class="item-cell" width="50%" valign="top" style="padding:12px;">
+                    <a href="https://michaelmillardlowe.com/listing/EDIT-LISTING-ID-1" style="text-decoration:none;" target="_blank">
+                      <img
+                        class="item-image"
+                        src="https://EDIT-IMAGE-URL-1.jpg"
+                        width="252"
+                        alt="EDIT: item name 1"
+                        style="display:block; width:100%; max-width:252px; height:200px; object-fit:cover; border-radius:10px; border:0;"
+                      />
+                      <p style="margin:10px 0 0; font-family:Georgia, serif; font-size:14px; font-weight:bold; color:#17130f;">
+                        <!-- EDIT: item name -->
+                        Item Name Goes Here
+                      </p>
+                      <p style="margin:2px 0 0; font-family:Georgia, serif; font-size:13px; color:#9c4216;">
+                        <!-- EDIT: price, or delete this line -->
+                        $000
+                      </p>
+                    </a>
+                  </td>
+                  <!-- ============ END ITEM CARD ============ -->
+
+                  <!-- ============ ITEM CARD ============ -->
+                  <td class="item-cell" width="50%" valign="top" style="padding:12px;">
+                    <a href="https://michaelmillardlowe.com/listing/EDIT-LISTING-ID-2" style="text-decoration:none;" target="_blank">
+                      <img
+                        class="item-image"
+                        src="https://EDIT-IMAGE-URL-2.jpg"
+                        width="252"
+                        alt="EDIT: item name 2"
+                        style="display:block; width:100%; max-width:252px; height:200px; object-fit:cover; border-radius:10px; border:0;"
+                      />
+                      <p style="margin:10px 0 0; font-family:Georgia, serif; font-size:14px; font-weight:bold; color:#17130f;">
+                        Item Name Goes Here
+                      </p>
+                      <p style="margin:2px 0 0; font-family:Georgia, serif; font-size:13px; color:#9c4216;">
+                        $000
+                      </p>
+                    </a>
+                  </td>
+                  <!-- ============ END ITEM CARD ============ -->
+                </tr>
+
+                <!-- ===================== ITEM ROW ===================== -->
+                <tr>
+                  <td class="item-cell" width="50%" valign="top" style="padding:12px;">
+                    <a href="https://michaelmillardlowe.com/listing/EDIT-LISTING-ID-3" style="text-decoration:none;" target="_blank">
+                      <img
+                        class="item-image"
+                        src="https://EDIT-IMAGE-URL-3.jpg"
+                        width="252"
+                        alt="EDIT: item name 3"
+                        style="display:block; width:100%; max-width:252px; height:200px; object-fit:cover; border-radius:10px; border:0;"
+                      />
+                      <p style="margin:10px 0 0; font-family:Georgia, serif; font-size:14px; font-weight:bold; color:#17130f;">
+                        Item Name Goes Here
+                      </p>
+                      <p style="margin:2px 0 0; font-family:Georgia, serif; font-size:13px; color:#9c4216;">
+                        $000
+                      </p>
+                    </a>
+                  </td>
+
+                  <td class="item-cell" width="50%" valign="top" style="padding:12px;">
+                    <a href="https://michaelmillardlowe.com/listing/EDIT-LISTING-ID-4" style="text-decoration:none;" target="_blank">
+                      <img
+                        class="item-image"
+                        src="https://EDIT-IMAGE-URL-4.jpg"
+                        width="252"
+                        alt="EDIT: item name 4"
+                        style="display:block; width:100%; max-width:252px; height:200px; object-fit:cover; border-radius:10px; border:0;"
+                      />
+                      <p style="margin:10px 0 0; font-family:Georgia, serif; font-size:14px; font-weight:bold; color:#17130f;">
+                        Item Name Goes Here
+                      </p>
+                      <p style="margin:2px 0 0; font-family:Georgia, serif; font-size:13px; color:#9c4216;">
+                        $000
+                      </p>
+                    </a>
+                  </td>
+                </tr>
+
+                <!-- ===================== ITEM ROW ===================== -->
+                <tr>
+                  <td class="item-cell" width="50%" valign="top" style="padding:12px;">
+                    <a href="https://michaelmillardlowe.com/listing/EDIT-LISTING-ID-5" style="text-decoration:none;" target="_blank">
+                      <img
+                        class="item-image"
+                        src="https://EDIT-IMAGE-URL-5.jpg"
+                        width="252"
+                        alt="EDIT: item name 5"
+                        style="display:block; width:100%; max-width:252px; height:200px; object-fit:cover; border-radius:10px; border:0;"
+                      />
+                      <p style="margin:10px 0 0; font-family:Georgia, serif; font-size:14px; font-weight:bold; color:#17130f;">
+                        Item Name Goes Here
+                      </p>
+                      <p style="margin:2px 0 0; font-family:Georgia, serif; font-size:13px; color:#9c4216;">
+                        $000
+                      </p>
+                    </a>
+                  </td>
+
+                  <td class="item-cell" width="50%" valign="top" style="padding:12px;">
+                    <a href="https://michaelmillardlowe.com/listing/EDIT-LISTING-ID-6" style="text-decoration:none;" target="_blank">
+                      <img
+                        class="item-image"
+                        src="https://EDIT-IMAGE-URL-6.jpg"
+                        width="252"
+                        alt="EDIT: item name 6"
+                        style="display:block; width:100%; max-width:252px; height:200px; object-fit:cover; border-radius:10px; border:0;"
+                      />
+                      <p style="margin:10px 0 0; font-family:Georgia, serif; font-size:14px; font-weight:bold; color:#17130f;">
+                        Item Name Goes Here
+                      </p>
+                      <p style="margin:2px 0 0; font-family:Georgia, serif; font-size:13px; color:#9c4216;">
+                        $000
+                      </p>
+                    </a>
+                  </td>
+                </tr>
+
+              </table>
+            </td>
+          </tr>
+
+          <!-- CTA BUTTON -->
+          <tr>
+            <td align="center" style="padding:24px 24px 36px;">
+              <a
+                href="https://michaelmillardlowe.com"
+                target="_blank"
+                style="display:inline-block; background-color:#17130f; color:#f8f1e3; text-decoration:none; font-family:Georgia, serif; font-size:14px; font-weight:bold; padding:14px 32px; border-radius:999px;"
+              >
+                Shop the Full Collection
+              </a>
+            </td>
+          </tr>
+
+          <!-- FOOTER -->
+          <tr>
+            <td style="background-color:#eeddba; padding:24px 32px; text-align:center;">
+              <p style="margin:0; font-family:Georgia, serif; font-size:12px; color:#6b5540;">
+                Michael Millard-Lowe Antiques &middot; Norfolk, VA
+              </p>
+              <p style="margin:6px 0 0; font-family:Georgia, serif; font-size:12px; color:#6b5540;">
+                <a href="https://michaelmillardlowe.com" style="color:#9c4216;">Visit the Shop</a>
+                &nbsp;&middot;&nbsp;
+                <!-- EDIT: if your email tool supports it, replace this with its unsubscribe merge tag -->
+                <a href="#" style="color:#9c4216;">Unsubscribe</a>
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>

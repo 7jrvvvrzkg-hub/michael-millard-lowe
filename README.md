@@ -239,30 +239,37 @@ redeploys the way adding a listing does.
 A browser button can't reach out and run a program on the visitor's own
 computer - that's a security boundary no website can cross, not something
 fixable in code. So instead of asking a non-technical shop owner to open a
-terminal and type `npm run sync:chairish`, there's a proper icon to
-double-click instead, no typing required:
+terminal and type `npm run sync:chairish`, there are real double-clickable
+apps with the shop's own logo on them:
 
-- **Mac:** `scripts/Sync From Chairish.app` - just double-click it, that's
-  it. It has a real custom icon (a white, glossy, modern-macOS-style
-  squircle with the orange monogram on it) and can be dragged straight to
-  the Dock.
-- **Windows:** double-click `scripts/Create Desktop Icon.vbs` **once** -
-  it adds a "Sync From Chairish" icon to the Desktop with the same
-  monogram artwork in a clean, flat, Windows 11-style rounded square.
-  From then on, use that Desktop icon.
+- **Mac:** `scripts/Sync From Chairish.app` - double-click it, a small
+  window pops up asking "Sync new items from Chairish now?", click **Sync
+  Now**, and a second window shows the result a few seconds later. No
+  Terminal ever opens. It has a real custom icon (a white, glossy,
+  modern-macOS-style squircle with the orange monogram on it) and can be
+  dragged straight to the Dock.
 
-  (Windows doesn't let a plain `.bat` file carry its own icon the way a Mac
-  app can - a desktop shortcut with an icon attached is the standard way
-  to get the same result, hence the one extra one-time step.)
+  **First time only:** double-click `scripts/Fix First Time.command`
+  once, before opening the app for the first time (see "About that Mac
+  security warning" below for why).
 
-Clicking either one opens a window showing the sync happening
-(added/updated/errors, same as the terminal version), automatically
-commits and pushes the result, then waits for a keypress before closing so
-they always get to see what happened. Under the hood both icons still run
-the same plain-text scripts as before -
-`scripts/sync-double-click.command` (Mac) and `scripts/sync-double-click.bat`
-(Windows) - those still work fine on their own too, the icons just make
-them easier to find and nicer to look at.
+- **Windows:** double-click `scripts/Sync From Chairish.hta` - it opens a
+  small app window with the shop's logo and a **Sync Now** button. Click
+  it, and the result shows right there in the window. Inside that window
+  there's also an **Add icon to Desktop** button - click it once, and a
+  proper icon (flat, rounded, Windows 11-style, with the orange monogram)
+  shows up on the Desktop that can be right-clicked and pinned to the
+  taskbar or Start menu.
+
+Under the hood both apps run the same underlying sync logic as the
+command-line version - `scripts/sync-chairish-core.sh` (Mac) and
+`scripts/sync-chairish-core.bat` (Windows) - which checks for new/updated
+Chairish listings, saves the result, and commits + pushes it to GitHub so
+the live site updates automatically (usually within about a minute). The
+old plain double-click scripts, `scripts/sync-double-click.command` (Mac)
+and `scripts/sync-double-click.bat` (Windows), still work too if anyone
+prefers a plain console window over the app - they run the exact same
+logic underneath.
 
 **The one-time setup this still needs** (do this once, before handing the
 project off - not something the owner ever has to touch): their computer
@@ -271,17 +278,33 @@ clone` of the GitHub repo with push access already configured (an SSH key
 or saved credentials) so the script's automatic `git push` actually works.
 Once that's done, every sync after that really is just a double-click.
 
-On a Mac, the very first double-click on `Sync From Chairish.app` may show a
-security warning since it isn't code-signed by a registered Apple developer
-- right-click it and choose **Open** once to get past that (this is normal
-for any small unsigned app, not a sign anything's wrong); every time after
-that, a normal double-click works fine.
+### About that Mac security warning
+
+Apps that aren't signed by a registered Apple developer (which costs $99/yr
+and isn't worth it for a single internal tool like this) get blocked by
+macOS in one of two ways:
+
+- A **plain script** (like `.command` files) shows a normal "are you sure
+  you want to open this?" prompt - right-click it and choose **Open** once,
+  and it's approved from then on.
+- A **full app bundle** like `Sync From Chairish.app`, though, can instead
+  get flagged as *"is damaged and should be moved to the Trash"* - which
+  looks much scarier, and, unlike the prompt above, doesn't show up
+  anywhere in System Settings to approve. It isn't actually damaged; this
+  is macOS's download-quarantine flag reacting more strictly to an
+  unsigned app bundle specifically.
+
+That's exactly what `scripts/Fix First Time.command` fixes: double-click it
+once (it's a plain script, so it'll show the normal, approvable prompt -
+right-click it and choose **Open**), and it clears that flag from
+everything in the folder. After that, `Sync From Chairish.app` opens
+normally with a double-click, every time, no further warnings.
 
 This doesn't replace the "Sync from Chairish" button already in `/admin` -
 that one still runs from Vercel's servers and may occasionally get blocked
 by Chairish (see the note it shows when that happens). Treat the desktop
-script as the reliable way to sync, and the website button as a
-nice-to-have that sometimes saves a step.
+app as the reliable way to sync, and the website button as a nice-to-have
+that sometimes saves a step.
 
 ## Changing the admin password
 
