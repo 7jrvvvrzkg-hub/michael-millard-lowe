@@ -6,6 +6,8 @@
   "categoryViews": {
     "decor": 2
   },
-  "searches": {},
+  "searches": {
+    "lamp": 1
+  },
   "conversions": []
 }
