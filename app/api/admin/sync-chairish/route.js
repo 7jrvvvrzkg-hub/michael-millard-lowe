@@ -41,15 +41,33 @@ export async function POST() {
       }
     );
 
-    if (results.length === 0) {
-      return NextResponse.json(
-        {
-          error:
-            "Couldn't read any listings from Chairish right now. This can happen if Chairish is blocking automated requests from Vercel, or if every item on Chairish is already imported. Try running `npm run sync:chairish` from your own computer instead.",
-          details: errors.slice(0, 5),
-        },
-        { status: 502 }
-      );
+    // A totally empty `results` array does NOT necessarily mean anything is
+    // wrong - it's the normal, expected steady-state outcome once every
+    // item on Chairish is already imported (there's nothing left for this
+    // click's budget to detail-scrape). The old version treated "zero new
+    // items" as a hard failure and bailed out before ever reaching the
+    // merge step below - which also meant sold-detection (which only needs
+    // the cheap page-listing discovery, not the detail scrape) never ran
+    // either. The only thing that's a *real* failure is not being able to
+    // discover the shop's listing pages at all.
+    const reachedChairish = Boolean(activeProductIds && activeProductIds.size > 0);
+
+    if (!reachedChairish && results.length === 0) {
+      const report = {
+        checked: 0,
+        totalOnChairish: 0,
+        imported: 0,
+        updated: 0,
+        markedSold: 0,
+        errorCount: errors.length,
+        elapsedSeconds: Number(((Date.now() - startedAt) / 1000).toFixed(1)),
+        blocked: true,
+      };
+      return NextResponse.json({
+        report,
+        note: "Couldn't reach Chairish's shop page at all this run - this can happen if Chairish is blocking automated requests from Vercel. Try running `npm run sync:chairish` from your own computer instead, or click Sync again in a moment.",
+        errors: errors.slice(0, 5),
+      });
     }
 
     const summary = await mergeScrapedListings(results, activeProductIds);

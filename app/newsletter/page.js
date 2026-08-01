@@ -1,18 +1,33 @@
 import Link from "next/link";
 import Image from "next/image";
-import { getNewArrivals, formatPrice } from "@/lib/listings";
+import { getAllListings, formatPrice } from "@/lib/listings";
 import { BUSINESS } from "@/lib/constants";
 
+export const dynamic = "force-dynamic";
 export const metadata = { title: "Newsletter Preview" };
+
+function pickRandom(items, count) {
+  // Fisher-Yates shuffle, then take the first `count` - re-run on every
+  // request (dynamic = "force-dynamic" above disables caching for this
+  // page) so the preview shows a different set of pieces each time you
+  // load it.
+  const pool = [...items];
+  for (let i = pool.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+  return pool.slice(0, count);
+}
 
 // A live, on-site demo of what the monthly catalogue EMAIL (see
 // /newsletter/catalogue-template.html in the project files) looks like once
 // it's actually filled in with real listings - same layout and branding,
-// rendered here with the site's current New Arrivals instead of placeholder
-// text. This page itself isn't the email; it's a working preview so you can
-// see the design with real content before sending anything.
+// rendered here with a random sample of the site's current listings
+// instead of placeholder text. This page itself isn't the email; it's a
+// working preview so you can see the design with real content.
 export default function NewsletterPreviewPage() {
-  const items = getNewArrivals(6);
+  const forSale = getAllListings().filter((l) => l.status !== "sold");
+  const items = pickRandom(forSale, 6);
   const monthLabel = new Date().toLocaleDateString("en-US", {
     month: "long",
     year: "numeric",
@@ -21,16 +36,22 @@ export default function NewsletterPreviewPage() {
   return (
     <div className="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8">
       <p className="text-center text-xs font-semibold uppercase tracking-[0.14em] text-espresso-500">
-        Newsletter Preview &middot; not a real email, just a live demo
+        Newsletter Preview
       </p>
 
       <div className="mt-6 overflow-hidden rounded-2xl border border-espresso-900/10 bg-white shadow-card">
         {/* Header */}
         <div className="bg-espresso-950 px-8 py-9 text-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-clay-500">
-            {BUSINESS.name}
-          </p>
-          <h1 className="mt-2 font-serif text-2xl font-semibold text-parchment-50 sm:text-3xl">
+          <div className="mx-auto flex h-16 w-16 items-center justify-center overflow-hidden rounded-full bg-parchment-50 ring-2 ring-clay-500/40">
+            <Image
+              src="/logo-mark.png?v=2"
+              alt={BUSINESS.name}
+              width={64}
+              height={64}
+              className="h-full w-full object-cover"
+            />
+          </div>
+          <h1 className="mt-4 font-serif text-2xl font-semibold text-parchment-50 sm:text-3xl">
             This Month&rsquo;s New Arrivals
           </h1>
           <p className="mt-1 text-sm text-parchment-200">{monthLabel}</p>
@@ -95,16 +116,6 @@ export default function NewsletterPreviewPage() {
           </p>
         </div>
       </div>
-
-      <p className="mx-auto mt-6 max-w-lg text-center text-xs text-espresso-500">
-        The real, editable, send-ready version of this lives in the project
-        files at{" "}
-        <code className="rounded bg-espresso-100 px-1.5 py-0.5">
-          newsletter/catalogue-template.html
-        </code>{" "}
-        - open it in a browser to preview, or import it straight into
-        Mailchimp, Brevo, or your email tool of choice.
-      </p>
     </div>
   );
 }

@@ -7,16 +7,17 @@ function SyncReport({ report, note }) {
   const rows = [
     {
       show: true,
-      icon: "✓",
-      color: "text-espresso-700",
-      dot: "bg-espresso-500",
-      label:
-        report.totalOnChairish != null
-          ? `${report.checked} listing${report.checked === 1 ? "" : "s"} checked (of ${report.totalOnChairish} on Chairish)`
-          : `${report.checked} listing${report.checked === 1 ? "" : "s"} checked`,
+      icon: report.blocked ? "!" : "✓",
+      color: report.blocked ? "text-red-600" : "text-espresso-700",
+      dot: report.blocked ? "bg-red-500" : "bg-espresso-500",
+      label: report.blocked
+        ? "Couldn't reach Chairish"
+        : report.totalOnChairish != null
+        ? `${report.checked} listing${report.checked === 1 ? "" : "s"} checked (of ${report.totalOnChairish} on Chairish)`
+        : `${report.checked} listing${report.checked === 1 ? "" : "s"} checked`,
     },
     {
-      show: report.imported > 0,
+      show: !report.blocked && report.imported > 0,
       icon: "+",
       color: "text-purple-600",
       dot: "bg-purple-500",
