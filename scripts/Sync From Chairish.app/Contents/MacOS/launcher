@@ -1,0 +1,9 @@
+#!/bin/bash
+# This is the actual executable macOS launches when you double-click the
+# "Sync From Chairish" app icon. A plain script run this way (rather than
+# by double-clicking a .command file directly) has no visible window to
+# print to, so its only job is to open Terminal and hand the real sync
+# script to it - that's what actually does the work and shows the colored
+# progress report.
+APP_DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
+open -a Terminal "$APP_DIR/sync-double-click.command"

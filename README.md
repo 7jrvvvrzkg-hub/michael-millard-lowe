@@ -234,6 +234,55 @@ every single visitor would be slow and unnecessary, so this project ships a
 touch it, but it's why analytics tracking doesn't trigger a flurry of
 redeploys the way adding a listing does.
 
+## One-click sync for a non-technical owner
+
+A browser button can't reach out and run a program on the visitor's own
+computer - that's a security boundary no website can cross, not something
+fixable in code. So instead of asking a non-technical shop owner to open a
+terminal and type `npm run sync:chairish`, there's a proper icon to
+double-click instead, no typing required:
+
+- **Mac:** `scripts/Sync From Chairish.app` - just double-click it, that's
+  it. It has a real custom icon (a white, glossy, modern-macOS-style
+  squircle with the orange monogram on it) and can be dragged straight to
+  the Dock.
+- **Windows:** double-click `scripts/Create Desktop Icon.vbs` **once** -
+  it adds a "Sync From Chairish" icon to the Desktop with the same
+  monogram artwork in a clean, flat, Windows 11-style rounded square.
+  From then on, use that Desktop icon.
+
+  (Windows doesn't let a plain `.bat` file carry its own icon the way a Mac
+  app can - a desktop shortcut with an icon attached is the standard way
+  to get the same result, hence the one extra one-time step.)
+
+Clicking either one opens a window showing the sync happening
+(added/updated/errors, same as the terminal version), automatically
+commits and pushes the result, then waits for a keypress before closing so
+they always get to see what happened. Under the hood both icons still run
+the same plain-text scripts as before -
+`scripts/sync-double-click.command` (Mac) and `scripts/sync-double-click.bat`
+(Windows) - those still work fine on their own too, the icons just make
+them easier to find and nicer to look at.
+
+**The one-time setup this still needs** (do this once, before handing the
+project off - not something the owner ever has to touch): their computer
+needs Node.js installed, and this project folder needs to be a real `git
+clone` of the GitHub repo with push access already configured (an SSH key
+or saved credentials) so the script's automatic `git push` actually works.
+Once that's done, every sync after that really is just a double-click.
+
+On a Mac, the very first double-click on `Sync From Chairish.app` may show a
+security warning since it isn't code-signed by a registered Apple developer
+- right-click it and choose **Open** once to get past that (this is normal
+for any small unsigned app, not a sign anything's wrong); every time after
+that, a normal double-click works fine.
+
+This doesn't replace the "Sync from Chairish" button already in `/admin` -
+that one still runs from Vercel's servers and may occasionally get blocked
+by Chairish (see the note it shows when that happens). Treat the desktop
+script as the reliable way to sync, and the website button as a
+nice-to-have that sometimes saves a step.
+
 ## Changing the admin password
 
 ```bash
