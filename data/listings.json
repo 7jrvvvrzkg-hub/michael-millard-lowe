@@ -407,7 +407,7 @@
     "condition": "Vintage, Good Condition",
     "dimensions": {
       "w": 35.25,
-      "d": 36.0,
+      "d": 36,
       "h": 39.5,
       "unit": "in"
     },
@@ -480,8 +480,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 26.0,
-      "d": 28.0,
+      "w": 26,
+      "d": 28,
       "h": 43.5,
       "unit": "in"
     },
@@ -516,8 +516,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 57.0,
-      "d": 33.0,
+      "w": 57,
+      "d": 33,
       "h": 33.5,
       "unit": "in"
     },
@@ -590,9 +590,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 6.0,
-      "d": 6.0,
-      "h": 6.0,
+      "w": 6,
+      "d": 6,
+      "h": 6,
       "unit": "in"
     },
     "description": "An antique French Napoleon III inkwell and stand in richly figured burled walnut, featuring a carved, movable pen holder. A charming heirloom-quality desk accessory full of 19th century character.",
@@ -627,9 +627,9 @@
     "compareAtPrice": 210,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 5.0,
+      "w": 5,
       "d": 3.5,
-      "h": 9.0,
+      "h": 9,
       "unit": "in"
     },
     "description": "An ornate 1860s French ceramic urn with a religious motif rendered in classic gold and white glaze. Intricate griffin detailing and a lovely aged patina speak to its 19th century origins.",
@@ -663,7 +663,7 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 9.0,
+      "w": 9,
       "d": 11.5,
       "h": 3.5,
       "unit": "in"
@@ -700,8 +700,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 5.0,
-      "d": 5.0,
+      "w": 5,
+      "d": 5,
       "h": 7.75,
       "unit": "in"
     },
@@ -738,8 +738,8 @@
     "condition": "Vintage, Good Condition",
     "dimensions": {
       "w": 12.5,
-      "d": 9.0,
-      "h": 2.0,
+      "d": 9,
+      "h": 2,
       "unit": "in"
     },
     "description": "A lovely oval French faience dish featuring delicate branch and leaf motifs in a soft violet and green glaze. Rustic and vintage in character, ideal for display or serving.",
@@ -772,9 +772,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 13.0,
+      "w": 13,
       "d": 24.25,
-      "h": 22.0,
+      "h": 22,
       "unit": "in"
     },
     "description": "A bold pair of oversized brass cannonball andirons, early 20th century, in a British colonial style. Their substantial scale and warm brass finish make a masculine, architectural statement at the hearth.",
@@ -808,9 +808,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 20.0,
-      "d": 20.0,
-      "h": 40.0,
+      "w": 20,
+      "d": 20,
+      "h": 40,
       "unit": "in"
     },
     "description": "A striking Mid-Century Modern tulip lamp in frosted acrylic and glass. This retro-chic accent piece brings soft, sculptural light and playful 1960s style to any room.",
@@ -845,8 +845,8 @@
     "condition": "Vintage, Good Condition",
     "dimensions": {
       "w": 5.5,
-      "d": 4.0,
-      "h": 8.0,
+      "d": 4,
+      "h": 8,
       "unit": "in"
     },
     "description": "An elegant pair of Egyptian Revival bronze candlesticks from the 1920s, each cast with intricate female figures. A touch of Art Deco-era luxury and exoticism for the mantel or table.",
@@ -881,9 +881,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 5.0,
+      "w": 5,
       "d": 6.5,
-      "h": 9.0,
+      "h": 9,
       "unit": "in"
     },
     "description": "A charming English majolica pitcher modeled as a bulldog, dating to the late 19th century. Whimsical and full of character, it's a delightful conversation piece for the table or shelf.",
@@ -918,9 +918,9 @@
     "compareAtPrice": 3540,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 50.0,
+      "w": 50,
       "d": 22.75,
-      "h": 37.0,
+      "h": 37,
       "unit": "in"
     },
     "description": "A handsome Louis Philippe three-drawer desk commode, its clean lines and generous proportions offering both storage and workspace. A versatile 19th century French case piece for a study, hallway or bedroom.",
@@ -955,7 +955,7 @@
     "condition": "Vintage, Good Condition",
     "dimensions": {
       "w": 21.5,
-      "d": 22.0,
+      "d": 22,
       "h": 21.5,
       "unit": "in"
     },
@@ -977,7 +977,7 @@
       "https://chairish-prod.freetls.fastly.net/image/product/sized/c5d8ca8a-5086-4550-a835-8bc35065e221/english-silver-plated-tray-with-painted-brass-stand-2339?aspect=fit&width=1200&height=1200"
     ],
     "featured": false,
-    "status": "available",
+    "status": "sold",
     "source": "chairish",
     "sourceUrl": "https://www.chairish.com/product/1109562/english-silver-plated-tray-with-painted-brass-stand",
     "sourceProductId": "1109562",
@@ -990,8 +990,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 11.0,
-      "d": 7.0,
+      "w": 11,
+      "d": 7,
       "h": 4.25,
       "unit": "in"
     },
@@ -1026,8 +1026,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 53.0,
-      "d": 3.0,
+      "w": 53,
+      "d": 3,
       "h": 8.5,
       "unit": "in"
     },
@@ -1062,7 +1062,7 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 11.0,
+      "w": 11,
       "d": 9.25,
       "h": 4.5,
       "unit": "in"
@@ -1099,9 +1099,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 4.0,
+      "w": 4,
       "d": 3.25,
-      "h": 11.0,
+      "h": 11,
       "unit": "in"
     },
     "description": "A vintage United States Army silver plate ladle from the 1960s. Utilitarian in form yet full of rustic, mid-century character, a fun conversation piece for a vintage kitchen or bar cart.",
@@ -1137,7 +1137,7 @@
     "dimensions": {
       "w": 40.5,
       "d": 26.5,
-      "h": 31.0,
+      "h": 31,
       "unit": "in"
     },
     "description": "A dramatic Napoleon III-style center table in black lacquer with gilded bronze accents. Crafted in the late 19th century, this bold, statement-making table anchors a seating area with old-world glamour.",
@@ -1173,7 +1173,7 @@
     "condition": "Antique, Newly Rewired",
     "dimensions": {
       "w": 16.5,
-      "d": 12.0,
+      "d": 12,
       "h": 23.5,
       "unit": "in"
     },
@@ -1210,7 +1210,7 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 23.5,
-      "d": 19.0,
+      "d": 19,
       "h": 37.5,
       "unit": "in"
     },
@@ -1247,8 +1247,8 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 21.75,
-      "d": 21.0,
-      "h": 20.0,
+      "d": 21,
+      "h": 20,
       "unit": "in"
     },
     "description": "A captivating French terra-cotta console, mid-19th century, with rustic, weathered charm. Originally used as a plinth to display religious statuary, it now makes a striking sculptural stand or side table.",
@@ -1285,7 +1285,7 @@
     "dimensions": {
       "w": 10.25,
       "d": 10.25,
-      "h": 20.0,
+      "h": 20,
       "unit": "in"
     },
     "description": "A charming pottery umbrella stand in a vibrant cornflower blue glaze, dating to the early 1900s. A traditional, functional piece that adds color to any entryway.",
@@ -1321,7 +1321,7 @@
     "dimensions": {
       "w": 10.5,
       "d": 10.5,
-      "h": 27.0,
+      "h": 27,
       "unit": "in"
     },
     "description": "A vintage 1920s French-style lantern in gilded iron and painted tole, its ornate basket form designed to hold a candle or floral display. A romantic lighting fixture for an entry or garden room.",
@@ -1356,8 +1356,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 13.0,
-      "d": 13.0,
+      "w": 13,
+      "d": 13,
       "h": 11.5,
       "unit": "in"
     },
@@ -1393,9 +1393,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 53.0,
+      "w": 53,
       "d": 25.5,
-      "h": 10.0,
+      "h": 10,
       "unit": "in"
     },
     "description": "A large rustic French dough trough in pine, 19th century, with a lovely aged patina. Once used for kneading bread, this artisan piece now makes a striking farmhouse coffee table base or planter.",
@@ -1430,9 +1430,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 13.0,
-      "d": 8.0,
-      "h": 10.0,
+      "w": 13,
+      "d": 8,
+      "h": 10,
       "unit": "in"
     },
     "description": "A set of three elegant Old Paris porcelain compotes, Charles X period, hand-painted with blue flowers and gilt accents. These decorative bowls bring refined French tablescape style to any collection.",
@@ -1468,7 +1468,7 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 40.0,
+      "w": 40,
       "d": 27.5,
       "h": 29.5,
       "unit": "in"
@@ -1504,9 +1504,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 46.0,
-      "d": 20.0,
-      "h": 37.0,
+      "w": 46,
+      "d": 20,
+      "h": 37,
       "unit": "in"
     },
     "description": "An unusually narrow French commode in the Louis XIV style, combining bronze mounts, a marble top and walnut casework. A luxurious, compact storage solution for a hallway or bedroom.",
@@ -1542,9 +1542,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 15.0,
-      "d": 9.0,
-      "h": 35.0,
+      "w": 15,
+      "d": 9,
+      "h": 35,
       "unit": "in"
     },
     "description": "A pair of industrial-chic lamps crafted from salvaged iron with rustic-luxe textile shades. These contemporary fixtures bring warm, sculptural light with an urban edge.",
@@ -1614,7 +1614,7 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 71.0,
+      "w": 71,
       "d": 39.5,
       "h": 29.25,
       "unit": "in"
@@ -1650,9 +1650,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 20.0,
-      "d": 24.0,
-      "h": 38.0,
+      "w": 20,
+      "d": 24,
+      "h": 38,
       "unit": "in"
     },
     "description": "An opulent 19th century American Baroque corner chair in gilded gold leaf with rich red upholstery. Ornate carved woodwork makes this a dramatic focal point for any seating arrangement.",
@@ -1688,7 +1688,7 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 24.5,
-      "d": 26.0,
+      "d": 26,
       "h": 42.5,
       "unit": "in"
     },
@@ -1724,8 +1724,8 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 25.25,
-      "d": 24.0,
-      "h": 37.0,
+      "d": 24,
+      "h": 37,
       "unit": "in"
     },
     "description": "A pair of exquisite Louis XV-style giltwood armchairs featuring original Aubusson tapestry upholstery. A rare, richly detailed pair for a formal living room or entry.",
@@ -1760,8 +1760,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 36.0,
-      "d": 22.0,
+      "w": 36,
+      "d": 22,
       "h": 30.5,
       "unit": "in"
     },
@@ -1798,8 +1798,8 @@
     "condition": "Vintage, Good Condition",
     "dimensions": {
       "w": 4.75,
-      "d": 28.0,
-      "h": 15.0,
+      "d": 28,
+      "h": 15,
       "unit": "in"
     },
     "description": "A vintage 1920s copper weather vane with rustic, handcrafted charm. This artisan-made outdoor accent, in the Arts & Crafts spirit, brings sculptural interest to a garden, barn or porch.",
@@ -1835,7 +1835,7 @@
     "dimensions": {
       "w": 35.25,
       "d": 22.25,
-      "h": 27.0,
+      "h": 27,
       "unit": "in"
     },
     "description": "A vintage Louis XV-style walnut side table topped with kelly green velvet upholstery. A versatile, eclectic accent piece that pairs classic curves with a playful pop of color.",
@@ -1869,8 +1869,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 7.0,
-      "d": 7.0,
+      "w": 7,
+      "d": 7,
       "h": 24.5,
       "unit": "in"
     },
@@ -1906,7 +1906,7 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 28.75,
-      "d": 2.0,
+      "d": 2,
       "h": 36.75,
       "unit": "in"
     },
@@ -1943,8 +1943,8 @@
     "condition": "Vintage, Good Condition",
     "dimensions": {
       "w": 37.5,
-      "d": 20.0,
-      "h": 33.0,
+      "d": 20,
+      "h": 33,
       "unit": "in"
     },
     "description": "An elegant Chinese mahogany demilune table with intricately carved details and a timeless silhouette. A versatile console for an entryway, hallway or against any wall.",
@@ -1979,9 +1979,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 14.0,
-      "d": 6.0,
-      "h": 24.0,
+      "w": 14,
+      "d": 6,
+      "h": 24,
       "unit": "in"
     },
     "description": "A pair of industrial-chic table lamps fashioned from salvaged 19th century cast iron architectural capitals. Each unique, vintage-inspired base brings sculptural, weathered texture to a room.",
@@ -2017,7 +2017,7 @@
     "dimensions": {
       "w": 15.5,
       "d": 17.75,
-      "h": 33.0,
+      "h": 33,
       "unit": "in"
     },
     "description": "A pair of iconic Mid-Century Modern teak barstools designed by Erik Buch for Oddense Maskinsnedkeri. Artisan-crafted in Denmark, these masculine, sculptural stools are prized examples of Scandinavian design.",
@@ -2052,9 +2052,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Newly Upholstered",
     "dimensions": {
-      "w": 28.0,
-      "d": 28.0,
-      "h": 47.0,
+      "w": 28,
+      "d": 28,
+      "h": 47,
       "unit": "in"
     },
     "description": "A newly upholstered 1960s Adrian Pearsall accent chair in a textured blue fabric. This compact, retro-chic high-back chair brings sculptural Mid-Century Modern style to any seating group.",
@@ -2124,8 +2124,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Restored",
     "dimensions": {
-      "w": 43.0,
-      "d": 20.0,
+      "w": 43,
+      "d": 20,
       "h": 32.5,
       "unit": "in"
     },
@@ -2160,9 +2160,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Excellent Condition",
     "dimensions": {
-      "w": 34.0,
-      "d": 55.0,
-      "h": 16.0,
+      "w": 34,
+      "d": 55,
+      "h": 16,
       "unit": "in"
     },
     "description": "An organic modern coffee table by Phillips Collection, its sculptural resin form inspired by river stones. The warm, golden hue reflects light beautifully, making a striking contemporary centerpiece.",
@@ -2196,7 +2196,7 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 106.0,
+      "w": 106,
       "d": 25.5,
       "h": 30.5,
       "unit": "in"
@@ -2234,9 +2234,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 29.0,
+      "w": 29,
       "d": 17.5,
-      "h": 50.0,
+      "h": 50,
       "unit": "in"
     },
     "description": "An elegant Louis XVI-style marquetry semanier in a rich blend of walnut, ebony, rosewood and yew. This versatile eight-drawer chest offers ample storage with exceptional inlaid detail.",
@@ -2271,9 +2271,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 5.0,
-      "d": 5.0,
-      "h": 6.0,
+      "w": 5,
+      "d": 5,
+      "h": 6,
       "unit": "in"
     },
     "description": "A vintage French ceramic tobacco jar with a charming floral design and a whimsical snail accent atop the lid. Its vivid light blue interior adds a playful pop of color.",
@@ -2346,7 +2346,7 @@
     "dimensions": {
       "w": 2.75,
       "d": 2.75,
-      "h": 2.0,
+      "h": 2,
       "unit": "in"
     },
     "description": "A charming set of three alabaster fruits, oranges and a lemon, with a muted, weathered finish. A touch of French country style for a bowl, tray or mantel display.",
@@ -2382,7 +2382,7 @@
     "dimensions": {
       "w": 1.5,
       "d": 1.5,
-      "h": 2.0,
+      "h": 2,
       "unit": "in"
     },
     "description": "A petite alabaster cherry with a sweet, vintage-inspired design and a delicate green wire stem. A charming addition to a French country or Italian-style decorative fruit collection.",
@@ -2416,8 +2416,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 4.0,
-      "d": 4.0,
+      "w": 4,
+      "d": 4,
       "h": 7.25,
       "unit": "in"
     },
@@ -2453,8 +2453,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Excellent Condition",
     "dimensions": {
-      "w": 9.0,
-      "d": 9.0,
+      "w": 9,
+      "d": 9,
       "h": 8.5,
       "unit": "in"
     },
@@ -2525,8 +2525,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 14.0,
-      "d": 14.0,
+      "w": 14,
+      "d": 14,
       "h": 2.75,
       "unit": "in"
     },
@@ -2597,9 +2597,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 32.0,
-      "d": 5.0,
-      "h": 71.0,
+      "w": 32,
+      "d": 5,
+      "h": 71,
       "unit": "in"
     },
     "description": "An ornate Louis XVI style mirror with sculptural gold details and a grand, oversized presence. Crafted in the late 19th century, this statement mirror commands a room.",
@@ -2633,8 +2633,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Excellent Condition",
     "dimensions": {
-      "w": 4.0,
-      "d": 4.0,
+      "w": 4,
+      "d": 4,
       "h": 7.25,
       "unit": "in"
     },
@@ -2666,8 +2666,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 10.0,
-      "d": 10.0,
+      "w": 10,
+      "d": 10,
       "h": 7.5,
       "unit": "in"
     },
@@ -2700,9 +2700,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 52.0,
+      "w": 52,
       "d": 20.5,
-      "h": 79.0,
+      "h": 79,
       "unit": "in"
     },
     "description": "A monumental 19th century Breton region vaisselier (sideboard), dated 1889 in nailhead trim upon its crest. Carved with fanciful ship's wheel motifs and fitted with a drawer and two-door cupboard below, it carries the wear of an honest working life in a French farmhouse.",
@@ -2767,8 +2767,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 6.0,
-      "d": 6.0,
+      "w": 6,
+      "d": 6,
       "h": 9.25,
       "unit": "in"
     },
@@ -2802,7 +2802,7 @@
     "condition": "Vintage, Good Condition",
     "dimensions": {
       "w": 7.25,
-      "d": 1.0,
+      "d": 1,
       "h": 7.25,
       "unit": "in"
     },
@@ -2836,8 +2836,8 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 53.5,
-      "d": 26.0,
-      "h": 37.0,
+      "d": 26,
+      "h": 37,
       "unit": "in"
     },
     "description": "A handsome French Empire chest of drawers, circa 1815, in solid mahogany with columned corners, bronze hardware and a gray marble top. Wear to the wood and light scratching to the marble are consistent with two centuries of use.",
@@ -2870,8 +2870,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 20.0,
-      "d": 18.0,
+      "w": 20,
+      "d": 18,
       "h": 43.5,
       "unit": "in"
     },
@@ -2904,9 +2904,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Excellent Condition",
     "dimensions": {
-      "w": 9.0,
-      "d": 5.0,
-      "h": 17.0,
+      "w": 9,
+      "d": 5,
+      "h": 17,
       "unit": "in"
     },
     "description": "A pair of French Napoleon III bronze andirons, circa 1880s, with intricately detailed finials. A handsome finishing touch for a working or decorative fireplace.",
@@ -2938,8 +2938,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 34.0,
-      "d": 4.0,
+      "w": 34,
+      "d": 4,
       "h": 18.5,
       "unit": "in"
     },
@@ -2973,8 +2973,8 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 48.5,
-      "d": 4.0,
-      "h": 16.0,
+      "d": 4,
+      "h": 16,
       "unit": "in"
     },
     "description": "A three-piece French brass chenet (andiron) set in the Louis XVI style, circa 1880, richly detailed in the neoclassical manner. Light tarnish and a small dent to the center piece are consistent with age.",
@@ -3007,8 +3007,8 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 3.5,
-      "d": 2.0,
-      "h": 4.0,
+      "d": 2,
+      "h": 4,
       "unit": "in"
     },
     "description": "A sweet pair of miniature Old Paris porcelain vases, circa 1890s, with gilt accents and sculptural detailing in true Old Paris fashion. Lovely for displaying a few buds or standing alone. Wear to the gilding and paint is consistent with age.",
@@ -3041,9 +3041,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Excellent Condition",
     "dimensions": {
-      "w": 7.0,
+      "w": 7,
       "d": 4.5,
-      "h": 12.0,
+      "h": 12,
       "unit": "in"
     },
     "description": "An exceptional Old Paris porcelain vase, hand painted with flowers and finished in gilt. In excellent condition with no chips, cracks or breaks - only gentle wear to the gilding.",
@@ -3075,9 +3075,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 9.0,
-      "d": 5.0,
-      "h": 6.0,
+      "w": 9,
+      "d": 5,
+      "h": 6,
       "unit": "in"
     },
     "description": "A whimsical 1920s cast iron bulldog bank figurine, painted grey with a charmingly snaggletoothed expression and wonderful old patina. A fun figural collectible for any dog lover.",
@@ -3096,7 +3096,7 @@
       "https://chairish-prod.freetls.fastly.net/image/product/sized/dfe9017c-cdeb-4a54-bd4a-197cf8a15db2/cast-iron-bull-dog-bank-7212?aspect=fit&width=1200&height=1200"
     ],
     "featured": false,
-    "status": "available",
+    "status": "sold",
     "source": "chairish",
     "sourceUrl": "https://www.chairish.com/product/1430098/cast-iron-bull-dog-bank",
     "sourceProductId": "1430098",
@@ -3109,9 +3109,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 3.0,
+      "w": 3,
       "d": 1.5,
-      "h": 3.0,
+      "h": 3,
       "unit": "in"
     },
     "description": "A nostalgic 1920s Scotty dog souvenir figurine cast in black metal, commemorating Chicago's landmark Wrigley Building. A compact, characterful curiosity for a shelf or bookcase.",
@@ -3143,8 +3143,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Excellent Condition",
     "dimensions": {
-      "w": 7.0,
-      "d": 7.0,
+      "w": 7,
+      "d": 7,
       "h": 9.5,
       "unit": "in"
     },
@@ -3177,9 +3177,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 1.0,
+      "w": 1,
       "d": 0.2,
-      "h": 8.0,
+      "h": 8,
       "unit": "in"
     },
     "description": "A hard-to-find set of twelve French Napoleon III-era knives with horn handles delicately carved to resemble branches, sterling and steel blades, presented in their original box.",
@@ -3213,8 +3213,8 @@
     "condition": "Antique, Excellent Condition",
     "dimensions": {
       "w": 26.5,
-      "d": 26.0,
-      "h": 39.0,
+      "d": 26,
+      "h": 39,
       "unit": "in"
     },
     "description": "A Louis XV style walnut armchair, late 19th century, retaining its original Aubusson tapestry upholstery in wonderful condition. Curvaceous and just a touch decadent, it suits both traditional and mid-century interiors.",
@@ -3247,9 +3247,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 12.0,
+      "w": 12,
       "d": 6.75,
-      "h": 22.0,
+      "h": 22,
       "unit": "in"
     },
     "description": "A classic French Empire bronze mantel clock, cast with a graceful goddess figure and finished in a rich bronze patina. A striking, working conversation piece for a mantel or shelf.",
@@ -3280,8 +3280,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Newly Rewired",
     "dimensions": {
-      "w": 5.0,
-      "d": 5.0,
+      "w": 5,
+      "d": 5,
       "h": 29.5,
       "unit": "in"
     },
@@ -3348,8 +3348,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 19.0,
-      "d": 19.0,
+      "w": 19,
+      "d": 19,
       "h": 36.5,
       "unit": "in"
     },
@@ -3383,7 +3383,7 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 27.5,
-      "d": 30.0,
+      "d": 30,
       "h": 42.5,
       "unit": "in"
     },
@@ -3416,9 +3416,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 15.0,
-      "d": 16.0,
-      "h": 20.0,
+      "w": 15,
+      "d": 16,
+      "h": 20,
       "unit": "in"
     },
     "description": "A handsome copper samovar dating to the 1920s, likely brought to France by White Russian emigres following the First World War. An eclectic, urn-like accent piece with rich patina.",
@@ -3450,7 +3450,7 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 25.0,
+      "w": 25,
       "d": 1.5,
       "h": 21.5,
       "unit": "in"
@@ -3518,9 +3518,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 5.0,
-      "d": 15.0,
-      "h": 11.0,
+      "w": 5,
+      "d": 15,
+      "h": 11,
       "unit": "in"
     },
     "description": "A pair of late 19th century Louis XVI style brass andirons, polished to a gleaming shine. Equally suited to a wood-burning or gas fireplace for a traditional finishing touch.",
@@ -3552,9 +3552,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 14.0,
-      "d": 14.0,
-      "h": 24.0,
+      "w": 14,
+      "d": 14,
+      "h": 24,
       "unit": "in"
     },
     "description": "A pair of cast iron architectural salvage lamps, dating to the last quarter of the 19th century and rescued from a building being demolished in downtown Richmond. Industrial-chic with a storied patina - perfect for a library or sofa table.",
@@ -3586,9 +3586,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 12.0,
-      "d": 12.0,
-      "h": 14.0,
+      "w": 12,
+      "d": 12,
+      "h": 14,
       "unit": "in"
     },
     "description": "A hand-painted Napoleon III-style Medici vase by the celebrated French ceramics house Gien, decorated with a romantic floral scene in warm browns and creams and hand signed by the artist.",
@@ -3620,9 +3620,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 24.0,
-      "d": 20.0,
-      "h": 28.0,
+      "w": 24,
+      "d": 20,
+      "h": 28,
       "unit": "in"
     },
     "description": "A Napoleon III desk chair in solid Cuban mahogany with its original leather upholstery still intact. Sturdy and supremely comfortable, it's ready for daily use in a home office.",
@@ -3654,8 +3654,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 18.0,
-      "d": 18.0,
+      "w": 18,
+      "d": 18,
       "h": 29.5,
       "unit": "in"
     },
@@ -3722,8 +3722,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 65.0,
-      "d": 19.0,
+      "w": 65,
+      "d": 19,
       "h": 33.25,
       "unit": "in"
     },
@@ -3756,8 +3756,8 @@
     "condition": "Antique, Restored",
     "dimensions": {
       "w": 47.5,
-      "d": 26.0,
-      "h": 32.0,
+      "d": 26,
+      "h": 32,
       "unit": "in"
     },
     "description": "An 18th century Italian chest of drawers in warm walnut, expertly restored to heirloom quality. Dramatic and timeless, it commands attention in any room it graces.",
@@ -3789,8 +3789,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 30.0,
-      "d": 30.0,
+      "w": 30,
+      "d": 30,
       "h": 30.75,
       "unit": "in"
     },
@@ -3823,8 +3823,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Restored",
     "dimensions": {
-      "w": 33.0,
-      "d": 33.0,
+      "w": 33,
+      "d": 33,
       "h": 28.75,
       "unit": "in"
     },
@@ -3857,8 +3857,8 @@
     "compareAtPrice": 570,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 6.0,
-      "d": 8.0,
+      "w": 6,
+      "d": 8,
       "h": 6.5,
       "unit": "in"
     },
@@ -3891,9 +3891,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Excellent Condition",
     "dimensions": {
-      "w": 18.0,
-      "d": 18.0,
-      "h": 32.0,
+      "w": 18,
+      "d": 18,
+      "h": 32,
       "unit": "in"
     },
     "description": "A 1960s plaster pricket lamp in soft grey with a chic, shabby elegance, newly rewired for safety and fitted with a fresh white shade. A textural addition to any tabletop.",
@@ -3924,8 +3924,8 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 20.0,
-      "d": 20.0,
+      "w": 20,
+      "d": 20,
       "h": 46.5,
       "unit": "in"
     },
@@ -3958,9 +3958,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 13.0,
-      "d": 9.0,
-      "h": 17.0,
+      "w": 13,
+      "d": 9,
+      "h": 17,
       "unit": "in"
     },
     "description": "A pair of exquisite Napoleon III bronze and crystal sconces, dating to the 1890s and recently rewired for safe, easy installation. Refined sparkle for a hallway, dining room or bath.",
@@ -3992,9 +3992,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 12.0,
-      "d": 3.0,
-      "h": 11.0,
+      "w": 12,
+      "d": 3,
+      "h": 11,
       "unit": "in"
     },
     "description": "A pair of French Art Nouveau wall sconces from the 1920s, adorned with charming porcelain flowers arranged organically along the candle holders. Some wear to the painted metal, but the floral details remain intact.",
@@ -4026,9 +4026,9 @@
     "compareAtPrice": 5760,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 51.0,
-      "d": 25.0,
-      "h": 32.0,
+      "w": 51,
+      "d": 25,
+      "h": 32,
       "unit": "in"
     },
     "description": "A genuine Louis XV period commode, circa 1750, with a graceful serpentine front and the deep, glowing patina that only 250 years of hand-rubbed waxing can produce. A rare, well-loved antique in very good condition.",
@@ -4062,7 +4062,7 @@
     "dimensions": {
       "w": 20.25,
       "d": 2.5,
-      "h": 20.0,
+      "h": 20,
       "unit": "in"
     },
     "description": "A vintage French metal letter 'O', salvaged from a 1930s outdoor sign and painted a lovely lilac-periwinkle hue. A graphic, playful accent for a gallery wall or bookshelf.",
@@ -4128,8 +4128,8 @@
     "compareAtPrice": null,
     "condition": "Vintage, Newly Upholstered",
     "dimensions": {
-      "w": 32.0,
-      "d": 23.0,
+      "w": 32,
+      "d": 23,
       "h": 34.5,
       "unit": "in"
     },
@@ -4164,8 +4164,8 @@
     "condition": "Antique, Restored",
     "dimensions": {
       "w": 12.5,
-      "d": 10.0,
-      "h": 22.0,
+      "d": 10,
+      "h": 22,
       "unit": "in"
     },
     "description": "A grand pair of 19th century Louis XVI-style bronze dore four-arm sconces, sourced in France and since wired for electric use with discreetly added backplates. Formal and elegant, ready to install.",
@@ -4198,8 +4198,8 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 44.5,
-      "d": 29.0,
-      "h": 87.0,
+      "d": 29,
+      "h": 87,
       "unit": "in"
     },
     "description": "An exceptionally rare pair of Louis Philippe mahogany corner cabinets (encoignures), with a rich, honey-toned patina built up over nearly 200 years. Matched pairs of French antique furniture are seldom found intact, making this a special acquisition.",
@@ -4232,7 +4232,7 @@
     "condition": "Antique, Restored",
     "dimensions": {
       "w": 35.5,
-      "d": 23.0,
+      "d": 23,
       "h": 28.5,
       "unit": "in"
     },
@@ -4265,9 +4265,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 11.0,
-      "d": 11.0,
-      "h": 23.0,
+      "w": 11,
+      "d": 11,
+      "h": 23,
       "unit": "in"
     },
     "description": "A captivating Arts & Crafts-style ceramic umbrella stand in a rich palette of royal blue, dark green and goldenrod. A colorful, sculptural piece for an entryway.",
@@ -4298,9 +4298,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 48.0,
-      "d": 2.0,
-      "h": 36.0,
+      "w": 48,
+      "d": 2,
+      "h": 36,
       "unit": "in"
     },
     "description": "A traditional oil painting in the Dutch Old Master style, rendered as a rich still life full of old-world color and drama. A striking focal point for a maximalist room or a single statement piece in a pared-back interior.",
@@ -4331,9 +4331,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition",
     "dimensions": {
-      "w": 64.0,
-      "d": 64.0,
-      "h": 29.0,
+      "w": 64,
+      "d": 64,
+      "h": 29,
       "unit": "in"
     },
     "description": "A round Georgian Hepplewhite-style dining table with a warm walnut patina and a fitted leather top. Perfectly suited to convivial dinner parties, where everyone shares equal distance from the center.",
@@ -4400,7 +4400,7 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 55.75,
-      "d": 25.0,
+      "d": 25,
       "h": 38.5,
       "unit": "in"
     },
@@ -4434,7 +4434,7 @@
     "condition": "Antique, Good Condition",
     "dimensions": {
       "w": 76.5,
-      "d": 26.0,
+      "d": 26,
       "h": 45.5,
       "unit": "in"
     },
@@ -4502,9 +4502,9 @@
     "compareAtPrice": null,
     "condition": "Antique, Good Condition, Functioning",
     "dimensions": {
-      "w": 19.0,
-      "d": 9.0,
-      "h": 95.0,
+      "w": 19,
+      "d": 9,
+      "h": 95,
       "unit": "in"
     },
     "description": "A French 19th century 'comtoise' banjo-form clock made in Toulouse, painted to resemble mahogany and fitted with a servant's ring that chimes twice. Fully functioning after two decades gracing a French hallway.",
@@ -4537,8 +4537,8 @@
     "condition": "Antique, Good Condition, Original Finish",
     "dimensions": {
       "w": 42.25,
-      "d": 21.0,
-      "h": 93.0,
+      "d": 21,
+      "h": 93,
       "unit": "in"
     },
     "description": "A handsome American Empire secretary in book-matched Cuban mahogany, late 19th century, retaining its original finish and velvet writing surfaces. A multi-purpose heirloom piece with a depth of color today's furniture can't replicate.",
@@ -4570,9 +4570,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Good Condition",
     "dimensions": {
-      "w": 24.0,
-      "d": 24.0,
-      "h": 22.0,
+      "w": 24,
+      "d": 24,
+      "h": 22,
       "unit": "in"
     },
     "description": "A glamorous pair of Hollywood Regency glass and gilt side tables, 1960s, oversized and finished in chic gold leaf. Originally purchased new in 1969 for a Virginia beach estate - pure vintage glamour.",
@@ -4604,9 +4604,9 @@
     "compareAtPrice": null,
     "condition": "Vintage, Newly Upholstered",
     "dimensions": {
-      "w": 28.0,
-      "d": 28.0,
-      "h": 30.0,
+      "w": 28,
+      "d": 28,
+      "h": 30,
       "unit": "in"
     },
     "description": "A pair of iconic Michael Taylor for Baker Furniture screen-back slipper chairs, prized for their clean architectural lines and Mid-Century Modern sophistication. Freshly upholstered in a soft neutral fabric, true American design heritage.",
@@ -4640,7 +4640,7 @@
     "dimensions": {
       "w": 6.75,
       "d": 6.75,
-      "h": 32.0,
+      "h": 32,
       "unit": "in"
     },
     "description": "A hand-carved wooden chain lamp with an industrial-chic, sculptural silhouette, its links intricately carved by hand from solid wood. A one-of-a-kind conversation piece for a study or den.",
