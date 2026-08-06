@@ -12,7 +12,8 @@
     "lighting": 2
   },
   "searches": {
-    "lamp": 1
+    "lamp": 1,
+    "buffet": 1
   },
   "conversions": []
 }
