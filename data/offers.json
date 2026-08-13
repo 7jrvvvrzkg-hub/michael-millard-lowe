@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "offer-1786637276706-7539",
+    "listingId": "old-paris-medici-vases-a-pair",
+    "listingTitle": "Old Paris Medici Vases - a Pair",
+    "name": "oliver sherwin",
+    "email": "oliver@thesherwinfamily.com",
+    "phone": "7574695839",
+    "amount": 100,
+    "message": "please",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-13T16:07:56.706Z"
+  }
+]
