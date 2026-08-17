@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "offer-1786990612335-6081",
+    "listingId": "edwardian-hand-carved-marble-pedestals",
+    "listingTitle": "Edwardian Hand Carved Marble Pedestals",
+    "name": "oliver sherwin",
+    "email": "oliver@thesherwinfamily.com",
+    "phone": "7574695839",
+    "amount": 4000,
+    "message": "3000",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-17T18:16:52.335Z"
+  },
+  {
+    "id": "offer-1786990583167-3980",
+    "listingId": "louis-xv-style-chair",
+    "listingTitle": "Louis XV Style Chair",
+    "name": "oliver sherwin",
+    "email": "oliver@thesherwinfamily.com",
+    "phone": "7574695839",
+    "amount": 2000,
+    "message": "hello",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-17T18:16:23.167Z"
+  },
+  {
+    "id": "offer-1786990493075-3718",
+    "listingId": "louis-xvi-style-buffet",
+    "listingTitle": "Louis XVi Style Buffet",
+    "name": "oliver sherwin",
+    "email": "shykxxtty@gmail.com",
+    "phone": "7574695839",
+    "amount": 300,
+    "message": "oliver",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-17T18:14:53.075Z"
+  },
+  {
+    "id": "offer-1786990480704-6954",
+    "listingId": "french-regency-period-armoire",
+    "listingTitle": "French Regency Period Armoire",
+    "name": "oliver sherwin",
+    "email": "oliver@thesherwinfamily.com",
+    "phone": "7574695839",
+    "amount": 5000,
+    "message": "great",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-17T18:14:40.704Z"
+  }
+]
