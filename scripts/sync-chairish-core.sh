@@ -1,23 +1,10 @@
 #!/bin/bash
-# ---------------------------------------------------------------------------
-# Shared Chairish-sync logic - not meant to be double-clicked directly.
-# ---------------------------------------------------------------------------
-# Used by both sync-double-click.command (runs this in a visible Terminal
-# window, then waits for a keypress) and Sync From Chairish.app (runs this
-# invisibly and shows the output in a dialog box instead). Because it can
-# be run non-interactively by the app, this file itself never waits for a
-# keypress and always finishes on its own.
-#
-# The two checks below turn the most common setup problems into a plain
-# one-line explanation instead of a raw "command not found" or a wall of
-# git internals - those are exactly what shows up if Node.js isn't
-# installed yet, or if this folder is an unzipped copy rather than a real
-# `git clone` of the project.
-
 cd "$(dirname "$0")/.." || {
   echo "Could not find the project folder - don't move this file out of the scripts/ folder."
   exit 1
 }
+
+export PATH="/usr/local/bin:/opt/homebrew/bin:$PATH"
 
 echo "Michael Millard-Lowe Antiques - Chairish Sync"
 echo "=============================================="

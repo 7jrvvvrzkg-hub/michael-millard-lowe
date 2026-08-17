@@ -18,6 +18,13 @@ fi
 
 output="$(bash "$CORE" 2>&1)"
 
+# The colorful ✓/↻/! report is designed for a real Terminal window, which
+# understands the color codes it prints. This dialog box can't render
+# those, so strip them out first - otherwise they show up as garbled
+# "[32m" style text instead of just being invisible.
+esc=$'\x1b'
+output=$(printf '%s' "$output" | sed "s/${esc}\[[0-9;]*m//g")
+
 # Escape backslashes and double quotes so the captured output can be
 # safely embedded inside an AppleScript string literal.
 escaped=$(printf '%s' "$output" | sed 's/\\/\\\\/g; s/"/\\"/g')
