@@ -25,6 +25,18 @@ export default function OfferActions({ offer }) {
     }
   }
 
+  async function handleDelete() {
+    if (!confirm(`Delete this offer from ${offer.name}? This can't be undone.`)) return;
+    setLoading(true);
+    const res = await fetch(`/api/admin/offers/${offer.id}`, { method: "DELETE" });
+    setLoading(false);
+    if (res.ok) {
+      router.refresh();
+    } else {
+      alert("Couldn't delete that offer. Try again.");
+    }
+  }
+
   if (countering) {
     return (
       <div className="flex items-center gap-2">
@@ -76,6 +88,13 @@ export default function OfferActions({ offer }) {
         className="text-xs font-semibold text-red-600 hover:text-red-700 disabled:opacity-50"
       >
         Decline
+      </button>
+      <button
+        onClick={handleDelete}
+        disabled={loading}
+        className="text-xs font-semibold text-espresso-400 hover:text-red-700 disabled:opacity-50"
+      >
+        Delete
       </button>
     </div>
   );

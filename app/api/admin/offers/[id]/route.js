@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { cookies } from "next/headers";
 import { isAuthed } from "@/lib/auth";
-import { updateOfferStatus } from "@/lib/admin-offers";
+import { updateOfferStatus, deleteOffer } from "@/lib/admin-offers";
 
 export const runtime = "nodejs";
 
@@ -16,6 +16,18 @@ export async function PUT(request, { params }) {
   try {
     const offer = await updateOfferStatus(params.id, body);
     return NextResponse.json({ offer });
+  } catch (err) {
+    return NextResponse.json({ error: err.message }, { status: 500 });
+  }
+}
+
+export async function DELETE(request, { params }) {
+  if (!isAuthed(cookies())) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  try {
+    await deleteOffer(params.id);
+    return NextResponse.json({ ok: true });
   } catch (err) {
     return NextResponse.json({ error: err.message }, { status: 500 });
   }
