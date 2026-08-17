@@ -1,5 +1,19 @@
 [
   {
+    "id": "offer-1786990612335-6081",
+    "listingId": "edwardian-hand-carved-marble-pedestals",
+    "listingTitle": "Edwardian Hand Carved Marble Pedestals",
+    "name": "oliver sherwin",
+    "email": "oliver@thesherwinfamily.com",
+    "phone": "7574695839",
+    "amount": 4000,
+    "message": "3000",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-17T18:16:52.335Z"
+  },
+  {
     "id": "offer-1786990583167-3980",
     "listingId": "louis-xv-style-chair",
     "listingTitle": "Louis XV Style Chair",
