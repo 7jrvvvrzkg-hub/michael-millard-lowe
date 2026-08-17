@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "offer-1786986150824-7511",
+    "listingId": "old-paris-medici-vases-a-pair",
+    "listingTitle": "Old Paris Medici Vases - a Pair",
+    "name": "oliver sherwin",
+    "email": "shykxxtty@gmail.com",
+    "phone": "7574695839",
+    "amount": 800,
+    "message": "can yoy please give for this",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-17T17:02:30.824Z"
+  },
+  {
+    "id": "offer-1786985951997-8043",
+    "listingId": "louis-xvi-style-buffet",
+    "listingTitle": "Louis XVi Style Buffet",
+    "name": "oliver",
+    "email": "oliver@thesherwinfamily.com",
+    "phone": "7574695839",
+    "amount": 200,
+    "message": "yes",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-08-17T16:59:11.997Z"
+  }
+]

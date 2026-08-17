@@ -5,7 +5,6 @@ import { isAuthed } from "@/lib/auth";
 import { listAllForAdmin } from "@/lib/admin-listings";
 import { listAllOffers } from "@/lib/admin-offers";
 import LogoutButton from "@/components/admin/LogoutButton";
-import SyncChairishButton from "@/components/admin/SyncChairishButton";
 import ListingsExplorer from "@/components/admin/ListingsExplorer";
 
 export const dynamic = "force-dynamic";
@@ -54,12 +53,6 @@ export default async function AdminDashboard() {
             Preview Newsletter
           </Link>
           <Link
-            href="/admin/analytics"
-            className="rounded-full border border-espresso-900/20 px-4 py-1.5 text-xs font-semibold uppercase tracking-wide text-espresso-800 transition-colors hover:bg-espresso-950 hover:text-parchment-50"
-          >
-            Analytics
-          </Link>
-          <Link
             href="/admin/offers"
             className="relative rounded-full border border-espresso-900/20 px-4 py-1.5 text-xs font-semibold uppercase tracking-wide text-espresso-800 transition-colors hover:bg-espresso-950 hover:text-parchment-50"
           >
@@ -70,7 +63,6 @@ export default async function AdminDashboard() {
               </span>
             )}
           </Link>
-          <SyncChairishButton />
           <Link
             href="/admin/new"
             className="rounded-full bg-espresso-950 px-5 py-2.5 text-sm font-semibold text-parchment-50 shadow-card transition-transform hover:-translate-y-0.5 hover:shadow-cardHover"
