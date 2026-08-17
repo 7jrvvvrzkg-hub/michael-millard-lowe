@@ -22,7 +22,7 @@
     "phone": "7574695839",
     "amount": 200,
     "message": "yes",
-    "status": "accepted",
+    "status": "declined",
     "counterAmount": null,
     "counterNote": "",
     "createdAt": "2026-08-17T16:59:11.997Z"
