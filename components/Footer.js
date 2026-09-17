@@ -106,7 +106,16 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-parchment-100/10 py-5 text-center text-xs text-parchment-100/40">
-        &copy; {new Date().getFullYear()} {BUSINESS.name}. All rights reserved.
+        &copy; {new Date().getFullYear()} {BUSINESS.name}. All rights reserved. Made by{" "}
+        <a
+          href="https://bownode.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-clay-400"
+        >
+          Bownode LLC
+        </a>
+        .
       </div>
     </footer>
   );
