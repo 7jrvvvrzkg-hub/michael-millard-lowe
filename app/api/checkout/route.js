@@ -47,7 +47,7 @@ export async function POST(request) {
     );
   }
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+  const siteUrl = process.env.SITE_URL || "http://localhost:3000";
   const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
   // Stripe requires product_data.images to be full absolute http(s) URLs -
