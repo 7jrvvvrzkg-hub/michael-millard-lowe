@@ -2,7 +2,7 @@ import { getAllListings } from "@/lib/listings";
 import { CATEGORIES } from "@/lib/constants";
 
 export default function sitemap() {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+  const siteUrl = process.env.SITE_URL || "http://localhost:3000";
   const listings = getAllListings();
 
   const staticRoutes = [
