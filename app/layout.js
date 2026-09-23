@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import NewsletterSignup from "@/components/NewsletterSignup";
 import { BUSINESS, HOURS_SCHEMA } from "@/lib/constants";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+const siteUrl = process.env.SITE_URL || "http://localhost:3000";
 
 export const metadata = {
   metadataBase: new URL(siteUrl),
