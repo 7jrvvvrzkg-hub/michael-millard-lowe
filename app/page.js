@@ -18,7 +18,7 @@ export default function HomePage() {
       {/* The hero's showcase photo is the shop's own storefront window shot
           (not a dynamic listing image) - the owner specifically asked for
           this to replace whatever listing photo used to show here. */}
-      <Hero heroImage="/shop-window.webp" />
+      <Hero heroImage="/michael-portrait.webp" />
 
       <StorySection />
 
