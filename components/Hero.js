@@ -12,7 +12,7 @@ export default function Hero({ heroImage }) {
       <div className="absolute inset-0" aria-hidden="true">
         <Image
           src="/shop-interior.webp"
-          alt=""
+          alt="Michael Millard-Lowe among antiques in the shop"
           fill
           priority
           className="scale-110 object-cover object-center blur-2xl"
