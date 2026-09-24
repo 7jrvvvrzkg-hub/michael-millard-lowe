@@ -1,5 +1,19 @@
 [
   {
+    "id": "offer-1790210964248-6403",
+    "listingId": "louis-xvi-style-buffet",
+    "listingTitle": "Louis XVi Style Buffet",
+    "name": "wert",
+    "email": "michael@millard-lowe.com",
+    "phone": "7574684388",
+    "amount": 4000,
+    "message": "sdfgsdf",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-09-24T00:49:24.248Z"
+  },
+  {
     "id": "offer-1790209929522-7265",
     "listingId": "louis-xvi-style-buffet",
     "listingTitle": "Louis XVi Style Buffet",
