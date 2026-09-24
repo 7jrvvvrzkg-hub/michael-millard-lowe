@@ -31,7 +31,7 @@
     "maitland-smith-style-bronze-monkey-table": 3,
     "italian-venetian-gilt-settee": 3,
     "french-choisy-le-roi-asparagus-server": 3,
-    "glass-column-candlesticks-pair": 3,
+    "glass-column-candlesticks-pair": 4,
     "industrial-lamps-a-pair": 3,
     "19th-century-french-bronze-pricket-lamps-pair": 3,
     "napoleon-iii-bronze-andirons-pair": 3,
@@ -138,7 +138,7 @@
   "categoryViews": {
     "decor": 153,
     "furniture": 154,
-    "lighting": 49,
+    "lighting": 50,
     "art-mirrors": 25
   },
   "searches": {
