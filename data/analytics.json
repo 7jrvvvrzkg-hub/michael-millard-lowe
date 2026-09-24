@@ -126,7 +126,7 @@
     "american-fancy-spindle-chair": 1,
     "louis-xv-style-oak-buffet": 1,
     "louis-xvi-style-arm-chair": 1,
-    "french-terra-cotta-console": 1,
+    "french-terra-cotta-console": 2,
     "napoleon-iii-walnut-table": 1,
     "vintage-copper-weather-vane": 1,
     "gilded-wood-lamps-a-pair": 1,
@@ -137,7 +137,7 @@
   },
   "categoryViews": {
     "decor": 100,
-    "furniture": 102,
+    "furniture": 103,
     "lighting": 34,
     "art-mirrors": 13
   },
