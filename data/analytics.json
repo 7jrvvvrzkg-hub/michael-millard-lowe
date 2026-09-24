@@ -33,7 +33,7 @@
     "french-choisy-le-roi-asparagus-server": 2,
     "glass-column-candlesticks-pair": 2,
     "industrial-lamps-a-pair": 1,
-    "19th-century-french-bronze-pricket-lamps-pair": 1,
+    "19th-century-french-bronze-pricket-lamps-pair": 2,
     "napoleon-iii-bronze-andirons-pair": 2,
     "vintage-wrigley-building-scotty-dog-souvenir": 2,
     "19th-century-mandarin-platter": 2,
@@ -109,7 +109,7 @@
   "categoryViews": {
     "decor": 74,
     "furniture": 67,
-    "lighting": 21,
+    "lighting": 22,
     "art-mirrors": 10
   },
   "searches": {
