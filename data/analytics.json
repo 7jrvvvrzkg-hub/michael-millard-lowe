@@ -65,7 +65,7 @@
     "small-oval-french-faience-dish": 2,
     "19th-century-italian-walnut-chair": 2,
     "charles-x-painted-tole-lamp": 2,
-    "louis-xvi-style-mirror": 2,
+    "louis-xvi-style-mirror": 3,
     "cast-iron-bulldog-bank": 2,
     "french-bronze-empire-clock": 2,
     "pressed-glass-covered-dish": 1,
@@ -139,7 +139,7 @@
     "decor": 140,
     "furniture": 143,
     "lighting": 48,
-    "art-mirrors": 19
+    "art-mirrors": 20
   },
   "searches": {
     "lamp": 1,
