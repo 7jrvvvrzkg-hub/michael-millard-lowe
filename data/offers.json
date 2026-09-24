@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "offer-1790209929522-7265",
+    "listingId": "louis-xvi-style-buffet",
+    "listingTitle": "Louis XVi Style Buffet",
+    "name": "oliver",
+    "email": "oliver.sherwin@icloud.com",
+    "phone": "757345345",
+    "amount": 5000,
+    "message": "sad",
+    "status": "pending",
+    "counterAmount": null,
+    "counterNote": "",
+    "createdAt": "2026-09-24T00:32:09.522Z"
+  }
+]
