@@ -123,7 +123,7 @@
     "maitland-smith-bronze-console": 1,
     "american-baroque-corner-chair": 1,
     "solid-brass-mcm-dining-table": 1,
-    "american-fancy-spindle-chair": 1,
+    "american-fancy-spindle-chair": 2,
     "louis-xv-style-oak-buffet": 1,
     "louis-xvi-style-arm-chair": 1,
     "french-terra-cotta-console": 2,
@@ -137,7 +137,7 @@
   },
   "categoryViews": {
     "decor": 101,
-    "furniture": 103,
+    "furniture": 104,
     "lighting": 34,
     "art-mirrors": 13
   },
