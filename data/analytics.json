@@ -34,7 +34,7 @@
     "glass-column-candlesticks-pair": 3,
     "industrial-lamps-a-pair": 3,
     "19th-century-french-bronze-pricket-lamps-pair": 2,
-    "napoleon-iii-bronze-andirons-pair": 2,
+    "napoleon-iii-bronze-andirons-pair": 3,
     "vintage-wrigley-building-scotty-dog-souvenir": 3,
     "19th-century-mandarin-platter": 2,
     "copper-samovar": 3,
@@ -136,7 +136,7 @@
     "pottery-umbrella-stand": 2
   },
   "categoryViews": {
-    "decor": 132,
+    "decor": 133,
     "furniture": 131,
     "lighting": 43,
     "art-mirrors": 19
