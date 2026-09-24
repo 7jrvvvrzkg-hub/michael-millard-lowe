@@ -47,7 +47,7 @@
     "mid-century-modern-frosted-tulip-lamp": 2,
     "19th-century-breton-region-vaisselier": 2,
     "georgian-style-arm-chair": 3,
-    "louis-xvi-period-mirror": 3,
+    "louis-xvi-period-mirror": 4,
     "japanese-satsuma-lamp": 2,
     "aubusson-tapestry-panels-set-of-4": 2,
     "american-federal-portrait": 2,
@@ -139,7 +139,7 @@
     "decor": 150,
     "furniture": 151,
     "lighting": 49,
-    "art-mirrors": 24
+    "art-mirrors": 25
   },
   "searches": {
     "lamp": 1,
