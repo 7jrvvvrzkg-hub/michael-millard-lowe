@@ -32,7 +32,7 @@
     "italian-venetian-gilt-settee": 2,
     "french-choisy-le-roi-asparagus-server": 2,
     "glass-column-candlesticks-pair": 2,
-    "industrial-lamps-a-pair": 2,
+    "industrial-lamps-a-pair": 3,
     "19th-century-french-bronze-pricket-lamps-pair": 2,
     "napoleon-iii-bronze-andirons-pair": 2,
     "vintage-wrigley-building-scotty-dog-souvenir": 2,
@@ -138,7 +138,7 @@
   "categoryViews": {
     "decor": 99,
     "furniture": 100,
-    "lighting": 32,
+    "lighting": 33,
     "art-mirrors": 13
   },
   "searches": {
