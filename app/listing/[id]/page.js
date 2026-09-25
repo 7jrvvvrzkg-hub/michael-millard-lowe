@@ -109,6 +109,11 @@ export default async function ListingPage({ params }) {
               </span>
             )}
           </div>
+          {listing.price > 0 && (
+            <p className="mt-1 text-xs text-espresso-500">
+              Shipping not included &middot; calculated separately at delivery
+            </p>
+          )}
 
           <div className="mt-6 flex flex-wrap items-start gap-3">
             {listing.status === "sold" ? (
